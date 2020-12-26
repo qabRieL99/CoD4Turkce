@@ -1,0 +1,1329 @@
+Çoklu ekran kartı kullanımı
+Evet
+Çoklu Oyuncu
+Çıkış
+Seçenekler
+Oyun Kaydet/Yükle
+Oyun Yükle
+Yeni Oyun
+Talim
+Devam Et
+Oyuna Dön
+Şu anda oyundasın
+Devam etmek ister misin?
+Zorluk Seviyenizi Seç
+Acemi
+Normal
+Zor
+Kıdemli
+Geri
+Talime başla?
+Çoklu oyuncuya geçilsin mi?
+Hayır
+Oyun listesini kaydet
+Otomatik kayıtları göster
+Elle kayıtları göster
+İsim
+Tarih
+Olarak kaydet:
+Sil
+Yükle
+Kaydet
+Seçilen kayıtlı oyun silinsin mi?
+Varolanın üzerine yazılsın mı?
+Tamam
+Bir dosya ismi belirtmelisin!
+Çıkmak istediğininden emin misin?
+Kontroller
+Bakış...
+Hareket...
+Ateş...
+Save/Interact
+Varsayılan kontroller
+Sistem
+Grafikler...
+Ses...
+Performans
+Sürücü bilgisi
+En uygun sistem ayarları
+Hazırlayanlar
+Varsayılana dön
+Each setting will be restored
+to its default value.
+Emin misin?
+Your controls are now set
+to their original default values.
+Kapat
+Options - System
+Varsayılana don
+Kalite
+Kalite:  Tavsiye edilen
+Video Modu
+Renk derinliği
+Tam ekran
+Geometrik detaylar
+Karekter dokuları
+General Textures
+Doku filtreleri
+Doku kalitesi
+Nvidia Distance Fog
+Parlaklık
+Dil
+Apply Language Change
+Uygula
+Your settings are now set
+Secenekler - Kontroller
+Yukarı bak
+Aşağı bak
+Fare bakışı
+Merkez gorüntü
+Serbest bakış
+Ters fare
+Yumusak fare
+Fare hassasiyeti
+Objeleri/Puanlari göster
+Kullan
+Çabuk kayıt
+Çabuk yükleme
+Ekran görüntüsü
+İleri
+Geribas
+Sola haraket et
+Sağa haraket et
+Sola yat
+Sağa yat
+Dikel
+Çömel
+Yat
+Dikel/Atla
+Eğil
+Toggle Crouch
+Toggle Prone
+Hold Down Crouch
+Hold Down Prone
+Sola dön
+Saga dön
+Strafe
+Wall Marks
+Ejecting Brass
+Dinamik ışıklar
+Low Quality Sky
+Her kareyi senkronize et
+Nvidia fog type
+Saldır
+Nişan al
+Bıçakla
+ŞarjÖr değiştir
+Toggle Semi-Automatic 
+İlk silahı seç
+Diğer silahı seç
+Tabancayı seç
+Bombayı seç
+Diğer silah
+Önceki silah
+Son kullanılan silah
+Efek sesleri
+Müzik sesi
+Ses kalitesi
+Mikrofon ayarları
+This will apply sound
+settings and return
+Ana menüye dön.
+Dikkat
+Hata
+This will apply video
+Tekrar başla
+Load Last Save
+Ana menü
+Göreve başlamak için tıklayın
+Next Level
+This will set
+recommended video settings
+and return to the Main Menu.
+Join an Internet Game
+Join a LAN Game
+Disconnect
+Start New Server
+Multiplayer Options...
+Mods
+Mods:
+Single Player
+Click for Auto-Update
+Switch to Single Player?
+Download Auto-Update Patch?
+Version Installed:
+Version Available:
+CD KEY
+Enter your encryption key in the field below.
+Key:
+Cancel
+Verify
+New Favorite
+Name: 
+IP Address: 
+Filter Servers
+View Empty:
+View Full:
+Friendly Fire:  
+Show Max Lives:
+Show Tourney:
+Type:
+Server Name
+Map Name
+#Players
+Ping
+Get New List
+Refresh List
+Password
+Add To Favorites
+Del. Favorite
+Server Info
+Find Friend
+Accept
+Connection Type:
+Launch
+Çalıştırmak istediğiniz MOD u yazın
+Join Server
+Create Server
+Enter CD-Key
+Show Scores:
+Chat
+Team Chat
+Quick Chat
+Show Compass:
+Team Overlay:
+Chat Icon Time:
+Net Data Rate:
+Player Name
+Refresh
+Devam
+Yuksek kalite
+Fast
+Fastest
+Custom
+Etkilesim...
+Varsayilan ayarlara don...
+Stand/Jump
+Go to Crouch
+Go to Prone
+Load selected game?
+Delete selected favorite from list?
+Change Rate of Fire
+Draw HUD
+Draw Crosshair
+Quick Refresh
+World Dynamic Light Quality
+Kan gosterilsin
+This will apply the
+language change and return
+640*480
+800*600
+1024*768
+1152*864
+1280*1024
+1600*1200
+2048*1536
+Düşük
+Yüksek
+Müthiş
+Bilinear
+Trilinear
+Anizotropik
+Default
+16 bit
+32 bit
+English
+French
+German
+Italian
+Spanish
+British
+Russian
+Korean
+Taiwanese
+Japanese
+Chinese
+Thai
+Açık
+Kapalı
+Herşey
+Sadece modelleri
+Hiç biri
+Nicest
+NV Radial
+NV Plane
+11khz (Düşük kalite, En az bellek)
+22khz (Normal kalite, Orta seviye bellek)
+44khz (Yüksek kalite, En çok bellek)
+Windows Varsayılan
+Mono
+Stereo
+4 Speaker
+5.1 Speaker
+Oyun modu ayarları
+Server Settings
+Oyun modu:  
+Server Name:  
+Dedicated:  
+Pure:  
+Maximum Players:  
+Minimum Ping:  
+Maximum Ping:  
+Maximum Rate:  
+Password:  
+Her ikisi
+<=28.8k
+33.6k
+56k
+ISDN
+LAN/Cable/DSL
+Score Limit (player points):  
+Score Limit (team points):  
+Time Limit (minutes):  
+Force Respawning:  
+Friendly Indicators:  
+Carrier Indicator:  
+Grace Period (seconds):  
+Round Length (minutes):  
+Round Limit (rounds):  
+Go to single player Call of Duty?
+to the game.
+Ceset sayısı
+İnce
+Küçük
+Büyük
+Devasa
+Settings will be applied
+next time the game
+is started.
+Join
+All current progress will be lost.
+Play Demo Level
+Konsolu aktif et
+Alt yazılar
+LOD:  
+Aggressive
+Join a Game
+Oyuna devam et?
+Connection
+Type
+Reset to
+to its optimal value.
+Tekrar başla?
+Başla
+LAN
+Internet
+Detay seviyesi:  
+Add selected server to favorites?
+Etki
+Shared
+Killcam:  
+Allow Voting:  
+Auto-Update
+Allow Sniper Rifles:  
+Allow Panzerfausts:  
+Allow FG42s:  
+With Password:
+Without Password:
+Pure Servers only:
+Friendly Fire:
+Killcam:
+All
+Ana ses
+Oyun sesi
+Model Detaylari
+Minimum
+Sınırsız
+Maksimum
+Polish
+Güvenli
+Güvenli mod
+Dedicated Only:
+Auto-Balance Teams:  
+Allow Enemy Spectating:  
+Allow Free Spectating:  
+Allow Downloading
+Press START button
+Play Toujane
+Split Screen
+Oyuna başla
+Join Game
+Cycle Items:  
+Kullan:  
+Nefesini tut
+Melee/Hold Breath
+Sesli haberleşme...
+Record Level
+Level Adjust
+Level Indicator
+Multiplayer Options
+Ses
+Voice Chat
+Voice Chat:
+Campaign
+Hassasiyet
+Çok yuksek
+Look Inversion
+Aktive edildi
+Aktive edildi(Varsayılan)
+Etkisiz
+Etkisiz (Varsayılan)
+Vibration
+Stick Layout
+Classic
+Lefty
+Finest Hour
+Diver
+Button Layout
+Southpaw
+Legacy
+Legacy Southpaw
+System Link
+Create Game
+Soviets
+Americans
+Select Next Mission
+1941
+1942
+1943
+1944
+1945
+Completed
+Locked
+Unlock
+Reset
+Load Mission?
+Status:
+Not Started
+In Progress
+Completed Greenhorn
+Completed Regular
+Completed Hardened
+Completed Veteran
+Görüntü oranı
+Doku Çözünürlüğü
+Normal harita Çözünürlüğü
+Yansıtıcı harita Çözünürlüğü
+Very Low
+Otomatik
+Standard 4:3
+Wide 16:9
+Wide 16:10
+Menu couldn't be found!
+Stance Up/Jump
+Use/Reload
+Switch Weapon
+Throw Grenade
+Change Grenade Type
+Aim Down Sight
+Fire Weapon
+Objectives/Menu
+Change Difficulty
+Right
+Move Forward
+Rotate Left/Right
+Move Back
+Strafe Left/Right
+Waiting for &&1 more players
+Waiting for more players
+Match beginning in:
+Xbox LIVE
+Xbox LIVE Lobby
+Quick Match: Standard
+Play a Quick Match which will not affect your Rank
+Quick Match: Ranked
+Play a Quick Match which will affect your Rank
+Custom Match: Standard
+Play a Custom Match which will not affect your Rank
+Custom Match: Ranked
+Play a Custom Match which will affect your Rank
+Time Limit
+2 Minutes
+3 Minutes
+4 Minutes
+4 Minutes (Default)
+5 Minutes
+10 Minutes
+15 Minutes
+15 Minutes (Default)
+30 Minutes
+30 Minutes (Default)
+45 Minutes
+1 Hour
+Score Limit
+5 Points
+5 Points (Default)
+10 Points
+10 Points (Default)
+15 Points
+20 Points
+25 Points
+25 Points (Default)
+30 Points
+50 Points
+50 Points (Default)
+100 Points
+100 Points (Default)
+200 Points
+300 Points
+300 Points (Default)
+400 Points
+400 Points (Default)
+450 Points
+450 Points (Default)
+600 Points
+600 Points (Default)
+800 Points
+1000 Points
+Sign In
+Quick Options
+5 Rounds
+10 Rounds
+15 Rounds
+20 Rounds
+Round Length
+Round Limit
+Players
+Modifiers
+Maps
+Random
+Beltot, France
+Brecourt, France
+Burgundy, France
+Carentan, France
+Northern Caen, France
+Caen, France
+St. Mere Eglise, France
+Matmata, Tunisia
+Toujane, Tunisia
+El Alamein, Egypt
+Leningrad, Russia
+Moscow, Russia
+Stalingrad, Russia
+Villers-Bocage, France
+Game Modes
+A game type will be selected at random.
+Deathmatch
+You are all alone.  Eliminate everyone else.
+Team Deathmatch
+Axis vs. Allies.  Eliminate the enemy team.
+Capture the Flag
+Get the enemy flag while defending your flag.  Touching your flag while holding the enemy flag is a capture.
+Headquarters
+Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it.
+Search and Destroy
+The Allies try to destroy Axis held objectives by planting explosives.  Axis must defuse the explosives if they are planted.
+Custom Match
+Start Game Lobby
+Change Game Type
+Game Setup
+Location:
+Apply Settings?
+Settings will be applied next time
+the game is started.
+Voice chat will be disabled because
+your network settings
+are too low to support voice chat.
+Change Weapon
+Apply Language Settings?
+The Winter War
+Near Moscow, U.S.S.R. - 1941
+Red Army Training
+Learn how to fight for the Motherland.
+Demolition
+Repel the enemy assault and demolish their hardpoint.
+The Battle of El Alamein
+Northern Egypt - 1942
+The Diversionary Raid
+Rush the trenches and raid the enemy supply depot.
+Holding the Line
+Defend a small desert village on the British line south of El Alamein.
+Operation Supercharge
+Assist your tanks in breaking through the Alamein line.
+The End of the Beginning
+Capture the town of El Daba on the Mediterranean coast.
+"Not One Step Backwards!"
+Stalingrad, U.S.S.R. - 1942
+Repairing the Wire
+Repair the severed field phone line and destroy enemy tanks with sticky bombs.
+Railroad Station No. 1
+Infiltrate via the pipeline and retake the trainyard.
+Fortress Stalingrad
+Stalingrad, U.S.S.R. - 1943
+Downtown Assault
+Retake a series of apartment blocks in the city, and then support an attack on the enemy supply depot.
+Stalingrad City Hall
+Fight through the streets to City Hall.
+Comrade Sniper
+Use a sniper rifle to support the defense of City Hall.
+The Tank Squadrons
+Northeastern Libya - 1943
+Crusader Charge
+Engage the superior tanks of the Afrika Korps in the Libyan desert.
+"88 Ridge"
+Outflank and destroy 88mm anti-tank guns on a desert ridge in Libya.
+Rommel's Last Stand
+Central Tunisia - 1943
+Armored Car Escape
+Withdraw from Toujane in a captured armored car.
+Retaking Toujane
+Drive the Afrika Korps out of the town of Toujane.
+Assault on Matmata
+Secure the Matmata route to Tunis, and shoot down enemy planes using an anti-aircraft gun.
+D-Day
+Normandy, France - 1944
+The Battle of Pointe du Hoc
+Locate and destroy the coastal guns and secure the enemy held bunkers.
+Defending the Pointe
+Repel a major counterattack at Pointe du Hoc.
+The Silo
+Capture the village, then snipe enemy mortar teams from the top of the destroyed silo during the counterattack.
+The Battle for Caen
+Prisoners of War
+Reconnoiter the town of Beltot and then obtain a truck to transport wounded Americans.
+The Crossroads
+Secure the crossroads at Anctoville and neutralize a German wireless station.
+"The Tiger"
+Capture the town hall, church, post office, and German field HQ in the town of St. Louet. 
+"The Brigade Box"
+Capture a German field HQ, then repel the enemy counterattacks.
+Hill 400
+Hurtgen Forest, Germany  - 1944
+Bergstein
+Clear the town at the foot of Hill 400, room by room, house by house.
+"Rangers Lead The Way"
+Fight your way to the top and eliminate the German forces holding the hill.
+The Battle for Hill 400
+Repel multiple counterattacks at the top of Hill 400 until friendly forces arrive.
+Crossing the Rhine
+Wallendar, Germany - 1945
+The Crossing Point
+Capture the German town of Wallendar and secure a crossing point on the Rhine River for the Allies.
+Select Level
+Binoculars
+Öleceksin.
+Skilled
+You will crush the German
+Çatışmalardaki yetenekleriniz
+Yetenekleriniz zorlanacak.
+Autoaim when Aiming Down the Sight
+Difficulty: Regular
+Difficulty: Skilled
+Difficulty: Hardened
+Difficulty: Veteran
+Completed Skilled
+war machine without difficulty.
+test edilecek.
+to the breaking point.
+Bu tür oyunlarda yeni
+olanlar için.
+Bölüm seç
+Corporal Bill Taylor
+Sergeant John Davis
+Commander David Welsh, "Fox Three"
+Private Vasili Ivanovich Koslov
+Weapon Menu
+Dinamik ışık sayısı
+Red
+Imlec aktif
+Crosshair Color
+Force DirectX® 7 Mode
+Manuel
+Mission Select Menu
+Next Mission
+Goreve devam et
+You are not signed in to a current profile. If you do not sign in you will be unable to save your progress. Do you wish to continue?
+Çıkmak istediğinizden emin misin?
+Warning
+Capture Limit:  
+Tekrar başlanılsın?
+Eğer tekrar başlarsanız, 
+bu görevde yaptığınız ilerlemelerin
+hepsi kaybolacaktır.
+Kaydetmeye devam edilsin?
+Eger kaydetmezseniz, 
+en son kaydettiğiz
+yere geri donerseniz. 
+Crosshair
+Score Limit:
+Time Limit:
+Round Limit:
+Round Length:
+Reflected Damage
+Shared Damage
+Server Information
+Select Save Device
+Re-Select Save Device
+Unable to Write to Default Save Device
+Save Device Selected
+Extra Low
+Retry Save
+Quit Without Saving
+Resume Without Saving
+Find Game
+Scoreboard
+Easy
+Difficulty: Easy
+Completed Easy
+Hileler açıldı
+Host
+Need &&1 players to be ready
+Need 1 more player to be ready
+The match is about to begin
+Searching for available games
+Yumuşak duman kenarları
+World Only
+TM
+®
+Player Select
+Yeni
+Yeni Oyuncu İsmi
+Secili profili sil?
+Ayni isimde bir profil mevcut
+There are no free profile slots.
+
+Remove an old profile first.
+Profile creation failed.
+
+Make sure the disk isn't full and
+that you have file write privileges.
+
+Profile deletion failed.
+
+There may be some read-only files,
+or you may not have file write privileges.
+
+Sis bombası at
+El bombası at
+Yükleniyor...
+Connection:  
+Ranking:
+If you quit now, you will lose 
+Oyundan Çık?
+Return to game
+Find Ranked Game
+Find Standard Game
+Find an unranked match in which you can invite friends.
+Find a ranked match for competitive play. Friends can not be invited to ranked matches.
+Select the game type to play.
+Hileler
+Melee/Steady Sniper Rifle
+Steady Sniper Rifle
+Oyun seçenekleri...
+Create Player Profile
+Anti-aliasing
+2x
+4x
+Çift ekran kartı
+Click to Continue
+You need a player profile to play Call of Duty 4.
+Profil seç
+Key Code
+Enter Key Code
+Enter your key code in the field below.
+11KHZ (Düşük)
+22KHZ (Normal)
+44KHZ (Yüksek)
+Cannot switch player profiles while in game.
+Quit Current Game?
+Can't change settings while dead
+Loading a level will cause you to lose your progress in a level you have not yet completed.
+The British campaign has been unlocked in the Mission Select Menu.
+The American campaign has been unlocked in the Mission Select Menu.
+You have completed the British campaign.
+You have completed the Russian campaign.
+You have completed the Russian campaign. The American campaign has been unlocked in the Mission Select Menu.
+Congratulations
+Find Standard Match
+Find Ranked Match
+Can not change settings
+while running a server.
+Gölgeler
+Ekran yenileme aralığı
+Ekstralar
+Çömel/Yat
+Atla
+Shader Versiyon
+DirectX® 7
+DirectX® 9
+"En Uygun Sistem Ayarlarını" kullanmanızı tavsiye ediyoruz. Ayarları manuel olarak değiştirmek düşük performans sebebi olabilir.
+Changing difficulty will restart the current level.
+Play for fun with people who share similar profiles.
+Play competitive matches to improve your TrueSkillrankings.
+Get into a game quickly. Game settings are chosen randomly.
+Find a session with the game settings you specify.
+Select Game Type
+Select Match Type
+Player Match
+Ranked Match
+Quick Match
+Spectator Mode
+Game experience may change during online play.
+Set Location Preferences
+Set your preferences for what locations you like to play
+Doku ayarlari...
+Arsenal
+Appearance
+Stats
+Challenges
+&&1/&&2 PLAYERS
+Waiting for 1 more player
+Private Match
+Create Party
+CQB Test
+Bunker
+Aftermath
+Chechnya Escape
+Marksman
+Seaknight Defend
+Wetwork
+Cargoship
+Bog
+Training
+AC130
+Auto-aim
+Save Device
+1st pass
+100% initial geo
+40% initial geo
+25% scripted
+Prototype Level, 30% scripted
+10% scripted
+35% initial geo
+5% scripted
+30%
+Seaknight Assault
+Pilot Cobra
+Initial geo in progress
+Sprint
+Online Stats
+Experimental
+Name your custom game mode
+Name Your custom class
+Ayarlar
+Map
+Game Mode
+Create-a-Mode
+PLACEHOLDER
+PARTY
+Reconnecting to party...
+Kills
+Deaths
+Kill/Death
+Streak
+Wins
+Losses
+Win/Loss
+Hits
+Misses
+Accuracy
+Time Played
+Experience
+Ratio
+&&1 player(s) in &&2's party.
+Aim Assist
+Oyuncu
+Rank
+Getting match quality
+Trying to join potential matches
+Text prohibited due to profanity.
+???
+Applying Changes...
+Making balanced teams
+Waiting for more players to balance teams
+Intermission
+Your online stats have been reset to level 1 by Infinity Ward.
+Level
+Waiting for the host
+Text is blank or contains illegal characters.
+&&1 vote to skip - &&2 needed
+Vote to skip?
+^1Vote passed!^1
+&&1 votes to skip - &&2 needed
+Kaydediliyor...
+Sprint/Hold Breath
+Muharebe...
+Grenade Launcher/Inventory
+My Assault
+My Spec Ops
+My Heavy Gunner
+My Demolitions
+My Sniper
+Doku filtreleme
+Anizotropik Filtreleme
+Çoklu oyuncu kontrölleri...
+LOBBY
+If you accept this invite, you will quit your current game lobby.  Accept invitation?
+If you join another session, you will disband your party.  Disband party?
+Leave Party?
+If you join another session, you will leave your party.  Leave party?
+Leave Party
+SPLIT SCREEN SIGNIN
+SPLIT SCREEN SETUP
+Player 1
+Player 2
+Player 3
+Player 4
+Yansitici harita
+Throw Special Grenade
+Stay In This Party
+Voice Chat:  
+Not Used
+You have collected &&1 piece(s) of enemy intel.
+No save device selected; you will not be able to save your game progress.
+You are now able to save your game progress.
+S.Y.A.
+The Coup
+Blackout
+Charlie Don't Surf
+The Bog
+Hunted
+Death from Above
+War Pig
+Shock and Awe
+Safehouse
+All Ghillied Up
+One Shot, One Kill
+Heat
+The Sins of the Father
+Ultimatum
+All In
+No Fighting in the War Room
+Game Over
+Mile High Club
+Crew Expandable
+Tamamlanan Zorluk Derecesi:
+Yüzbaşı Price'ı ve SAS birliklerini AC-130 uçağı ile koru.
+...
+Başkentteki son Al-Asad kuvvetlerini kuşat.
+Zakhaevin oğluna pusu kur.
+Al-Asad'ı ara.
+Muhbir Nikolai kurtarmak için 'iyi' Ruslarla çalış.
+Zor durumdaki Abrams tankını bulmak için düşman hattını yar.
+Abrams tankına anayola kadar eşlik et.
+Kargo gemisine sız ve 'paketi' bul.
+Darbe olur. Al-Asad yönetimi devralır.
+Nikolai ile Rusya'nın batısında düşürüldünüz, düşman pertolonu kaçırın.
+Bçvş Griggs'i bul. ICBM fırlatma tesisine giden gücü kes.
+Çık şu cehennemden!
+Kargo gemisi operasyonuna hazırlan.
+ICBM fırlatma tesisine gir.
+Kontrol odasına ulaş ve füzeleri durdur.
+Kamufulajla çernobile sız.
+Zakhaev'i vur ve Çernobil'den kaç.
+Al-Asad'ı Azerbaycan'daki saklandığı evde bul.
+Tahliyeyi beklerken köyü savun.
+SEÇENEKLER
+Inventory
+FRIENDS
+Please reconnect your controller.
+Auto-Assign
+Spectator
+End Game
+Primary Attributes
+Accuracy:
+Damage:
+Range:
+Fire Rate:
+Mobility:
+Kill everyone. First player to reach the score limit ends the game, the top 3 players win.
+Kill players on the opposing team. The first team to reach the score limit wins!
+Teams take turns defending and destroying an objective.  
+1 bomb in the center of the map.  Grab it and destroy the enemy objective!
+Capture and hold the designated positions to gain points.
+Get the enemy flag and return it to yours to capture it.
+Capture the headquarters and defend it from the enemy.
+Check how your score stacks up against your friends and the world.
+Leave Game
+Parlaklık...
+Tactical
+Rename
+Varsayılana Dön
+XP Reward:
+Lower Difficulty
+Your current difficulty is Regular. Are you sure you want to lower the difficulty to Easy?
+Your current difficulty is Hardened. Are you sure you want to lower the difficulty to Regular?
+Your current difficulty is Veteran. Are you sure you want to lower the difficulty to Hardened?
+Invite Friends
+GÖREVLER
+Başlangıç
+Bölüm I
+Bölüm II
+Bölüm III
+Bitiş
+Dev. only
+Unable to resume current level because save data is corrupted. Please restart the level from "Mission Select".
+Save Corrupted
+Bu mevcut oyununuzdaki ilerlemenin üzerine yazılacak.  Devam etmek ister misin?
+Eğer devam ederseniz, mevcut oyun ilerlemesinin üzerine yazılamıs olacak.
+DOWNLOADING GAME SETTINGS
+RECONNECTING TO PARTY
+Trade all of your accomplishments for a bit of prestige.
+
+Other players will see your new prestige rank icon in the lobby, leaderboards, and game.
+Do it all again?
+More Info
+Enter Prestige
+Prestige has a price: Everything you've unlocked including weapons, experience and challenges will be reset; you'll have to rank up again to reacquire them.
+
+Only your Leaderboard rankings, clan tag and play lists will be unaffected.
+There's no going back...
+Last Chance...
+You can't earn achievements while cheats are enabled.
+CoD Noir
+Photo-Negative
+Super Contrast
+Ragtime Warfare
+Cluster Bombs
+A Bad Year
+Slow-Mo Ability
+Infinite Ammo
+Find 2 pieces of enemy intel to unlock.
+Find 4 pieces of enemy intel to unlock.
+Find 6 pieces of enemy intel to unlock.
+Find 8 pieces of enemy intel to unlock.
+Find 10 pieces of enemy intel to unlock.
+Find 15 pieces of enemy intel to unlock.
+Find 20 pieces of enemy intel to unlock.
+Find 30 pieces of enemy intel to unlock.
+For that arthouse feel.
+Reprints not available.
+Try combos of this and the other two color cheats for different effects.
+Activates secret protocol Ragtime Warfare.
+Throw a frag grenade and enjoy the show.
+Shoot some enemies, see what happens.
+Melee to turn on/off.
+No reloading, no worries.
+To unlock cheats, you must complete the game at least once in any difficulty.
+This game saves data automatically at certain points. Do not switch off the
+power when the HDD access indicator is flashing.
+READING SAVE DEVICE
+Message of The Day
+Move the slider to adjust the brightness of your screen.
+Only the text in the two lower boxes should be visible.
+Not Visible
+Barely Visible
+Easily Visible
+PARLAKLIK
+KONTROLLER
+STICK LAYOUT
+BUTTON LAYOUT
+SENSITIVITY
+INTEL
+Leave game and party?
+Warning: Leaving the game early will
+forfeit your match bonus and will count
+as a loss.
+Tied &&1 - &&2
+Losing &&1 - &&2
+Winning &&1 - &&2
+This will override your current settings for this class. Would you like proceed?
+DURAKLADI
+Public Playlists
+CHALLENGES
+RANK & CHALLENGES
+CHOOSE MAP
+CHOOSE GAME MODE
+SYSTEM LINK SETUP
+Free for All
+Resume Credits
+Press START button to skip
+Default Flipped
+Lefty Flipped
+Tactical Flipped
+>>>
+SENSITIVITY CUSTOM
+Custom (&&1)
+(Low) &&1
+(Medium) &&1
+(High) &&1
+(Very High) &&1
+(Insane) &&1
+Rank & Challenges
+JOIN SERVER
+LEADERBOARDS
+WINS :: GLOBAL
+WINS :: FRIENDS
+KILLS :: GLOBAL
+KILLS :: FRIENDS
+SCORE :: GLOBAL
+SCORE :: FRIENDS
+ACCURACY :: GLOBAL
+ACCURACY :: FRIENDS
+Cheat Enabled
+Move
+Forward/Back
+Look
+Up/Down
+Seç başla
+Bütün bölüm
+Tek bölüm
+Seç başla turunu seçin
+Seç başla modunu açmak için oyunu bitirin
+Seçtiğin zorluk derecesi tavsiye edilmez. Devam etmek ister misin?
+Zorluk Derecesi Seçin
+Eğer Çıkarsanız, su anki ilerlemeniz kayıp olacak.
+Bu oyunda &&1 of &&2 sayıda düşman bilgisayarı buldunuz.
+En iyi Seç Başla Puanı: &&1
+Ses Seviyesi
+Oyunu hızlıca oynayarak puanlar 
+kazanmaya çalışın. En iyi puan: &&1
+Seçtiğiniz bir görevde en yüksek puanı
+yapmaya calısıne.
+Puan
+Hilelere oyun ici duraklama menüsünden erişilebilinir.
+Sec Başla modu ise ana menüde yer alıyor.
+Tebrikler!
+Seç Başla Modunu ve Hileleri açtınız.
+TIME TRIAL :: GLOBAL
+TIME TRIAL :: FRIENDS
+ARCADE :: GLOBAL
+ARCADE :: FRIENDS
+Time Trial
+Tekrar dene
+Kuruyuk gemisi talimine tekrar başla.
+Player Match Playlists
+Alan derinliği
+Kor 
+Sound EQ Filter
+Mermi etkisi
+Doldurma
+Until match begins.
+Su detayları
+Gece Görüşü
+Durumunu değiştir
+Sprint/Steady Sniper Rifle
+Hava Desteği
+Ekipman
+This will restore all system settings to default, are you sure?
+Each setting will be restored to its default value, are you sure?
+Your control settings have been reset.
+Lanuch without Mods
+Tied with &&1 of &&2 points.
+Losing with &&1 of &&2 points.
+Winning with &&1 of &&2 points.
+100%
+
+Can't voice chat as a spectator.
+SPECTATOR
+Your complaint has been filed
+Complaint dismissed
+Server Host cannot be complained against
+You were team-killed by the Server Host
+File complaint against &&1 for team-killing?
+Press '&&1' for YES, or '&&2' for No
+VOTE
+YES
+NO
+SPECTATING
+You killed &&1
+TEAMMATE
+unknown
+Paused
+renamed to
+Connection Interrupted
+&&1
+Spectators
+Score
+for
+died
+melee
+suicide
+falling
+crush
+drown
+slime
+Waiting for server to load new map
+head shot
+Prone Blocked
+Can't Go Prone With This Weapon
+Health
+Listen Server
+This weapon has no alternate mode to switch to.
+Killed by &&1
+Saving...
+Kaydet ve Çık
+If you save now, you will lose any progress 
+since your last checkpoint. 
+
+Continue saving?
+If you restart now, you will lose 
+any progress that you have made 
+in this mission
+
+Continue restart?
+Would you like to save your game progress?
+Assists
+Hedef altta
+Hedef üstte
+- Press^3 &&1 to follow next player
+- Press^3 &&1 to follow previous player
+- Press^3 &&1 to stop following
+Zıplamak için^3 &&1 to basın
+Press^3 &&1 to stand
+Press^3 &&1 to crouch
+Press^3 &&1 to go prone
+Şu silahla değiştirmek için^3 &&1  tuşuna bas:
+Yandaki hareketi yapmak için^3 &&1 tuşuna bas:
+Sabit durmak için^3 &&1 tuşuna bas.
+Press USE^3 &&1 to use the Flak 88 gun
+Yandaki silahı almak için^3 &&1 tuşuna basın:
+Fırlatmak için^3&&1
+Press USE^3 &&1 to use the Flak Vierling
+Press USE^3 &&1 to commandeer the .30 cal
+Press USE^3 &&1 to commandeer the MG42
+Press^3 [{+activate}] to skip
+Press^3 [{+activate}] to spawn
+Press^3 [{+activate}] to respawn
+Silahı kullanmak için^3 &&1 tuşuna bas
+Silahı bırakmak için^3 &&1 tuşuna bas
+Hold^3 &&1 to plant explosives  
+Hold^3 &&1 to defuse explosives  
+Press^3 &&1 to use your binoculars to sight distant targets.
+Hold^3 &&1 to turn the base of the tank to line up with the turret.
+Press^3 &&1 to use your binoculars.
+Press^3 ESC to Create a Class and more
+While looking through the binoculars press USE^3 &&1 to call in artillery.
+Çık
+Reload
+LOW AMMO
+Press^3 &&1 to pick up Stopping Power
+Press^3 &&1 to pick up Juggernaut
+Press^3 &&1 to pick up Double Tap
+Press^3 &&1 to pick up Last Stand
+Press^3 &&1 to pick up Martyrdom
+Press^3 &&1 to pick up Sleight of Hand
+Press Fire to set Air Strike location
+Hold^3 [{+activate}] Coward's way out
+Disconnected from server
+An error occurred while reading the stats data. Your stats have been reset.
+Gain XP! You get experience points(XP) for getting kills, completing challenges, and completing matches on Ranked servers.
+Level up! As you gain XP, you earn promotions, unlockables, and new challenges.
+Customize your weapon! You can add a camouflage pattern or attachment to your weapons in Create-a-class.
+Design your own class! Create-a-class lets you choose your weapons and perks, then name the class to your liking.
+Use teamwork! If you damage an enemy but someone else gets the kill, you are awarded assist points.
+Get hardcore.  Hardcore modes remove your hud and make weapons even more deadly.
+Custom games!  Unranked games can play any game mode with custom rules.
+Challenges are rewarding.  Weapon challenges unlock attachments and camouflage patterns for use in Create-a-class.
+Get more XP!  You get extra XP bonuses for completing Challenges, located in Rank and Challenges.
+Listen in... You can hear the enemy team's voice chat with the Eavesdrop perk.
+Be aware... You can spot enemy explosive devices like claymores and C4 with the Bomb Squad perk.
+Take a stand!  Pull out your pistol and make that last ditch effort to get some kills before you die with the Last Stand perk.
+Combine your air support!  Get the radar in combination with an airstrike for a pinpoint accurate carpet bomb.
+Chopper down!  Don't be afraid to fire at enemy choppers with your primary weapon.  It may do less damage than a rocket, but it definitely hurts.
+Find the enemy!  Getting radar shows enemies on your GPS as red dots.  Knowing the enemy position is a big advantage.
+Defend your flags!  In the Domination game mode, holding marked objectives gives your team points.  The more objectives you hold, the more points you get.
+Watch those corners!  Be careful playing Search and Destroy - when you die you don't respawn.
+Escort the bomb!  Protect the bomb carrier in Sabotage.  It takes teamwork to get to the enemy objective.
+Call in radar!  You can earn radar for you and your team by getting 3 kills in a row without dying.
+Call in an airstrike!  Get 5 kills in a row without dying and you can call in an air strike on the position of your choice.
+Call in a chopper!  You can earn helicopter air support by getting 7 kills in a row without dying.
+Back to basics... The Old School game modes don't have classes.  Everyone starts with the same weapons and must pick up new weapons and perks in the level.
+Pick your shots!  When you fire a weapon WITHOUT a silencer, you appear as a red dot on your enemies' compass.
+Get quiet...  Using a silencer doesn't show your shots as a red dot on the enemy compass, but your weapon's range is reduced.
+Stealth technology.  Using the UAV Jammer perk will prevent you from showing as a red dot on the enemy compass.
+Grenades from a rifle mounted grenade launcher need to travel before they are armed.  They do damage if they hit your enemy, but only explode at a distance.
+Create your own game mode!  Start your own server and tweak game mode settings to whatever you like.
+Dominate with teamwork!  Domination flags capture faster with multiple teammates capturing together.
+Use your knife!  Melee the enemy with your knife for a fast and humiliating kill.
+Run faster!  Pressing sprint will allow you to run faster for a short amount of time, but you can't use your weapon.
+Hold your breath!  Hold your breath with scoped weapons for increased accuracy.
+Throw back grenades!  Look for the grenade throwback icon when a grenade is near you.  You can throw back the enemy's grenades.
+Shoot through walls!  Different weapons can fire through many different surfaces with reduced damage.
+Use your inventory!  Items like grenade launchers, RPGs, claymores, and C4 are stored in your inventory.
+Explosive shortcut!  Double tap the use key to detonate thrown C4 while using another weapon.
+You have not chosen a profile yet.
+Komuta: Beyler, Al-Asad'ın nerede olduğuna dair elimizde bir veri var. Birinci tabur yolda.
+Komuta: S.A.S. tarafından elde edilen istihbarata göre Al-Asad'da Rus bir savaş başlığı var. Hızlı olmak önemli. NEST ekipleri olay mahallini konuşlandırdılar.
+Komuta: Force Recon ve Wild Weasel üniteleri hava defansları için tüm teçhizatı aldılar; ama Al-Asad'ın kara kuvvetleri hâlâ ciddi bir tehlike.
+Tğm. Vasquez: Görünüşe göre neyimiz var neyimiz yoksa alıp gidiyoruz. Al-Asad'ı alacağız, bu savaşı bitireceğiz. Hemen şimdi ve hemen burda. Hazırlanın beyler.
+Romeo One-One: ''We're going deep and we're going hard.''
+Charlie One-One: Ciddi olamazsın.
+Romeo One-One: Ciddiyim...ve bana Shirley deme sakın...
+Bçvş. Griggs: Harika, o piçi geberttik.
+Yüzbaşı Price: Yine de, o senin asker arkadaşlarını öldürmekle sorumlu kişi değil. Üzgünüm tertip.
+Gaz: Imran Zakhaev, ah? Adam tam bi' hayalet. İstihbarat onun yer altına girmiş olabileceğini söylüyor.
+Yüzbaşı Price: Onu bulmak için bir planım var.
+Bçvş Griggs: Dinlemedeyim.
+Bçvş. Griggs: Babasının oğlu.
+Yüzbaşı Price: Zakhaev'in oğlu. Aşırı milliyetçilerin kara kuvvetleri kumandanı. Armut dibine düşermiş.
+Yüzbaşı Price: Kamarov'da çocuğun nerede olduğunu biliyor.
+Bçvş. Griggs: Ve küçük serseri Zakhaev'in nerde olduğunu bilecek.
+Gaz: Babalarımızın günahları... 
+Bçvş. Griggs: Biraz sürtükçe değil mi?
+Tğm. Vasquez: Askerler! Gözcüler Al-Asad'ın şehrin sonunda batıda bir binanin içinde olduğunu belirtti.
+Tğm. Vasquez: Çevreyi güvenlik altina alıp Al-Asad'ı yakalayacağız. Anlaşıldı mı? Silahlarınızı hazırlayın!
+Gaz: Yüzbaşı Price, Al-Asad az önce Başbakan Al-Fulani'yi ulusal kanalda infaz etti.
+Yüzbaşı Price: Amerikalıların Al-Asad için planları var. Ve Al-Fulani için bir şey yapmak için artık çok geç. Ama üç saat içinde, kod adı Nikolai Rusya'da infaz edilecek.
+Gaz: Nikolai mi, efendim?
+Yüzbaşı Price: Nikolai, aşırı milliyetçi kamplarındaki muhbirimiz. Kargo gemisi operasyonu onun sayesinde yaptık.
+Yüzbaşı Price: Şu anda düşmanlarin elinde.  Ve onu oradan çıkaracağız...
+Yüzbaşı Price: ...Biz dostlarımıza değer veririz. Gidiyoruz.
+Haber Spikeri: Bugünkü ağır savaştan sonra, Amerikan ordusu baskılarını Al-Asad'ın son direnişini yaptığı şehre yönelttiler...
+Haper Spikeri: Savaş Başkent'te daha da kuvvetlendi. Uçaksavar ateşi ve yanan binalar geceyi aydınlatıyordu.
+Komuta: Anlaşıldı. Tekrar ediyorum: Koordinatlar 52761-9, tamam.
+Tğm. Vasquez: Anlaşıldı, tamam.
+Komuta: Bravo Six, suda batık kalmış bir tankımız var. Çağrı kodu ''War Pig''
+Komuta: Teğmen Vasquez, birliğiniz sağ ön taraf, tamam.
+Tğm. Vasquez: Anlaşıldı. Bravo yolda. ''War Pig''e beklemesini söyleyin. Geliyoruz. Tamam.
+Haber Spikeri: ...Amerikan askerleri Khaled Al-Asad peşinde gece boyunca şehrin ileri noktalarında savaşmaya devam ediyor.
+Haber Spikeri: Tek tük savaşlar görülüyor. Al-Asad kuvvetlerinin hantal askerlerinin büyük bir kısmı Başkanlık sarayına doğru çekiliyor.
+Tğm. Vasquez: Komuta, ben Teğmen Vasquez. War Pig şu anda yolda. Anlaşılan partiyi kaçırmıyoruz...
+Yüzbaşı Price: Bravo takımı, istihbarat Rusya'daki muhbirimizden geldi...
+Yüzbaşı Price: ...Paket orta büyüklükte bir gemide, tescil numarası: 52775...
+Yüzbaşı Price: Gemide az sayıda düşman var...
+Gaz: Çatışmanın kuralları nedir, efendim?
+Yüzbaşı Price: Takım harcanabilir...
+Asker: Araç görünürde.
+Komuta: Takip etmeye devam.
+Gaz: Nikolai bizimle! Onu Hamburg'daki güvenli eve götürüyoruz!
+Gaz: Tahmini varış süresi yedi saat! Tamam!
+Imran Zakhaev: Sözde liderlerimiz bizi batının orospusu yaptı....Kültürümüzü yok ettiler... Ekonomimizi... Onurumuzu.
+Imran Zakhaev: Kanımız topraklarımızda döküldü.
+Imran Zakhaev: Benim kanım...  
+Imran Zakhaev: Onların elinde.
+Imran Zakhaev: Onlar işgalciler.
+Imran Zakhaev: Tüm Amerikan ve İngiliz kuvvetleri Rusya'yı derhal terketmeli...
+Imran Zakhaev: Yoksa sonuçlarına katlanacaklar...
+Yüzbaşı Price: Basit bir şey. Eğer fırlatma tesisini geri alamazsak, dünya yarın tanınmaz hale gelir.
+Yüzbaşı Price: HALO ekibine yeşil ışık. Charlie ekibi gidin.
+Yüzbaşı Price: İkinci grup atlıyor.  Bravo takımı sıkı durun. Gidelim.
+Komuta: Ana geri çekilme noktamız ortaya çıktı. Köprünün güneyindeki ikinci noktaya doğru ilerleyin.
+Komuta: Düşman bolca mevcut.
+Bçvş. Griggs: Burası çok sıcak oğlum ya... hele oda sıcaklığı? Bana şu anda buz gibi bir bira lazım!
+Yüzbaşı Price: Alman birası içebiliriz belki, ya da içtiğin gibi bir bardak su. Ama fondipe var mısın?
+Bçvş. Griggs: Heh, eve döndüğümüzde bunu hepinize ögreteceğim.
+Gaz: Evet, ama her halükarda önce Londra'da duracağız. Ben ısmarlıyorum.
+Bçvş. Griggs: En azından dünyanın sonu değil. Koy götüne rahvan gitsin.
+Gaz: Öncelikle iyi haberler: dünya çok iyi durumda.
+Gaz: Rusya'da devlet yancıları ile aşırı milliyetçi isyancıları arasında geçen sivil bir savaşımız var ve hâlihazırda 15.000 atom bombası.
+Yüzbaşı Price: Ofiste sıradan bir gün daha.
+Gaz: Khaled Al-Asad. Orta Doğu'daki ikinci en güçlü adam. Uzun lafın kısası kendisinin orada en büyük köpek olabilmesi için mineralleri var. İstihbaratımızın gözü onun üstünde.
+Yüzbaşı Price: Kötü haber nedir?
+Gaz: Bugün bize yeni katılan elemeden taze çıkmış bir adamımız var. Adı Soap.
+Gaz: Birinci takım ilerliyor.
+Asker: İkinci takım güvenlik odasına doğru ilerliyor.
+SAS: Üçüncü takım üsse girdi.
+Komuta: Bravo takımı, size bir iyi birde kötü haberim var. Hedefleme kontrolü güneybatınızın yaklaşık olarak yarım kilometre ilerisinde.
+Yüzbaşı Price: Gaz, Yank'larla beraber git ve güvenlik istasyonunu ele geçir. Soap, Griggs ve ben hedefleme kontrolünün olduğu yere gideceğiz.
+Gaz: Anlaşıldı. Komuta, peki kötü haber nedir?
+Komuta: Ah..kötü haber, hâlâ durdurma kodlarını almaya çalışıyoruz.
+Yüzbaşı Price: Lanet olsun. Elimizden geleni yapacağız. Tamam.
+Yüzbaşı Price: Ben 'Teğmen'dim o zamanlar...küçük suikastlar düzenliyordum.
+Yüzbaşı Price: Çernobil. Kötü adamlarin Noeli. On yıl geçtikten sonra bile çoğunluğu ellerine nükleer materyaller geçirebilmek için kullanmaya devam ettiler. Imran Zakhaev de dahil olmak üzere neredeyse hepsi...
+Yüzbaşı Price: Bunun olmasına izin veremezdik tabii ki. Yakıt çubukları için para harcamak mı? Yok etmenin tariflerinden sadece biri.
+Yüzbaşı Price: Bu, İkinci Dünya Savaşı'ndan beri hükümetimiz tarafından izin verilen ilk suikastti... Yüzbaşı MacMillan'in komutası altındaydım...
+Nikolai: Adam tam bir korkak, Yüzbaşı Price. Al-Asad hayatta kendini feda etmez.
+Nikolai: Azerbaycan'da, Al-Asad'ın bir zamanlar kullandığı güvenli bir yer var. Koordinatları yolluyorum.
+Yüzbaşı Price: Anlaşıldı, Nikolai. Gaz, ekibi topla, Azerbaycan'a gidiyoruz.
+Gaz: Emredersiniz efendim, oranın yılın bu zamanlarında çok güzel olduğunu duydum.
+Gaz: Helikopter yarım saat içinde burada olacak, Yüzbaşı Price.
+Yüzbaşı Price: İyi değil. On dakika zor dayanırız.
+Yüzbaşı Price: Zakhaev denilen o, aşırı milliyetçi manyak, kapımıza kadar gelecek, sadece Al-Asad'ı talep etmek için.
+Gaz: Ya da ondan geriye ne kaldıysa.
+Yüzbaşı Price: Pekala. Güney tepesine Alfa hattı boyunca bombaları yerleştireceğiz...
+Yüzbaşı Price: ...ardından Bravo hattına daha fazlasını koyacağız.
+Yüzbaşı Price: Patlayıcılar onları bir süre oyalarken, biz de çiftlik etrafindaki çıkarma noktasını savunacağız. Sorusu olan?
+Gaz: Başlayalım.
+Komuta: Havada olan füzeleri durdurmak için girmeniz gereken kodları orada gireceksiniz yer orası.
+

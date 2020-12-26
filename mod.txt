@@ -1,0 +1,492 @@
+Silahı değiştirmek için [{weapnext}] tuşuna bas.
+You have not been cleared to fire. Mission failed.
+Kiliseye zarar verdin. Görev başarısız.
+Dost birlikleri yok edildi. Görev başarısız.
+Dostlar: &&1
+Çatışma sırasında birçok asker öldü. Görev başarısız.
+Dost ateşine tolerans gösterilmez!
+Dost birlikleri için yanıp sönen ışığa dikkat et!
+Dost bir helikoptere saldırdın!
+Sivil araca saldırdın! Görev başarısız.
+Bir sivili yaraladın! Görev başararısız.
+Aşağıdaki SAS birliklerine AC-130 ile hava desteği sağla.
+'Death From Above'
+2. Gün - 04:20:[{FAKE_INTRO_SECONDS:16}]
+Batı Rusya
+Termal Görüntü Kamerası
+AC-130H Savaş Helikopteri
+Locate commanding officer.
+Find secure overhead cover.
+Saldırı için direnişi oyala.
+Saldırı timine yardım et.
+İniş bölgesine git.
+Mark 19 silahının başına geç
+Düşen Kobra pilotunu kurtar.
+Pilotu helikoptere taşı.
+Birisini taşırken silah kullanamazsın.
+Pilotu kurtar: 
+Görev başarısız. Kobra pilotu öldü.
+'Shock and Awe'
+3. Gün - 18:00:[{FAKE_INTRO_SECONDS:02}]
+Çvş. Paul Jackson
+1st Force Recon Co., U.S.M.C.
+Uçaktan çık: 
+VIP'nin yerini belirle: 
+Rehineyi kurtar: 
+Görev başarısız. Hedef zamanında yapılmadı.
+Görev başarısız. Hedefi zamanında kurtaramadın.
+Rehine öldürüldü.
+VIP'yi güvence altına al.
+Uçaktan çık.
+Düşmanların kontrol noktasının yerini belirle.
+Kontrol noktasına saldırmak için pozisyon al.
+Kontrol noktasını güvenceye al.
+İki saat sonra...
+Zakhaev'in oğlunu kovala ve yakala.
+Düşman konvoyunu pusuya düşür.
+Zakhaev'in oğlunu öldürdün!
+Düşman kafilesi herhangi bir pusuya karşı hazırlıklıydı.
+Zakhaev'in oğlu kaçtı!
+'The Sins of the Father'
+5. Gün - 06:34:[{FAKE_INTRO_SECONDS:24}]
+Güney Rusya
+Çvş. 'Soap' MacTavish
+22. SAS Birliği
+Zakhaev'in oğlu kaçtı! Yanlış yola saptın.
+Zakhaev'in oğlunun silahını al, ve tutukla.
+'Charlie Don't Surf'
+2. Gün - 13:45:[{FAKE_INTRO_SECONDS:4}]
+Flash bombası fırlatmak için [{+smoke}] tuşuna bas.
+Hedef binada bir araya gel.
+Binada Khaled Al-Asad'ı ara.
+Birinci Takım ile buluş.
+TV istasyonuna git.
+İkinci kata çık.
+TV istasyonunda Khaled Al-Asad'ı ara.
+Tırmanmak için &&1 tuşuna bas.
+Nikolai ile birlikte helikoptere git.
+Yoldan keskin nişancı desteği sağla.
+Elektrik santralinde düşman takviye birliklerini durdur.
+Aşağıdaki köye yukardan keskin nişancı desteği sağla.
+Elektirik santralinden iple aşağıya kay.
+Muhbiri kurtar.
+'Blackout'
+2. Gün - 01:31:[{FAKE_INTRO_SECONDS:22}]
+Kafkas Dağları, Rusya
+Çevre birlik noktalarını yok et.
+Kamarov'u elektrik santraline kadar takip et.
+Keskin nişancı desteği sağla.
+Rus devlet yanlıları ile alanda buluş.
+Aşağı kaymak için &&1 tuşuna bas.
+Nikolai öldürüldü!
+'The Bog'
+3. Gün - 05:00:[{FAKE_INTRO_SECONDS:11}]
+Apartmandaki düşman askerlerini yok et.
+Javelin'i al.
+Üstgeçitteki zırhlı araçları yok et.
+Karaya oturmuş M1A2 Abrams tankını güvenceye al.
+Düşman birliklerini tankı ele geçirmeden önce durdur.
+Uçaksavar'ı yok et.
+Bataklığın güney tarafını güvence altına al.
+Pilotların sizi bulabilmesi için sinyal yerleştir.
+Tankın yanında toplanın.
+Tank ele geçirildi ve yok edildi.
+M1A2 Abrams tankına güvenli bölgeye kadar eşlik et.
+Tahliye için iniş bölgesine git.
+'War Pig'
+3. Gün - 16:30:[{FAKE_INTRO_SECONDS:05}]
+T-72 tankının makineli silahına dikkat et.
+'Crew Expendable'
+1. Gün - 01:23:[{FAKE_INTRO_SECONDS:32}]
+Bering Boğazı'nın yakınlarında bir yer
+Paketi güvence altına al.
+Listeyi al.
+Gemiden ayrıl.
+Listeyi almak için &&1 tuşuna bas.
+Press [{+gostand}] to 
+Yeteri kadar hızlı değildin.
+Yanlış yola girdin.
+Nobody makes the first jump...
+Infinity Ward sunar
+Oyun Çeviri ekibi katkılarıyla...
+El bombası atmak için [{+frag}] tuşuna bas.
+Apparently, nobody makes the second jump...
+Zıplayamadın...
+Looks like nobody makes the third jump either...
+Bir cismin arkasına çömelmek için [{+stance}] tuşuna bas.
+Siper almak için [{gocrouch}] tuşuna bas.
+Siper almak için [{togglecrouch}] tuşuna bas.
+Press [{+gostand}] to stand up.
+Press [{+stance}] to stand up.
+Khaled Al-Asad: Bugün bir millet olarak ihanet ve rüşvetçilikle,
+yüzleşiyor ve tekrar yükselişe geçiyoruz! 
+Hepimiz bu adama bizim büyük milletimizi
+yeni bir refah çağına çıkarması için güvendik.
+Ama bu adam, devrimden önceki monarşimiz gibi
+kendi çıkarı için batıyla dolaplar çevirmeye devam etti!
+Gizli anlaşmalar sonucunda kölelik doğurdu! Ama biz köle olmayacağız!
+Gerçek gücümüzü göstermenin zamanı geldi. Onlar bizim azmimizi
+küçümsediler. Haydi onlara onlardan korkmadığımızı gösterelim.
+Serbest bırakmamız gereken insanlar
+yabancı zulmün boyunduruğundaki kardeşlerimizdir.
+Ordularımız güçlü ve davamız yerinde.
+Konuştuğum gibi, ordularımız, büyük milletimizin kurtuluşunu
+yeniden inşa etmek için gerekli olan hedeflerine yaklaşıyorlar.
+Asil savaşımız başladı.
+Onların bizim ülkemizi yakıp yıktıkları gibi biz de onlarınkini yakıp yıkacağız.
+Khaled Al-Asad: İşte böyle başlar.
+ZIED RIEKE
+Çıkarma noktasına ulaş.
+Düşman helikopterini yok etmek için Stinger'ı kullan.
+Helikopterler sadece roketler tarafından hasar alır.
+Yüzbaşı Price'i izle.
+'Hunted'
+2. Gün - 03:02:[{FAKE_INTRO_SECONDS:36}]
+'Ultimatum'
+6. Gün - 06:19:[{FAKE_INTRO_SECONDS:32}]
+Altay Dağları, Rusya
+Griggs'i çözmek için &&1 tuşuna bas.
+Bçvş. Griggs'in yerini belirle.
+Güç aktarımı kulesini yok et.
+2. takım ile birleş.
+Kulenin ayaklarına C4 yerleştir [&&1 kaldı].
+Güvenli bir yere git.
+Bçvş. Griggs'i çöz.
+Kaç!
+Failed to defend.
+'Game Over'
+6. Gün - 08:25:[{FAKE_INTRO_SECONDS:09}]
+Hedeflerini görüntülemek için [{pause}] tuşuna bas.
+Press the START button to check your objectives.
+Hedeflerini görüntülemek için [{+scores}] tuşuna bas.
+Hedef göstergeniz ekranın ortasında.
+Sarı çember pusulanın ortasındayken hedefine yaklaşıyorsun demektir.
+Turn until the yellow circle in your compass tape
+lines up with the white ticks and head in that direction
+to locate your current objective.
+Ateş etmek için [{+attack}] tuşuna bas.
+[{+speed}]'a basılı tutarak nişan al.
+[{toggleads}]'a basılı tutarak nişan al.
+[{+speed_throw}]'a basılı tutarak nişan al.
+[{+toggleads_throw}]'a basılı tutarak nişan al.
+Gezen hedeflere ateş ederken nişan almayı sonlandırmak 
+için [{+speed}] tuşuna bas.
+Gezen hedeflere ateş ederken nişan almayı sonlandırmak 
+için [{toggleads}] tuşuna bas.
+Gezen hedeflere ateş ederken nişan almayı sonlandırmak 
+için [{+speed_throw}] tuşuna bas.
+Gezen hedeflere ateş ederken nişan almayı sonlandırmak 
+için [{+toggleads_throw}] tuşuna bas.
+Nefesinizi tutmak icin [{+melee_breath}] a basiniz.
+Nefesinizi tutmak icin [{+breath_sprint}] a basiniz.
+Nefesinizi tutmak icin [{+breath_binoculars}] a basiniz.
+Karpuzu parçalamak için yanına gidip [{+melee_breath}] tuşuna bas.
+Karpuzu parçalamak için yanına gidip [{+melee}] tuşuna bas.
+Karpuzu parçalamak için yanına gidip  [{+melee_breath}] tuşuna bas.
+Karpuzu parçalamak için yanına gidip  [{+melee}] tuşuna bas.
+Yere yatmak için [{goprone}] tuşuna bas.
+Yere yatmak için [{+prone}] tuşuna bas.
+Yere yatmak için [{toggleprone}] tuşuna bas.
+Yere yatmak için [{+stance}] tuşuna bas.
+Yere yatmak için [{lowerstacnce}] tuşuna bas.
+Çömelmek için [{+stance}] tuşuna bas.
+Çömelmek için [{gocrouch}] tuşuna bas.
+Çömelmek için [{togglecrouch}] tuşuna bas.
+Ayağa kalkmak için [{+gostand}] tuşuna bas.
+Ayağa kalkmak için [{+stance}] tuşuna bas.
+Ayaktayken atlamak için [{+gostand}] tuşuna bas.
+Ayaktayken atlamak için [{+moveup}] tuşuna bas.
+Koşmak için [{+sprint}] tuşuna bas.
+Koşmak için [{+breath_sprint}] tuşuna bas.
+Sürekli koşmak için [{+sprint}] tuşuna basılı tutmak zorunda değilsin.
+Sürekli koşmak için [{+breath_sprint}] tuşuna basılı tutmak zorunda degilsin.
+Şarjör değiştirmek için [{+usereload}] tuşuna bas.
+Şarjör degiştirmek için [{+reload}] tuşuna bas.
+Touch the obstacle and press [{+gostand}] to mantle over it.
+Release and pull [{+speed}] to automatically
+switch to a nearby target.
+Release and pull [{+speed_throw}] to automatically
+switch to a nearby target.
+Release then press and hold [{+speed}] to
+quickly switch to a nearby target.
+Release then press and hold [{+speed_throw}] to
+quickly switch to a nearby target.
+Yedek silahı seçmek için [{weapnext}] tuşuna bas.
+Ana silahı seçmek için [{weapnext}] tuşuna bas.
+Press [{weaponslot primaryb}] to switch to your sidearm.
+Press [{+reload}] to load your sidearm.
+Press [{+usereload}] to load your sidearm.
+Merdivene tırmanmak için yanına gidip ilerle.
+Press [{+frag}] to throw a frag grenade.
+Approach the rifle with the grenade launcher attachment and press and hold [{+activate}].
+Approach the rifle with the grenade launcher attachment and press and hold [{+usereload}].
+Press [{+actionslot 3}] to switch to the grenade launcher attachment.
+Pull and release [{+attack}] to fire a 40mm grenade.
+Approach the explosive charges and press and hold [{+activate}] to pick them up.
+Approach the explosive charges and press and hold [{+usereload}] to pick them up.
+Approach the glowing explosive marker and press [{+activate}] to plant the C4.
+Approach the glowing explosive marker and press [{+usereload}] to plant the C4.
+Carver! Use your sidearm!
+Press and hold &&1 to pick up the C4 explosive.
+You now have a C4 icon on your screen.
+Press [{+actionslot 2}] to equip C4.
+Pull [{+throw}] to throw C4.
+Pull [{+toggleads_throw}] to throw C4.
+Pull [{+speed_throw}] to throw C4.
+Karpuza yaklaş.
+Approach the car.
+Notice that your display changes to show
+you what inventory item you have equipped.
+Pull [{+attack}] to detonate.
+İmleciniz ateş etmenize göre büyür.
+Büyük imleç az isabet demektir.
+Nişan almadan ateş etmek 
+nişan alarak ateş etmekten daha az isabetlidir.
+İpten kaymak için &&1 tuşuna bas.
+Koşmadın.
+Çok yavaştın.
+Süren: 
+Final süren: 
+IW en iyi süresi: 
+Your deck time: 
+IW deck time: 
+Bitirmek için yeterli flash bomban kalmadı.
+İpe tutunamadın.
+Erken atladın.
+You hit a friendly target.
+Flash bombası atmak için [{+smoke}] tuşuna bas.
+İsabet bonusu:+
+Cargoship Bridge
+Cargoship Deck
+İsabet bonusu:+0.0
+When planting C4 is your objective, you will see a glowing
+marker in the world that indicates where to plant it.
+You must aim above your target with grenades.
+You must aim above your target with grenade launchers.
+Reverse your controls
+Switch your controls
+for looking up and down?
+back to how they were?
+Ters fare ayarlarına geçiş yapılsın mı?
+Ayarlar böyle kalsın mı?
+Look up.
+Look down.
+Notice you now have an icon of a grenade launcher on your display.
+You endangered a team mate.
+'S.Y.A'
+1. Gün - 06:30:[{FAKE_INTRO_SECONDS:09}]
+Credenhill, BK
+Use your Objective Indicator to find the firing range.
+Masadan silah al.
+Silahını aldığın yerden tabanca al.
+Karpuzu bıçağınla parçala.
+Go outside and report to Sgt. Newcastle.
+Pick up the rifle with the grenade launcher attachment.
+Pick up the C4 explosive.
+Run the obstacle course.
+Yüzbaşı Price'ı bulabilmek için hedef göstergeni kullan.
+Merdivene tırman.
+Yüzbaşı Price'dan bilgileri al.
+Birinci istasyona gir ve nişan al.
+Hedefleri nişan alarak vur.
+Hedefleri nişan almadan vur.
+Hedefleri vurabildiğin kadar hızlı vur.
+MP5'i ve dört flash bombasını al.
+Gemideki hedefleri temizle.
+Silahların arasında geçiş yap.
+Pick up the frag grenades.
+Enter the safety pit.
+Throw a grenade into windows two, three and four.
+Return to the safety pit and equip the grenade launcher.
+Fire at the wall with the number one on it.
+Plant the C4 explosive at the glowing spot.
+Fire your grenade launcher into windows five, six and seven.
+Hedefi kontraplağın önünden vur.
+Aşağı kay.
+Complete the deck mock-up.
+Önerilen
+zorluk seviyesi:
+Acemi
+Normal
+Zor
+Kıdemli
+İyi Şanslar.
+'All In'
+6. Gün - 07:16:[{FAKE_INTRO_SECONDS:11}]
+Fırlatma tesisine gir.
+Reach the tarmac via the right gate.
+Düşman zırhlılarını yok et.   &&1 kaldı
+Breach the exhaust vents.
+Havalandırma kuyuları açılana kadar ekibini koru.
+Havalandırma kuyusundan aşağı kay.
+Approach the middle vent shaft and rappel down.
+Açılan bir kapıyla geberdin.
+Hedefleme kontrolü odasına geçebilmek için duvara C4 yerleştir.
+Hedefleme kontrolü odasına git.
+Kodları yükle.
+Görev başarısız. Füzeler zamanında durdurulamadı.
+Çarpışmaya: 
+Kodları girmek için &&1 tuşuna basılı tut.
+Yüzbaşı Price'ı takip et.
+'No Fighting In The War Room'
+6 .Gün - 07:35:[{FAKE_INTRO_SECONDS:15}]
+Kodlar yükleniyor...
+&&1 mR/hr
+Çıkarma Bölgesi
+1995
+Pripyat, Ukrayna
+Çernobil Sınırı
+Transporting the Barrett .50 caliber rifle, infiltrate the abandoned city of Pripyat and set up an observation point with a clear line of sight to Reactor 4.
+'All Ghillied Up'
+Tğm. Price
+Yüzbaşı MacMillan'ı takip et.
+Dost ateşine tolerans gösterilmez.
+Yaptığın hareketler Yüzbaşı MacMillian'ın ölümüne sebep oldu.
+15 sene önce
+Sürünmek için [{goprone}] tuşuna bas.
+Sürünmek için [{goprone}] tuşuna basılı tut.
+Press [{toggleprone}] to go prone.
+Press and hold down [{+stance}] to go prone.
+Double tap [{lowerstacnce}] to go prone.
+Yüzbaşı MacMillian'ı geride bıraktın.
+Imran Zakhaev'i ortadan kaldır.
+Saldırı helikopterini vur.
+Otelden ayrıl.
+Tahliye noktasına git.
+Yüzbaşı MacMillan'ı tahliye noktasına kadar takip et.
+MacMillan'ı tahliye noktasına taşı.
+MacMillan'ı dönme dolabın dibine koy.
+Tahliyeye kadar diren.
+Helikopter geliyor.
+MacMillan'ı helikoptere taşı.
+Yüzbaşı MacMillan'i omuzla.
+Mayınları kullanmak için [{+actionslot 4}] tuşuna bas.
+İleri veya geri yaparak zumu ayarla.
+Helikoptere zamanında yetişemedin.
+Yzb. MacMillan'ı yere bırakmak için &&1 tuşuna bas.
+Yzb. MacMillan'ı omuzlamak için &&1 tuşuna bas.
+Gözcünü arkada bıraktın.
+Yüzbaşı MacMillan öldü!
+İpten kaymak için  &&1 tuşuna bas.
+Kalan süre: 
+Tahliye noktasına zamanında yetişemedin.
+Zakhaev zarar almadan kaçtı!
+896.7m
+1.05s
+Mermi ucuş süresi: 
+Hedef: 
+Imran Zakhaev
+Hedefe olan uzaklık: 
+M82 .50 Kalibrelik keskin nişancı tüfeğini kullanmak için &&1 tuşuna bas.
+Yzb. MacMillan'ı Seaknight'a getir
+Regroup with 2nd squad at the obstacle course.
+Bash the dummy at the end of the obstacle course.
+Proceed to the rifle range.
+Get ammunition for your M4 Carbine and load a magazine.
+Enter the fourth firing station and aim down range.
+Hit the four targets.
+Hit four targets in six seconds.
+Proceed to the side arm range.
+Get ammunition at the sidearm range.
+Switch to your sidearm and load it.
+Hit the target five times with your sidarm.
+Proceed to the frag grenade training area.
+Pick up some frag grenades and go to the instructor.
+Throw one frag grenade through each window and one into the dumpster. [&&1 Remaining]
+Throw one frag grenade through each window and one into the dumpster.
+Proceed to the m203 training area.
+Swap your current weapon for a M16A4 with a M203 grenade launcher attachment.
+Hit the wall marked number 1 with the M203 grenade launcher.
+Hit the three remaining targets with the M203 grenade launcher. [&&1 Remaining]
+Hit the three remaining targets with the M203 grenade launcher.
+Pickup an explosive charge.
+Destroy the civilian vehicle with an explosive charge.
+Press [{pause}] to check your objectives.
+Press [{+scores}] to check your objectives.
+The yellow circle in the compass tape at the bottom middle
+ of your screen indicates the direction of your objective.
+Your current objective is to regroup with your squad.
+ Press [{toggle cl_paused}] to check your objectives.
+Turn until the yellow circle in your compass tape
+ lines up with the white ticks and head in that direction
+ to locate your current objective.
+Pull [{+attack}] to fire your weapon.
+Hold down [{+speed}] to aim down the sights of your weapon.
+Press [{toggleads}] to aim down the sight.
+Press and hold [{+melee_breath}] to steady your breathing.
+Press and hold [{+breath_sprint}] to steady your breathing.
+Press and hold [{+breath_binoculars}] to steady your breathing.
+Press [{+breath_binoculars}] near your target to strike it with your weapon.
+Press [{+melee}] near your target to strike it with your weapon.
+Press [{goprone}] to go prone.
+Press and hold [{+prone}] to go prone.
+Press [{toggleprone}] to go prone.
+Hold down [{+stance}] to go prone.
+Double tap [{lowerstacnce}] to go prone.
+Press [{+stance}] to crouch.
+Press [{gocrouch}] to crouch.
+Press [{togglecrouch}] to crouch.
+Press [{+gostand}] to stand up.
+Press [{+stance}] to stand up.
+While standing, press [{+gostand}] to jump.
+While standing, press [{+moveup}] to jump.
+Press [{+sprint}] while moving forward to sprint.
+Press [{+breath_sprint}] while moving forward to sprint.
+You don't have to hold [{+sprint}] down to continue sprinting.
+You don't have to hold [{+breath_sprint}] down to continue sprinting.
+Press [{+usereload}] to reload your weapon.
+Press [{+reload}] to reload your weapon.
+Touch the obstacle and press [{+gostand}] to
+ mantle over it.
+Release and pull [{+speed}] to automatically
+ switch to a nearby target.
+Press [{weapnext}] to switch to your sidearm.
+Press [{weapnext}] to switch to your primary weapon.
+Press [{weaponslot primaryb}] to switch to your sidearm.
+Press [{+reload}] to load your sidearm.
+Press [{+usereload}] to load your sidearm.
+Look up the ladder and press forward to climb it.
+Pull and release [{+frag}] to throw a frag grenade.
+Approach the M16A4 and hold [{+activate}]
+ to swap your weapon for the M16A4.
+Approach the M16A4 and hold [{+usereload}]
+ to swap your weapon for the M16A4.
+Press [{+actionslot 2}] to switch to the M203
+ grenade launcher attachment.
+Pull and release [{+attack}] to fire a
+ 40mm grenade.
+Approach the explosive charges and press
+ [{+activate}] to pick one up.
+Approach the explosive charges and press
+ [{+usereload}] to pick one up.
+Locate the glowing explosive marker and
+ press [{+activate}] to plant the explosives.
+Locate the glowing explosive marker and
+ press [{+usereload}] to plant the explosives.
+'Safehouse'
+4. Gün - 02:00:[{FAKE_INTRO_SECONDS:32}]
+Kuzey Azerbaycan
+Köyün güvenliğini sağla. &&1 bina kaldı
+Köyün güvenliğini sağla.
+Köydeki binaları ara ve Khaled Al-Asad'ı yakala.
+Pull and hold [{+speed_throw}] to spool up the minigun.
+Hava Saldırısı Mümkün Değil
+Hava Saldırısı Yolda!
+Hat boyunca savunma pozisyonu al.
+Tepenin güney tarafını savun.
+Geri çekil ve güneybatı tarafını savun.
+Düşman atağını oyalamak için handaki detenatörleri kullan.
+Çiftliğin kuzeyine çekil.
+Handa duran Javelin'i al.
+Helikopter gelene kadar dayan.
+Helikoptere bin.
+Tankları yok et. (&&1 tane kaldı.)
+Yüzbaşı Price'dan yeni emirleri al.
+Helikoptere yetişemedin!
+Hava desteği emrini bekliyor!
+Hava desteği emrini bekliyor! [{+actionslot 2}] tuşuna bas.
+'Heat'
+4. Gün - 09:40:[{FAKE_INTRO_SECONDS:17}]
+Tankları yok et.
+İniş bölgesine ulaş : 
+Günümüz - Al-Asad'ın ölümünden sekiz saat sonra.

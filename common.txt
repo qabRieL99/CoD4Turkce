@@ -1,0 +1,2756 @@
+Server is full.
+Waiting for new key. Press ESCAPE to cancel or BACKSPACE to clear
+Press ENTER or CLICK to change
+Yes
+No
+All
+Waiting for response from Master Server
+Getting info for &&1 servers (ESC to cancel)
+Refresh Time: &&1
+Key code appears to be valid.
+Key code does not appear to be valid.
+The lastsave game seems to have been deleted. Load a different save game from the Load Game menu, or start a new game.
+Favorite list is full.
+Added favorite server.
+Downloading Update: &&1
+Connecting to &&1
+Awaiting connection...&&1
+Awaiting challenge...&&1
+Setting up game
+say_team
+say
+Oyun Kaydedildi
+Player kicked.
+Cannot kick the host player.
+Server killed.
+Server quit
+Client told to disconnect from its own listen server.
+End of Game
+Server didn't have CD
+Restarting server due to time wrapping
+Restarting server due to &&1 wrapping.
+Invalid download from update server
+Could not download &&1 because autodownloading is disabled on the client.
+You will need to get this file elsewhere before you can connect to this server, or set autodownload to Yes in your settings.
+Cannot auto-download game IWD file &&1.
+Could not download &&1 because autodownloading is disabled on the server.
+You will need to get this file elsewhere before you can connect to this pure server.
+Could not download &&1 because autodownloading is disabled on the server.
+Set autodownload to No in your settings and you might be able to connect if you do have the file.
+File &&1 not found on server for autodownloading.
+Host has left the game
+Impure client detected. Invalid .IWD files referenced!
+Lost reliable commands
+Cannot validate pure client!
+Server command overflow
+Timed out
+Server message overflow
+Local
+Internet
+Favorites
+Source:     &&1
+Filter: &&1
+(no savegames)
+Awaiting key code authorization
+&&1
+Server Disconnected
+Couldn't load &&1
+Make sure Call of Duty is run from the correct folder.
+Out of memory.
+Hunk data failed to allocate &&1 megs.
+Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site.
+Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot.
+Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot.
+You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards.
+Your video card appears to be missing one or more features required to run Call of Duty.
+OpenGL 1.3 multitexture found, but it failed to initialize.
+OpenGL 1.3 multitexture found, but it doesn't allow multiple textures.
+GL_ARB_multitexture found, but it failed to initialize.
+GL_ARB_multitexture found, but it doesn't allow multiple textures.
+Your version of Microsoft Windows(TM) does not support Call of Duty.
+Couldn't initialize refresh
+Error reading from journal file
+Error writing to journal file
+&&1 not found.
+Couldn't configure:
+hunkusage.dat file is corrupt.
+Cannot create &&1.
+Cannot write to &&1.
+Cannot write to hunkusage.dat, check disk full.
+Client command overflow
+A reliable command was cycled out.
+Requested a command not received.
+Key Code is not valid.
+Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and then try connecting to the server again.
+Map &&1 has the wrong version number.
+should be
+Invalid game folder
+Game code(&&1) failed Pure Server check
+Could not start process: &&1
+Could not open url: '&&1'
+Server fatal crashed:
+Key Code in use. Please try reconnecting later.
+Server is not a demo server.
+Server is a different version:
+&&1
+No or bad challenge for address.
+Server is for high ping players only.
+Server is for low ping players only.
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+COD2 Multiplayer
+Server Name
+IP Address
+Game Name
+Game Type
+Map
+Version
+Protocol Version
+num
+score
+ping
+name
+Max Ping
+Min Ping
+Max Rate
+Flood Protect
+Allow Anonymous
+Max Clients
+Private Clients
+Friendly Fire
+Mod
+Killcam
+GB
+MB
+KB
+bytes
+hr
+min
+sec
+Downloading:
+Estimated time left:
+Transfer rate:
+estimating
+of
+copied
+Bad server address.
+Bad Key Code.
+Server connection timed out.
+Password Protected
+This server is already a favorite server.
+Pure Server
+Server name is empty.
+Server address is empty.
+Anti Lag
+Voice
+Disconnected due to transmission error
+Checkpoint Reached.
+Unable to connect to host
+The match has ended
+Network connection lost
+Synchronizing game settings
+Error synchronizing game settings
+Compass Enemies
+Client Console
+Waiting for other players
+Join failed - game is about to end
+Unable to connect.  Duplicate qport on server.
+left the game
+Görevler Güncellendi.
+Görev Tamamlandı.
+Görev Başarısız.
+Görev Basarisiz
+You must have the grenades selected to pickup a different type of grenades.
+You must have the pistol selected to pickup a different pistol.
+You must have a primary weapon selected to pickup a different primary weapon.
+You must have the smoke grenades selected to pickup a different type of smoke grenades.
+Got &&1 ammo.
+&&1 ammo full.
+Difficulty: Greenhorn
+Difficulty: Regular
+Difficulty: Hardened
+Difficulty: Veteran
+Difficulty: Unknown
+Health
+Level Time
+Bad client slot:
+Client &&1 is not active
+User &&1 is not on the server.
+&&1 called a vote.
+Client not on server.
+Complaint filed against you. (&&1 until kicked)
+WARNING
+kicked after too many complaints.
+No vote in progress.
+Vote already cast.
+Not allowed to vote as spectator.
+Vote cast.
+Voting not enabled on this server.
+There are not enough players to call a vote.
+A vote is already in progress.
+You have called the maximum number of votes.
+Not allowed to call a vote as spectator.
+Invalid vote string.
+Vote commands are:
+Invalid gametype.
+nextmap not set.
+Cheats are not enabled on this server.
+You must be alive to use this command.
+usage
+changed to
+Server
+VoiceChat ignored
+Spam Protection
+Hold your position.
+Hold this position.
+Come here.
+Cover me.
+Guard location.
+Search and destroy.
+Report.
+Unknown cmd &&1
+godmode ON
+godmode OFF
+demigod mode ON
+demigod mode OFF
+notarget ON
+notarget OFF
+noclip ON
+noclip OFF
+ufomode ON
+ufomode OFF
+Vote failed.
+Vote passed.
+Opposition
+Marines
+Allies
+Axis
+Got &&1 ammo
+Game Type: 
+Map Restart
+Map: 
+Next Map
+Kick Player: &&1
+Savegame is out-of-date or corrupt.
+Vote would not change Game Type or Map.
+Spectator
+Dead
+Insufficient free disk space.
+
+Please free at least 5mb of free space on game drive.
+Warning: You are about to be kicked due to inactivity.
+Kicked from server due to inactivity.
+Invalid Password.
+Invalid Server.
+Unable to access save device. Please make sure that you have a valid User Profile(Xbox live acount. Use"Tools" in the Xenon Launcher).
+Yaralandın. Saklanacak bir yer bul!
+Call of Duty 4 Save Game
+Unable to read from memory device. Please check that the device is inserted correctly.
+Buradayken Kalkamazsın
+Buradayken Eğilemezsin
+Call of Duty 4 Custom Game Mode
+ya da
+Unbound
+Tab
+Enter
+Escape
+Boşluk
+Backspace
+Up Arrow
+Down Arrow
+Left Arrow
+Right Arrow
+Alt
+Ctrl
+Shift
+Caps Lock
+Ins
+Del
+Page Down
+Page Up
+Home
+End
+Sol Fare
+Sağ Fare
+Orta Teker
+4. Fare
+5. Fare
+Fare Tekeri Yuk.
+Fare Tekeri Aşğ.
+Joystick 1
+Joystick 2
+Joystick 3
+Joystick 4
+Joystick 5
+Joystick 6
+Joystick 7
+Joystick 8
+Joystick 9
+Joystick 10
+Joystick 11
+Joystick 12
+Joystick 13
+Joystick 14
+Joystick 15
+Joystick 16
+Joystick 17
+Joystick 18
+Joystick 19
+Joystick 20
+Joystick 21
+Joystick 22
+Joystick 23
+Joystick 24
+Joystick 25
+Joystick 26
+Joystick 27
+Joystick 28
+Joystick 29
+Joystick 30
+Joystick 31
+Joystick 32
+Auxiliary 1
+Auxiliary 2
+Auxiliary 3
+Auxiliary 4
+Auxiliary 5
+Auxiliary 6
+Auxiliary 7
+Auxiliary 8
+Auxiliary 9
+Auxiliary 10
+Auxiliary 11
+Auxiliary 12
+Auxiliary 13
+Auxiliary 14
+Auxiliary 15
+Auxiliary 16
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+KP Home
+KP Up Arrow
+KP Page Up
+KP Left Arrow
+KP 5
+KP Right Arrow
+KP End
+KP Down Arrow
+KP Page Down
+KP Enter
+KP Ins
+KP Del
+KP Slash
+KP Minus
+KP Plus
+Num Lock
+KP Star
+KP Equals
+Pause
+Semicolon
+Command
+use
+Low Desktop Color Depth
+It is highly unlikely that a correct windowed display can be initialized with the current desktop display depth. Select 'OK' to try anyway. Press 'Cancel' if you wish to quit.
+Low Memory
+It looks like you are low on virtual memory. This can cause the game to run slowly and it may stop completely. It is highly recommended that you close some programs before running Call of Duty. Do you want to run Call of Duty anyway?
+Recommended Settings Updated
+The recommended settings have been updated since the last time you ran Call of Duty. Would you like the game to configure itself optimally with these new settings? This is recommended for most people. It will change your system settings but not your controls.
+Hardware Change Detected
+Your computer appears to have changed since the last time you ran Call of Duty. Would you like the game to configure itself optimally for your new hardware? This is recommended for most people. It will change your system settings but not your controls.
+File Write Error
+Call of Duty couldn't write a file. The hard drive is probably full.
+Improper Quit Detected
+It appears that Call of Duty did not quit properly the last time it ran. Do you want to run the game in safe mode? This is recommended for most people. It will change your system settings but not your controls.
+You stepped into a Minefield and died.
+Watch out for the Red and White Minefield Signs!
+You drove into a Minefield and died.
+Watch out for the Red and White Minefield Signs!
+MP44
+M2 Frag Grenade
+MK1 Frag Grenade
+Hold-Pin
+Cook-Off
+Frag
+Smoke
+Default Weapon
+No Ammo
+El Bombası Kalmadı
+Özel Bomba Kalmadı
+Select a location
+C4
+C4 Detonator
+Mayın
+Claymore Detonator
+Roketatar
+Sis Bombası
+Flash Bombası
+Stun Grenade
+RPG-7
+AT4
+MP5SD
+MP5
+Mac-10
+P90-SD
+P90
+M16A4
+M203
+G36C
+M14
+M40A3
+Barrett .50cal
+W1200
+M1014
+M4A1 Grenadier
+M4A1
+M4A1 Susturuculu
+M4A1 SOPMOD
+M249 SAW
+M60E4
+Skorpion
+Mini-Uzi
+AK-47
+AK-47 Grenadier
+GP-25
+G3
+Dragunov
+R700
+AW-50
+AK-74u
+RPD
+M9
+USP .45
+Desert Eagle
+M1911 .45
+AG36
+HK79
+FN EGLM
+Sub Machine Guns
+Assault Rifles
+Shotguns
+Sniper Rifles
+FGM-148 Javelin
+FIM-92 Stinger
+Hedefe Çok Yakınsın
+Kilitlenilmesi Gerek
+M21 Susturuculu
+M21
+Ateş Etmek için Yeteri Yer Yok
+M4 Carbine
+Gold Desert Eagle
+No Attachment
+Susturucu
+Kırmızı Nokta
+ACOG Scope
+Bomba Atar
+No Camo
+Desert
+Woodland
+Digital
+Red Tiger
+Blue Tiger
+Golden
+Prestige
+Binoculars
+ANM8 Smoke Grenade
+Mini-Uzi Susturuculu
+Grip
+M16A4 Grenadier
+^1(Holding Detonator)
+^5(Holding Claymore)
+(Press Use to switch to claymore)
+(Press Use to switch to Detonator)
+Planting claymore...
+Can't plant claymore here
+Explosives Training
+Ready to Go
+In the House
+The Halftrack
+Cutting through Houses
+Church
+Flak Attack
+The Final Run
+Truck Ride
+Bridge
+Motorcycles
+Airfield
+Distraction
+Past the Road Block
+Entering the Town
+Free Kubelwagen
+Kubelwagen Escape to HQ
+Flank Right
+In the Trenches
+German Bunkers
+Got the Explosives
+German Retreat
+Chateau
+Heading Out
+After the Landing
+Bunker Captured
+New Orders
+Defending the Bridge
+Bridge Skirmish
+Stopping the Tanks
+Tank Destroyed
+Tank Eliminated
+On the Dam
+Entering the Dam
+The Control Room
+Below the Turbines
+At the Base of the Dam
+Starting the Return
+End of the Long Tunnel
+Back up the Second Elevator
+Return to the Control Room
+Back to the Top of the Dam
+Welcome Aboard
+The Armory
+Leaving Lower Decks
+On the Boat
+Suicide Run
+Room to Room
+Sniper Roost
+To the Train Station
+Ruins of Stalingrad
+Sniper Baiting
+At the Wall
+Storming Pavlov's House
+Final Defense
+Staying Alive
+Entering the Factory
+Above the Tanks
+Outside the Factory
+Near the Trains
+Radio Room
+T34 Assault
+Tanks Destroyed
+At the Overpass
+First AA Gun Destroyed
+Second AA Gun Destroyed
+Convoy Destroyed
+V-2 Rockets Found
+V-2 Rockets Fueled
+First Flak88 Destroyed
+Hold The Line
+Storm The Reichstag
+To The Roof
+Begin Game Autosave
+No Name Specified
+Start
+3 Flaks Detroyed
+Approaching the Manor
+Weapons Training
+autosave
+Second Documents Captured
+The Last Gun
+Sweeping the MG42s
+Finding a Safe Haven
+Following Foley
+Acquiring Panzerfaust
+Defending the Church
+On to the Northern Approach
+Defending the Northern Approach
+Pushing them Back
+On to the Mortar Teams
+Entering Camp
+Approaching Tower
+Entering Common Area
+Entering Kitchen
+Escorting Ingram
+Exiting Kitchen
+Returning to Tower
+Returning to Truck
+Entering Hall
+Past Snipers
+Entering Lower Level
+Approaching Hardpoint
+After Bombed Section
+End Battle
+Approaching Catwalks
+Stairwell
+Entering Building
+Exitting Trenches
+Regroup With Allies
+Retrieving Documents
+Documents Acquired
+Stalingrad Docks
+Into Battle
+The Sniper Leads
+Calling in the Cavalry
+Cutting Through the Opposition
+"It is fatal to enter any war without the will to win it." - General Douglas MacArthur
+"In war, you win or lose, live or die-and the difference is just an eyelash." - General Douglas MacArthur
+"So long as there are men there will be wars." - Albert Einstein
+"Older men declare war. But it is the youth that must fight and die." - Herbert Hoover
+"War does not determine who is right - only who is left." - Bertrand Russell
+"Patriots always talk of dying for their country and never of killing for their country." - Bertrand Russell
+"All that is necessary for evil to succeed is for good men to do nothing." - Edmund Burke
+"The real and lasting victories are those of peace, and not of war." - Ralph Waldo Emerson
+"War is delightful to those who have not experienced it." - Erasmus
+"You can't say civilization don't advance - for in every war, they kill you in a new way." - Will Rogers
+"If you know the enemy and know yourself, you need not fear the result of a hundred battles." - Sun Tzu
+Cost of a single B-2 Bomber: $2.2 billion
+Cost of a single AC-130U Gunship: $190 million
+Cost of a single F-22 Raptor: $135 million
+Cost of a single F-117A Nighthawk: $122 million
+Cost of a single Tomahawk Cruise Missile: $900,000
+Cost of a single Javelin Missile: $80,000
+"From time to time, the tree of liberty must be watered with the blood of tyrants and patriots." - Thomas Jefferson
+"Diplomats are just as essential in starting a war as soldiers are in finishing it." - Will Rogers
+"The tyrant always talks as if he's preserving the best interests of his people when he actually acts to undermine them." - Ramman Kenoun
+"Nothing in life is so exhilarating as to be shot at without result." - Winston Churchill
+"Every tyrant who has lived has believed in freedom - for himself." - Elbert Hubbard
+"Tyrants have always some slight shade of virtue; they support the laws before destroying them." - Voltaire
+"In war, truth is the first casualty." - Aeschylus
+"All warfare is based on deception." - Sun Tzu
+"A leader leads by example not by force." - Sun Tzu
+"Let your plans be dark and as impenetratable as night, and when you move, fall like a thunderbolt." - Sun Tzu
+"We sleep safely in our beds because rough men stand ready in the night to visit violence on those who would harm us." - George Orwell
+"If a man does his best, what else is there?" - General George S. Patton
+"There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit." - Napoleon Bonaparte
+"When the pin is pulled, Mr. Grenade is not our friend." - U.S. Army Training Notice
+"Some people live an entire lifetime and wonder if they have ever made a difference in the world, but the Marines don't have that problem." - Ronald Reagan
+"Freedom is not free, but the U.S. Marine Corps will pay most of your share." - Ned Dolan
+"The deadliest weapon in the world is a Marine and his rifle!" - General John J. Pershing
+"It is generally inadvisable to eject directly over the area you just bombed." - U.S. Air Force Manual
+"A slipping gear could let your M203 grenade launcher fire when you least expect it. That would make you quite unpopular in what's left of your unit." - Army's magazine of preventive maintenance
+"Five second fuses only last three seconds." - Infantry Journal
+"Anyone, who truly wants to go to war, has never truly been there before!" - Larry Reeves
+"Aim towards the Enemy." - Instruction printed on US Rocket Launcher
+"Tracers work both ways." - U.S. Army Ordnance
+"Cluster bombing from B-52s are very, very accurate. The bombs are guaranteed to always hit the ground." - USAF Ammo Troop
+"If the enemy is in range, so are you." - Infantry Journal
+"Try to look unimportant; they may be low on ammo." - Infantry Journal
+"Whoever said the pen is mightier than the sword obviously never encountered automatic weapons." - General Douglas MacArthur
+"If your attack is going too well, you're walking into an ambush." - Infantry Journal
+"The truth of the matter is that you always know the right thing to do. The hard part is doing it." - General Norman Schwarzkopf
+"Any soldier worth his salt should be anti-war. And yet there are things still worth fighting for." - General Norman Schwarzkopf
+"If we can't persuade nations with comparable values of the merits of our cause, we'd better reexamine our reasoning." - Robert McNamara
+"In the end, it was luck. We were *this* close to nuclear war, and luck prevented it." - Robert McNamara
+"I think the human race needs to think about killing. How much evil must we do in order to do good." - Robert McNamara
+"The indefinite combination of human fallibility and nuclear weapons will lead to the destruction of nations." - Robert McNamara
+"Is it right and proper that today there are 7500 offensive strategic nuclear warheads, of which 2500 are on a 15 minute alert to be lauched at the decision of *one* human being?" - Robert McNamara
+"Any military commander who is honest will admit that he makes mistakes in the application of military power." - Robert McNamara
+
+"They'll be no learning period with nuclear weapons. Make one mistake and you're going to destroy nations." - Robert McNamara
+"What "the fog of war" means is: war is so complex it's beyond the ability of the human mind to comprehend all the variables. Our judgment, our understanding, are not adequate. And we kill people unnecessarily." - Robert McNamara
+"The press is our chief ideological weapon." - Nikita Khrushchev 
+"Keep looking below surface appearances. Don't shrink from doing so just because you might not like what you find." - Colin Powell
+"It doesn't take a hero to order men into battle. It takes a hero to be one of those men who goes into battle." General Norman Schwarzkopf
+"Ours is a world of nuclear giants and ethical infants. If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner." - General Omar Bradley
+"Concentrated power has always been the enemy of liberty." - Ronald Reagan 
+"I think that technologies are morally neutral until we apply them. It's only when we use them for good or for evil that they become good or evil" - William Gibson
+"The commander in the field is always right and the rear echelon is wrong, unless proved otherwise." - Colin Powell 
+"No battle plan survives contact with the enemy." - Colin Powell 
+"The more Marines I have around, the better I like it." - General Clark, U.S. Army
+"Heroes may not be braver than anyone else. They're just braver five minutes longer." - Ronald Reagan 
+"Whether you like it or not, history is on our side. We will bury you!" - Nikita Khrushchev
+"The world will not accept dictatorship or domination." - Mikhail Gorbachev
+"You can make a throne of bayonets, but you can't sit on it for long." - Boris Yeltsin
+"A man may die, nations may rise and fall, but an idea lives on." - John F. Kennedy
+"It would be naive to think that the problems plaguing mankind today can be solved with means and methods which were applied or seemed to work in the past..." - Mikhail Gorbachev
+"Whoever does not miss the Soviet Union has no heart. Whoever wants it back has no brain." - Vladimir Putin
+"We're in a world in which the possibility of terrorism, married up with technology, could make us very, very sorry that we didn't act." - Condoleezza Rice
+"War should be the politics of last resort. And when we go to war, we should have a purpose that our people understand and support." - Colin Powell
+"Whoever stands by a just cause cannot possibly be called a terrorist." - Yasser Arafat
+"I love the Corps for those intangible possessions that cannot be issued: pride, honor, integrity, and being able to carry on the traditions for generations of warriors past." - Corporal Jeff Sornig, USMC
+"If at first you don't succeed, call an air strike." - Unknown
+"Never forget that your weapon was made by the lowest bidder." - Unknown
+"If you can't remember, the claymore is pointed toward you." - Unknown
+"Friendly fire - isn't." - Unknown
+"Teamwork is essential, it gives them other people to shoot at." - Unknown
+"Incoming fire has the right of way." - Unknown
+"The bursting radius of a hand-grenade is always one foot greater than your jumping range." - Unknown
+"A ship without Marines is like a garment without buttons." - Admiral David D. Porter, USN
+"If the wings are traveling faster than the fuselage, it's probably a helicopter -- and therefore, unsafe." - Unknown
+"There are only two kinds of people that understand Marines: Marines and the enemy. Everyone else has a second-hand opinion." - General William Thornson
+"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." - Albert Einstein
+"Mankind must put an end to war, or war will put an end to mankind." - John F. Kennedy
+"My first wish is to see this plague of mankind, war, banished from the earth." - George Washington
+"Nearly all men can stand adversity, but if you want to test a man's character, give him power." - Abraham Lincoln
+"Red Army Training"
+U.S.S.R.
+Dec 17, 1941
+20 miles west of Moscow
+"The Diversionary Raid"
+Northern Egypt
+October 29, 1942
+25 miles south of El Alamein
+"Hold the Line"
+30 miles south of El Alamein
+"Operation Supercharge"
+November 3, 1942
+Approaching the Alamein Line
+"The End of the Beginning"
+El Daba, Egypt
+November 6, 1942
+Near the Mediterranean coast
+"Demolition"
+Stalingrad, U.S.S.R.
+December 2, 1942
+Three blocks north of Solechnaya St.
+1300 hrs
+"Repairing the Wire"
+December 8, 1942
+"The Pipeline"
+200 metres east of Railroad Station No. 1
+"Downtown Assault"
+January 15, 1943
+1500 hrs
+"City Hall"
+1420 hrs
+"Comrade Sniper"
+1630 hrs
+"Outnumbered and Outgunned"
+Toujane, Tunisia
+March 10, 1943
+1800 hrs
+"Retaking Lost Ground"
+March 11, 1943
+1100 hrs
+"Assault on Matmata"
+Matmata, Tunisia
+March 30, 1943
+"Crusader Charge"
+Northwestern Libya
+160 miles southeast of Tripoli
+"88 Ridge"
+January 18, 1943
+65 miles southeast of Tripoli
+"The Battle of Pointe du Hoc"
+Normandy, France
+June 6, 1944
+3 miles west of Omaha Beach
+"Retreat? We're Advancing In Another Direction"
+June 7, 1944
+"The Silo"
+Beaumont-Hague, France
+July 14, 1944
+"Prisoners of War"
+Beltot, France
+June 11th, 1944
+18 miles east of Caen
+"The Crossroads"
+Anctoville, France
+June 12th, 1944
+17 miles east of Caen
+"The Tiger"
+St. Louet, France
+15 miles east of Caen
+"The Brigade Box"
+Amaye sur Seulles, France
+June 14th, 1944
+"Approaching Hill 400"
+Bergstein, Germany
+December 6, 1944
+"Rangers Lead The Way"
+December 7, 1944
+At the base of Hill 400
+"The Battle for Hill 400"
+December 8, 1944
+"Crossing the Rhine"
+Wallendar, Germany
+March 24, 1945
+You are a traitor to the motherland!
+Dost ateşine tolerans gösterilmez!
+You shot a team mate!
+The star on your compass marks your next objective
+Destroy the 'Flakpanzer' Anti-Aircraft Tanks.^3 &&1 remaining
+Debrief with Captain Foley at the crossroads.
+This door cannot be opened. You never need to try to open closed doors.
+EXPLOSIVES PLANTED. STAND BACK!
+To pickup ammo from another weapon, walk close to it or look at it and press USE^3 &&1.
+You move slower while leaning.
+You can't carry anymore grenades.
+Picked up some Stielhandgranates.
+Look for the glowing marker on the German anti-aircraft vehicle.
+Clear the building with the Machine Guns in it.
+Take the left flank.
+Click FIRE to Skip.
+Use the Panzerfaust anti-tank weapons behind the bunker to destroy the tanks.
+You are too far from your radio man to use artillery.
+Eliminate the Flak 88 crews.
+Eliminate the Flak 88 crews.^3 &&1 remaining
+Bir el bombası yüzünden öldün.
+Bomba göstergesine dikkat et.
+You died holding a grenade for too long.
+Holding ^3[{+frag}] allows you to cook off live grenades.
+Patlayan bir araba yüzünden öldün.
+Yanan araçlar çoğu zaman patlar.
+Patlayan bir varil yüzünden öldün.
+Kırmızı variller üzerine ateş ettiğin zaman patlar.
+x2
+x3
++
+-
++%s
+-%s
++$
+-$
+$
+Düşman bilgilerini ele geçirmek için^3 &&1 tuşuna bas.
+Düşman bilgisi buldun.
+&&1/30 düşman bilgisi bulundu.
+&&1/45 düşman bilgisi bulundu.
+&&1/60 düşman bilgisi bulundu.
+You have found &&1 enemy intel pts.
+&&1 pieces of enemy intel remain.
+&&1 piece of enemy intel remains.
+End of current level.
+Press^3 [{+actionslot 2}] to use C4.
+Gece görüş gözlüğünü takmak için^3 [{+actionslot 1}] tuşuna bas.
+Gece görüş gözlüğünü çıkarmak için^3 [{+actionslot 1}] tuşuna bas.
+M203 bombaatarını kullanmak için
+^3 [{+actionslot 3}]  tuşuna bas.
+Close Air Support standing by!
+Close Air Support standing by! Press ^3[{+actionslot 4}].
+Zırhlılar sadece C4 ya da
+roketler tarafından hasar alır.
+Press ^3[{+gostand}] to 
+Press ^3[{weapnext}] to switch to your M21 Sniper Rifle
+Mayınları kullanmak için ^3[{+actionslot 4}] tuşuna bas.
+Press and hold^3 &&1 to use
+Avoid the radiation zones.
+Listen for the clicks of the Geiger counter.
+Pull^3 [{+attack}] to plant claymores.
+:
+TOTAL SCORE:
+MISSION SCORE:
+TIME REMAINING:
+EXTRA LIFE X 
+CHECKPOINT!
+ZERO DEATHS BONUS x2
+DIFFICULTY BONUS x1.5
+DIFFICULTY BONUS x3
+DIFFICULTY BONUS x4
+TIME UP
+GAME OVER
+MISSION COMPLETE
+NEW HIGH SCORE!
+Press ^3[{+throw}] to throw C4.
+Press ^3[{+toggleads_throw}] to throw C4.
+Pull ^3[{+speed_throw}] to throw C4.
+Press ^3[{+speed_throw}] to throw C4.
+x
+STREAK BONUS LOST
+-STREAK COMPLETE-
+1UP
+Press^3 &&1 to see your objectives.
+Press^3 &&1 to go prone
+Double tap^3 &&1 to go prone
+Hold down^3 &&1 to go prone
+Press^3 &&1 to aim down the sight
+Hold down^3 &&1 to aim down the sight
+Press^3 &&1 to stand up from prone
+Double tap^3 &&1 to stand from prone
+Press^3 &&1 to switch to grenades
+Press^3 &&1 to do a melee attack
+Wait for the dog to bite to grab its throat. ^3( [{+melee}] ) 
+Melee the dog before it bites to grab its throat. ^3( [{+melee}] ) 
+Melee the dog right when it bites to grab its throat. ^3( [{+melee}] ) 
+Press ^3( [{+melee}] )
+Press USE^3 &&1 to lean out of the window
+Look at your first objective and press USE^3 &&1 to retrieve
+Press your Move Left key^3 &&1 to move left.
+Press your Move Right key^3 &&1 to move right.
+Press your Move Forward key^3 &&1 to move forward.
+Press your Move Back key^3 &&1 to move backwards.
+Press^3 &&1 to check your current objective.
+You now have two weapons. Press^3 &&1 to switch to your second weapon.
+Press^3 &&1 to switch to your grenades.
+Approach the cinder block wall and press your USE key^3 &&1 to plant the explosives.
+Press^3 &&1 to crouch.
+Press^3 &&1 a second time to stand up from crouch.
+Hold down^3 &&1 to crouch.
+Press^3 &&1 to switch from crouch from prone.
+Press^3 &&1 to stand up.
+Let go of^3 &&1 to stop crouching.
+If this makes you go prone, double tap^3 &&1].
+Double tap^3 &&1 to stand up from crouch.
+Single tap^3 &&1 to stand from crouch.
+Let go of^3 &&1 to come out of prone.
+Press^3 &&1 a second time to stop aiming down the sight.
+Press^3 &&1 to switch to your first weapon.
+Press^3 &&1 to switch to your second weapon.
+HOLD USE^3 &&1 to swap your current weapon for another that you are looking at.
+To pickup a weapon, look at it and press USE^3 &&1].
+While standing, press^3 &&1 to jump.
+Hold down^3 &&1 to lean to the left.
+Hold down^3 &&1 to lean to the right.
+Press^3 &&1 to pick up the grenades.
+Press^3 &&1 to plant the explosives.
+Press^3 &&1 to pick up the documents.
+Press^3 &&1 to pick up the explosives.
+Press^3 &&1 to pick up the patrol log.
+Press^3 &&1 to activate the elevator.
+Press^3 &&1 to reload at any time.
+Look through your binoculars by pressing^3 &&1].
+Press^3 &&1 to take the explosives.
+Press^3 [{+binoculars}] to look through your binoculars and direct artillery.
+Press^3 [{+breath_binoculars}] to look through your binoculars and direct artillery.
+Press^3 [{+activate}] to call in Artillery.
+Press^3 &&1]
+Press^3 &&1 to pickup the Panzerschreck.
+Press^3 &&1 to use the radio.
+Press ^3[{+speed}] to control zoom and press ^3[{+attack}] to fire.
+Termal kamera tipini değiştirmek için
+^3[{+activate}] tuşuna bas.
+Sinyali yerleştirmek için^3 &&1 tuşuna bas. 
+To plant C4, approach the glowing objective marker and press^3 [{+activate}] .
+Pilotu çıkarmak için^3 &&1 tuşuna bas.
+Aşağı inmek için^3 &&1 tuşuna bas.
+Düşman aracına yaklaşabilmek için sis bombası at:^3 [{+smoke}] 
+Pilota yaklaş ve ^3 [{+activate}] tuşuna basarak onu dışarı çek.
+Işıldayan yere doğru bak ve^3 &&1 tuşuna basarak bombaları yerleştir.
+Detanatörü almak için^3 &&1 tuşuna bas.
+Minigun'ı çalıştırmak için ^3[{+speed_throw}] tuşuna bas.
+Use ^3[{+melee}] to start or stop Slow-Mo.
+Saldırı koordinatı vermek için^3 [{+attack}] tuşuna bas.
+Warpig: Bravo Six, War Pig konuşuyor! Asıl silahımız devre dışı, ama makineli silah hâlâ sağlam!
+Warpig: Bravo Six, burası temiz, yardımınız için teşkkürler. Biz sol yanı tutacağız, ve ateş desteği sağlayacağız, tamam.
+Warpig: Ah, Bravo Six, önümüzde mümkün bir pusu alanı var. Eğer önümüzdeki alanı temizlerseniz, devam edeceğiz, tamam.
+Warpig: Askerler, geri çekilin! Binaları tarayacağız!
+Warpig: Bravo Six, konuşan Warpig, burası temiz sanırım, o  zaman ilerliyoruz, tamam?
+Warpig: Anlaşıldı, hareket ediyoruz.
+Warpig: Bravo Six, devam ediyoruz.
+Warpig: Bravo Six, burası Warpig. Ah, we got some bad news here. We're runnin' low on ammo for the main gun - we've got one H.E. and a couple of sabot rounds, over.
+Warpig: No worries Bravo Six, we still have ah...about - 8000 rounds of .50 cal -
+Warpig: Never mind, make that 7000 rounds. We'll keep 'em pinned down while you flush 'em out of the buildings, out.
+Warpig: Copy Bravo Six, be advised, we're down to our last high explosive round, over.
+Abrams Tank Komutaer: You got it! Gunner! Bus at 12 o'clock!
+Abrams Tank Komutaer: Fire!
+Warpig: Olumlu Bravo Six, onu termal kamerada gördüm. El ile kontrole geçiyorum.
+Warpig: Ateş ediyorum.
+Warpig: Anlaşıldı, Bravo Six. Ee...ah, hehe, daha gelmedik mi?
+Warpig: Geçiyoruz.
+AC-130 FCO: Ekip bekleyin, ateş etmey başlamayın, sadece görüntüleyin. Hareket eden varlıklara ateş etmeyin.
+AC-130 FCO: Üzerinde ışık yanıp sönenlere ateş etmeyin, onlar bizden.
+AC-130 FCO: Anlaşıldı, oradayız ve sizi dinliyoruz.
+AC-130 FCO: Araçlardan biri harekete geçiyor.
+AC-130 FCO: Bir zırhlı düşman personeli kiliseye yaklaşıyor, çatışmaya girmek için izin istiyorum.
+AC-130 FCO: Anlaşıldı. Ekip, düşman personeline ateş edebilirsiniz ama kiliseye doğru ateş etmeyin.
+AC-130 FCO: Takım, anayoldaki hiçbir araca ateş açmayın, onlar siviller.
+AC-130 FCO: Yerdekiler şu an alternatif araç alıyorlar. Ana yoldaki hiçbir araca ateş etmeyin lakin başkası temizlemediyse.
+AC-130 FCO: Sanmam, hehe, altına edecek neredeyse.
+AC-130 FCO: Anlaşıldı, işaretçileri görüyoruz. Ekip, işaretçilerle işaretlenmiş araçlara ateş etmeyin. Tekrar ediyorum, sakın işaretli araçlara ateş etmeyin, onlar dostlarimiz.
+AC-130 FCO: Olumsuz. Sakın ateş açmayın, tekrar ediyorum, anayolda olan hiçbir araca ateş açmayın.
+AC-130 FCO: Olumlu. Işık yanıp sönenlere dikkat edin. Onlar bizim adamlarımız.
+AC-130 FCO: Ah, Navigasyon, hangisi kavisli yol, tamam?
+AC-130 FCO: TV, su kulesini gördüğünü onayla.
+AC-130 FCO: Anlaşıldı.
+AC-130 FCO: Ah, köyü görmekte sorun yaşıyoruz. Bu yol ne kadar uzun?
+AC-130 FCO: Düşmanlar kavisli yolda pusu yapmaya hazırlanıyorlar. Ağaçlarda kısmen gizleniyorlar.
+AC-130 FCO: Köydeki hedeflere ateş açmak için izin istiyorum.
+AC-130 FCO: Anlaşıldı. Beyler, köydeki her şeyi yok edin.
+AC-130 FCO: Ah, kavisli yolun sonunda pozisyon alan küçük ekipler görüyoruz. Onları da temizleyelim mi?
+AC-130 FCO: Beyler, duman izlerini takip edin ve kaynağını yok edin. Adamlarımız için yol açın.
+AC-130 FCO: Ah, U şeklindeki bina mı?
+AC-130 FCO: Tam orada zırhlı bir araç var! İşte orada, ambardan çıkıyor.
+AC-130 FCO: Anlaşıldı Bravo Six. Beyler, adamlarımız araçlarından indiler, iniş bölgesine doğru ilerliyorlar. Üzerinde ışık yanıp sönenlere ateş etmeyin.
+AC-130 FCO: Tamam, temizleyin.
+AC-130 FCO: Bu adamlar şehre doğru gidiyor ya!
+AC-130 FCO: Nereye ateş ettiğine dikkat et, dostlarımıza çok yakın ateş ediyorsun - Yanıp sönen ışıklara dikkat et onlar bizimkiler!
+AC-130 FCO: Hey, dostlarımıza çok yakın ateş ediyorsun, tekrar ediyorum, çok yakın ateş ediyorsun. Yanan ışıklara dikkat et.
+AC-130 FCO: Neredeyse kendi adamlarımızı öldürüyordun!
+AC-130 FCO: Helikopterlerimiz alana giriş yapıyorlar. Ateş ettiğiniz yere dikkat edin.
+AC-130 FCO: Hehe, this is gonna be one helluva highlight reel.
+AC-130 FCO: Güzeeel.
+AC-130 FCO: Yazık oldu.
+AC-130 FCO: Daha fazla düşman personeli.
+AC-130 FCO: İndir şu herifi.
+AC-130 FCO: Anlaşıldı, adam hareket halinde.
+AC-130 FCO: İndir şu adamı.
+AC-130 FCO: Tamam adam gene harekete geçiyor.
+AC-130 FCO: Adam kaçıyor.
+AC-130 FCO: Ah, burada bir kaçağımız var.
+AC-130 FCO: Geri kalanları da hallet.
+AC-130 FCO: Kaçabilirsin, ama saklanamazsın.
+AC-130 FCO: Onu öldürdün mü?
+AC-130 FCO: Düşman, tam orada.
+AC-130 FCO: Mıhlayın şunları.
+AC-130 FCO: Düşman personeline ateş açabilirsiniz.
+AC-130 FCO: Hallet şunları.
+AC-130 FCO: Yeah but they're only gonna die tired.
+AC-130 FCO: şu herifleride hallet...Olimpiyatlardan beri böyle hızlı koşturan birisini görmemiştim...
+AC-130 FCO: Evet, yere gömüldü.
+AC-130 FCO: Probably just knocked the wind out of him.
+AC-130 FCO: That guy's down but still moving.
+AC-130 FCO: He's gettin' back up.
+AC-130 FCO: Evet, o adam hâlâ hareket ediyor.
+AC-130 FCO: Hâlâ hareket ediyor.
+AC-130 FCO: Harekette olan bir araç var.
+AC-130 FCO: Ekip, hareket halindeki aracı indirin.
+AC-130 FCO: Evet, öldür onu.
+AC-130 FCO: Güzel atış. Neredeyse adamın parçalar ayrıldığını görecektim.
+AC-130 FCO: Ka-boom.
+AC-130 FCO: Oha, tamamiyle gazla doluydu sanırım.
+AC-130 FCO: Anlaşıldı, araç yok edildi.
+AC-130 FCO: Hakla onu.
+AC-130 FCO: Evet, direk vuruşlar tam orda.
+AC-130 FCO: Tamamdır, onu indirdin.
+AC-130 FCO: Tamamdır, onu indirdin. Geri kalanlarıda hallet.
+AC-130 FCO: İyi atıştı.
+AC-130 FCO: İyi vurdun.
+AC-130 FCO: Tam üstüne.
+AC-130 FCO: Evet, hedef tam oradaydı.
+AC-130 FCO: İndirdin!
+AC-130 FCO: Arabanın yanında bi' adam var.
+AC-130 FCO: Kamyonun yanında bi' herif var.
+AC-130 FCO: Düşman personeli kamyonun yanında.
+AC-130 FCO: Evet, kanala doğru ilerliyor.
+AC-130 FCO: Düşman alanı geçiyor.
+AC-130 FCO: Düşman personeli yolda.
+AC-130 FCO: Kiliseden kaçan zırhlı personel var.
+AC-130 FCO: Binadaki adamları vurun.
+AC-130 FCO: Tam orada...izliyorum.
+AC-130 FCO: İzliyorum.
+AC-130 FCO: Hold up and look around here. I know there's a few guys, I saw them flying apart. 
+AC-130 FCO: Tarıyoruz, bekleyin.
+AC-130 FCO: Bravo Six, burası Warhammer, beklemedeyim. Duydum ki aşağıda yardıma ihtiyacınız varmış. Vurulacak yeri tarif edin.
+AC-130 FCO: Tamam, geliyor.
+AC-130 FCO: Bravo Six, sizi çıkarma noktasına kadar koruyacağız. Harekete geçseniz iyi olur.
+AC-130 Gunner: Ah, anayoldaki araçları temizlemek için izin istiyorum.
+AC-130 Gunner: Şuradakiler dostlarımız mı?
+AC-130 Gunner: Ateş!
+AC-130 Gunner: Mermi hazır!
+AC-130 Gunner: Moving back to the vehicles! Got some personnel!
+AC-130 Gunner: Uh...anlaşıldı.
+AC-130 Gunner: Oh, güzel atıştı dostum.
+AC-130 Gunner: Onu mıhladık!
+AC-130 Gunner: Evet! Güzel vurdun!
+AC-130 Gunner: Dengeleniyor
+AC-130 Gunner: Sanırım o herifleri hakladım.
+AC-130 Navigator: TV, şehirdeki kiliseyi gördüğünü onayla.
+AC-130 Navigator: Kilise kısmında yetkili değilsiniz. Kileseye doğrudan ateş etmeyin.
+AC-130 Navigator: Beyler, ana yoldaki diğer araç bir sivil aracı. Sivillere ateş etmeyin.
+AC-130 Navigator: Bakın. Düşman orduları kavisli yolun üzerine pusu noktaları kuruyor.
+AC-130 Navigatör: Ateş kontröllörü, su kulesini görüyor musun, tamam?
+AC-130 Navigator: Anlaşıldı, evet o.
+AC-130 Navigator: Ve su kulesinin yanında kavisli yol, gördünüz mü?
+AC-130 Navigator: Köyün yanındaki yolu izleyin. Köydeki diğer su kulesini görmüş olmalısınız.
+AC-130 Navigator: Yaklaşık olarak...ah, bekleyin...
+AC-130 Navigator: Kavisli yoldan biraz daha uzun, ana yola doğru giderken.
+AC-130 Navigator: It's about 600 metres along the curved road, going away from the highway.
+AC-130 Navigator: Düşmanlar iniş bölgesinin yakınlarında, her taraftan ateş ediyorlar. İniş bölgesinin çevresinde 25 milimetrelik olanı  kullanmanı öneririm.
+AC-130 Navigator: VIP güvende ve koruma altinda. Herkes iyi iş çıkardı.
+AC-130 Navigator: Tamam, ateşe devam edin.
+AC-130 Navigator: İkincil.
+AC-130 Navigator: Anlaşıldı.
+AC-130 Navigator: Watch the yards around the buildings. Enemy personnel comin' through.
+AC-130 Navigator: Kiliseden çıkan insanlar var.
+AC-130 Navigator: No joy lock.
+AC-130 Navigator: Gimme 10 seconds.
+AC-130 Navigator: Updating waypoints.
+AC-130 Navigator: We need to move a little bit further.
+AC-130 Pilot: Anlaşıldı. İstediğiniz zaman hareket halindeki araca ve ya düşman personeline ateş açabilirsiniz.
+AC-130 Pilot: Yaklaşık 600 metre kadar...
+AC-130 Pilot: Köye doğru set çekiyoruz. Karadaki hedefleri temizlemeye hazır olun.
+AC-130 Pilot: Köydeki hedeflerin düşman olduğu doğrulandı. Ateş etmek için alan temiz. Günlerini gösterin onlara.
+AC-130 Pilot: Anlaşıldı. Yanıp sönenler haricinde her şeyi yok edin. Onlar, düşmanlarımız.
+AC-130 Pilot: Anlaşıldı. Üsse geri dönüyoruz.
+AC-130 Pilot: Ooh, bu acıtmış olmalı.
+AC-130 Pilot: Hareket eden araca ateş edebilirsiniz.
+AC-130 Pilot: Anlaşıldı, hallet şunları.
+AC-130 Pilot: Hepsini temizle.
+AC-130 Pilot: Evet, ateş açabilirsiniz.
+AC-130 Pilot: Olumlu.
+AC-130 Pilot: Anlaşıldı.
+AC-130 Pilot: Flares away! Flares away!
+AC-130 Pilot: Flares!
+AC-130 Pilot: Gidelim.
+AC-130 Pilot: Pop the flares pop the flares.
+AC-130 Pilot: Hedef sıfırlandı.
+AC-130 Pilot: Azimut tarama sistemini kalibre et. Yükseklik taramasını ayarla.
+AC-130 Pilot: Tarama menzilini ayarla.
+AC-130 Pilot: Şu sinyali temizle.
+AC-130 Pilot: Başka düşman personeli kaldı mı?
+AC-130 TV Operator: Sizi görüyoruz!
+AC-130 TV Operator: Gördük, saati başlatın.
+AC-130 TV Operator: Bir araç harekete geçiyor!
+AC-130 TV Operator: Düşman personeli kiliseden çıkıyor.
+AC-130 TV Operator: Bahse girerim o adam çok sinirlendi! Çok güzel bir kamyon!
+AC-130 TV Operator: Şeyden mi bahsediyorsun, kavşağın yakınındaki kuleden mi?
+AC-130 TV Operator: Yaklaşık olarak 2 kilometre...
+AC-130 TV Operator: Anlaşıldı.
+AC-130 TV Operator: Kavisli yol boyunca düşman var.
+AC-130 TV Operator: Vaay, biri RPG ile ateş açtı!
+AC-130 TV Operator: U şeklindeki binada düşman personeli var.
+AC-130 TV Operator: Hani şu çatısı kare olan yapı. Düz bir çatısı var.
+AC-130 TV Operator: Ağırdan bir zırhlı çıkıyor!
+AC-130 TV Operator: Hurdalıkta düşmanlar var.
+AC-130 TV Operator: Duydum!
+AC-130 TV Operator: Raagh...!
+AC-130 TV Operator: Haydi!
+AC-130 TV Operator: Burada harekette olan bir herif var.
+AC-130 TV Operator: Adam hareket halinde.
+AC-130 TV Operator: Düşman hareket halinde.
+AC-130 TV Operator: Kaçan bir herif var. İndirin şunu, indirin!
+AC-130 TV Operator: Adam kaçıyor.
+AC-130 TV Operator: Burada kaçan bir herif var!
+AC-130 TV Operator: Adam kaçıyor!
+AC-130 TV Operator: Daha fazla düşman personeli hareket halinde.
+AC-130 TV Operator: Kaçıyorlar.
+AC-130 TV Operator: Ya, böyle koşarsın işte.
+AC-130 TV Operator: (Chuckling/snickering)
+AC-130 TV Operator: Yeah these guys are really haulin' ass...
+AC-130 TV Operator: He went down to the ground.
+AC-130 TV Operator: Bir tanesi sürünüyor yerde.
+AC-130 TV Operator: Bir tanesi sürünüyor yerde..
+AC-130 TV Operator: Hareket halinde olan bir araç var.
+AC-130 TV Operator: Başka bir araç.
+AC-130 TV Operator: Başka bir araç
+AC-130 TV Operator: Araç hareket halinde!
+AC-130 TV Operator: Evet, hareket halinde bir araç var, bi' APC'ye benziyor.
+AC-130 TV Operator: Düşman aracı hareket halinde.
+AC-130 TV Operator: Direct secondary.
+AC-130 TV Operator: İkincil.
+AC-130 TV Operator: Araç yok edildi.
+AC-130 TV Operator: Araç tarih oldu.
+AC-130 TV Operator: Ah, anlaşıldı.
+AC-130 TV Operator: There we go.
+AC-130 TV Operator: Direct!
+AC-130 TV Operator: Tamam onları hakladın.
+AC-130 TV Operator: There we go!
+AC-130 TV Operator: Evet, tam hedefin üstüne.
+AC-130 TV Operator: İyi atış
+AC-130 TV Operator: Arabanın yanında bir herif var.
+AC-130 TV Operator: Arabanın ilerisinde düşman personeli var.
+AC-130 TV Operator: Kanala doğru ilerliyor.
+AC-130 TV Operator: Duvarın arkasına siper alıyorlar.
+AC-130 TV Operator: No box, no box.
+AC-130 TV Operator: Adamın öldüğünü gördüğüme eminim.
+Yzb. MacMillan: Çok fazla radyasyon var, buradan uzaklaşmalıyız.
+Yzb. MacMillan: Beni takip et ve sessiz ol.
+Yzb. MacMillan: Bu alan tamamen radyasyonla dolu. Eğer çok fazla çekersen, ölürsün.
+Yzb. MacMillan: Aptal mısın? Radyoaktif alandan uzak dur.
+Yzb. MacMillan: Düşman.
+Yzb. MacMillan: Bekle.
+Yzb. MacMillan: Kuzeyden yaklaşan bir hedef var.
+Yzb. MacMillan: Doğudan yaklaşan bir hedef var.
+Yzb. MacMillan: Güneyden yaklaşan bir hedef var.
+Yzb. MacMillan: Batıdan yaklaşan bir hedef var.
+Yzb. MacMillan: Hedef yok edildi.
+Yzb. MacMillan: İndirdim.
+Yzb. MacMillan: Düşmanı vuruldu.
+Yzb. MacMillan: Öldü.
+Yzb. MacMillan: İyi uykular.
+Yzb. MacMillan: Yürü.
+Yzb. MacMillan: Temas - ileride düşman devriyesi var. 
+Yzb. MacMillan: Sessiz ve yavaşça yürü, bu kamuflaj giysilerimizin içinde farkedilmemiz olanaksız.
+Yzb. MacMillan: Biri bakmıyorken diğerinin icabına bak.
+Yzb. MacMillan: Yakalandık! Gizlen hemen!
+Yzb. MacMillan: Üzerimizdeler, ateş aç!
+Yzb. MacMillan: Kahretsin! Gizliliğimiz bozuldu!
+Yzb. MacMillan: Bizi gördüler! Hallet onları!
+Yzb. MacMillan: Bekle...bırak devam etsinler...
+Yzb. MacMillan: Sabret...sakın aptalca bir şey yapma.
+Yzb. MacMillan: Kıpırdama...Bizi görmediler...henüz.
+Yzb. MacMillan: ;Ceset buldular. Bundan sessizce kurtulamayız. Senin seçimin.
+Yzb. MacMillan: Saldırya başlamalıyız...bir ceset buldular
+Yzb. MacMillan: TCesedi boşvermezler...iş gittikçe kötüleşiyor...
+Yzb. MacMillan: Köpekler!
+Yzb. MacMillan: Bu yaptığında neydi şimdi? Bizi öldürmeye mi niyetlisin? Devam edelim...ve bunun gibi bir şeyi tekrarlama.
+Yzb. MacMillan: Az kaldıydı, Teğmen. Yürü.
+Yzb. MacMillan: We won't get very far trying to shoot our way out of every situation. Move up.
+Yzb. MacMillan: Eğer buradan gidersek çok daha fazla korumayla karşılaşırız.
+Yzb. MacMillan: Dört düşman içeride.
+Yzb. MacMillan: Aklından bile geçirme...
+Yzb. MacMillan: Burada bekle. Arabanın yanında düşman var.
+Yzb. MacMillan: Sessizce işini bitir ya da bırak geçsin. Senin seçimin.
+Yzb. MacMillan: İçeri dönüyor.
+Yzb. MacMillan: Hemen yere yat!
+Yzb. MacMillan: Sakin ol delikanlı... onlardan çok fazla var. Sessiz ol ve sakın ateş etme.
+Yzb. MacMillan: Tamam, devam edelim. Yavaşça.
+Yzb. MacMillan: Görünüşe göre satın alamadıkları adamı çoktan elemişler.
+Yzb. MacMillan: Kilise kulesinde bir gözcü....
+Yzb. MacMillan: ...ve kuzeyden gelen bir devriye var.
+Yzb. MacMillan: İyi atıştı. Ama hâlâ kuzeyden bir devriye geliyor.
+Yzb. MacMillan: Daha iyi bir görüş alanına geçelim.
+Yzb. MacMillan: Kuledeki adamı vurabilir misin?
+Yzb. MacMillan: Adam kulede.
+Yzb. MacMillan: Öteki kulede.
+Yzb. MacMillan: Hayır, ötekinde.
+Yzb. MacMillan: Yanlış kuleye bakıyorsun. Doğru olan sağ tarafında.
+Yzb. MacMillan: Güzel.
+Yzb. MacMillan: Lanet olsun, kuledeki herif cesetleri görecek.
+Yzb. MacMillan: Kendi gibilerini yardıma çağırabilirdi, geride kimseyi bırakmamak iyi oldu.
+Yzb. MacMillan: Sanırım oradan cesetleri göremez. Bu gerçekten yakındı.
+Yzb. MacMillan: Devriye bir süreliğine geri dönmez, işte şansımız.
+Yzb. MacMillan: Hazırlan. Gözcünün arkasını dönmesini bekle.
+Yzb. MacMillan: Hazır mısın? Gidelim!
+Yzb. MacMillan: Hepsi dışarıda toplanmış sanki bir bok var gibi. Sinyalimle hareket etmeye hazır ol, benim tam arkamda dur.
+Yzb. MacMillan: Bekle. Bekle... Gidelim!
+Yzb. MacMillan: Dur.
+Yzb. MacMillan: Burada bekle!
+Yzb. MacMillan: Hazır ol. Bana yakın kal.
+Yzb. MacMillan: Tamam - gidelim!
+Yzb. MacMillan: Burada bekle.
+Yzb. MacMillan: Bu taraftan. Gidelim
+Yzb. MacMillan: Kıpırdama.
+Yzb. MacMillan: Sıkı dur.
+Yzb. MacMillan: Eğil.
+Yzb. MacMillan: Fazla gözükme.
+Yzb. MacMillan: Gölgede kal.
+Yzb. MacMillan: Shhh.
+Yzb. MacMillan: Kendini belli etme.
+Yzb. MacMillan: Gidelim.
+Yzb. MacMillan: Beni takip et.
+Yzb. MacMillan: Etraf temiz.
+Yzb. MacMillan: Bölge temiz.
+Yzb. MacMillan: Önümüz temiz.
+Yzb. MacMillan: Sağ taraf temiz.
+Yzb. MacMillan: Sol taraf temiz.
+Yzb. MacMillan: Şuranın haline bir bak. Elli bin insan yaşıyordu bu şehirde. Ama artık burası bir hayalet şehir... Daha önce hiç böyle bir şey görmedim.
+Yzb. MacMillan: Bunu duydun mu?
+Yzb. MacMillan: Otel orada. Takası oradan gözetleyebiliriz. Gidelim.
+Yzb. MacMillan: Düşman helikopteri, hemen eğil!
+Yzb. MacMillan: Geri dönecektir. Kıpırdama.
+Yzb. MacMillan: All right, now you're just showin' off. Lets go.
+Yzb. MacMillan: Nereden gideceklerini tahmin etmeye çalış.
+Yzb. MacMillan: Eğer bir manevra yapman gerekiyorsa bunu yavaş bir şekilde yap.
+Yzb. MacMillan: Diğerlerini alarma geçirmeden onların icabına bakmak kolay olmayacak...
+Yzb. MacMillan: ...Onları geçmek de aynı şekilde. Senin seçimin.
+Yzb. MacMillan: Senin seçimin.
+Yzb. MacMillan: Kamyonun yanındaki ikisine ateş etme.
+Yzb. MacMillan: Onları aynı anda halletmeliyiz.
+Yzb. MacMillan: İyi bir pozisyona geçmemi bekle.
+Yzb. MacMillan: Beni bekle.
+Yzb. MacMillan: Pozisyonumu aldım. Hazır olduğunda ateş et.
+Yzb. MacMillan: Ateş etme. Yeni bir posizyona ilerliyorum.
+Yzb. MacMillan: Ateş etme, yer değiştiriyorum.
+Yzb. MacMillan: Ateş etme. Hareket halindeyim.
+Yzb. MacMillan: Yerimdeyim.
+Yzb. MacMillan: Tamam..hazır olduğunda.
+Yzb. MacMillan: Gizlilik kelimesi senin için bir anlam ifade etmiyor, değil mi? Yürü.
+Yzb. MacMillan: Koru beni...
+Yzb. MacMillan: Oi, Suzy!
+Yzb. MacMillan: Koruma sol tarafımda.
+Yzb. MacMillan: Arkamda dur. Sessiz ol, o benim.
+Yzb. MacMillan: Bu iş böyle yapılır. Haydi gidelim.
+Yzb. MacMillan: Geri çekil.
+Yzb. MacMillan: Bu tarafa doğru gelen bir devriye var.
+Yzb. MacMillan: Geçmesini bekle.
+Yzb. MacMillan: Sağır mısın?
+Yzb. MacMillan: I'll say one thing, you certainly got the minerals.
+Yzb. MacMillan: Biraz daha bekleyelim, belki koruma gider...
+Yzb. MacMillan: Devriye bu tarafa doğru geliyor, arkada dur.
+Yzb. MacMillan: Biraz bekle ve olayı kavra.
+Yzb. MacMillan: Bekle...
+Yzb. MacMillan: Gelen bir kamyon var, onu siper olarak kullanacağız.
+Yzb. MacMillan: Sadece bir dakika bekle burada. Ayrıldıklarında sürünerek çık ve yavaş ol.
+Yzb. MacMillan: Tamam, devam edelim.
+Yzb. MacMillan: Birlikte çalışıyoruz, unuttun mu? Beni bekle.
+Yzb. MacMillan: Bizi kimse görmedi, devam edelim. Bu taraftan...
+Yzb. MacMillan: Keskin nişancı. Yangın çıkışında. Dördüncü katta. Tam önümüzde.
+Yzb. MacMillan: Onun işini bitir yoksa yerimizi belli ederiz.
+Yzb. MacMillan: Yangın çıkışının bulunduğu dördüncü katta.
+Yzb. MacMillan: Keskin nişancıyı gördün mü? Dördüncü kat, yangın çıkışında
+Yzb. MacMillan: Ateş et. Tam karşımızda duran yangın çıkışında.
+Yzb. MacMillan: Elleme. Yabani bir köpek.
+Yzb. MacMillan: İleride yabani bir köpek var, bırak kalsın.
+Yzb. MacMillan: İt çok da arkadaş canlısı görünmüyor.
+Yzb. MacMillan: Mesafeni koru. Gereksiz bir hamle yapma.
+Yzb. MacMillan: Bu ses kulağa hiç de hoş gelmiyor.
+Yzb. MacMillan: Whew, bu yakındı.
+Yzb. MacMillan: Hemen pes etme. Daha varmadık.
+Yzb. MacMillan: Bu şeylerden nefret ediyorum.
+Yzb. MacMillan: Teğmen Price, buluşma başlıyor. Düşman araçları hedef bölgeye girerken görüldü.
+Yzb. MacMillan: Şimdi Barrett'e geç ve işaretimi bekle. Ben demeden ateş etme.
+Yzb. MacMillan: Sana öğrettiklerimi hatırla. Nem değişikligini ve merminin uçuş yolundaki rüzgarın hızını aklında tut. Bu mesafeden Coriolis kuvvetini de hesaba katmak zorundasın.
+Yzb. MacMillan: Rüzgar yön değiştirmeye başladı. Bunu telafi edebilir ve ya, bekleyebilirsin, fakat rüzgar sakinleşmeden o gidebilir. Senin seçimin.
+Yzb. MacMillan: Pekala...Başlamak üzere...
+Yzb. MacMillan: Bekle...bayrağa dikkat et. Rüzgarın hızındaki ve yönündeki değişikleri izle.
+Yzb. MacMillan: Ayarlamaları yap. Bekle.
+Yzb. MacMillan: Sol tarafta beyaz bir araç var, uzaklık, 1203.5 metre.
+Yzb. MacMillan: Tanka olan uzaklık, 1207 metre.
+Yzb. MacMillan: Çantanın bulunduğu masaya uzaklık, 1206 metre.
+Yzb. MacMillan: Tamam...Sanırım onu gördüm. İşaretimi bekle.
+Yzb. MacMillan: Hedef...görüldü. Imran Zakhaev olduğu tespit edildi.
+Yzb. MacMillan: Ah, bu da nereden çıktı şimdi? Sabırlı ol delikanli... Temiz bir atış için bekle...
+Yzb. MacMillan: Wait - the wind's picked up. Let it die down before you take the shot. Don't rush it.
+Yzb. MacMillan: Tamamdır ateş et.
+Yzb. MacMillan: Ya şimdi ya da asla , ateş et!
+Yzb. MacMillan: Hay anasını, görüş açım kapandı. İndirdin mi onu? Galiba kolunun uçtuğunu gördüm. Görebiliyor musun?
+Yzb. MacMillan: Damn, it went wide! Probably should've waited for the wind to die down.
+Yzb. MacMillan: Hedef hâlâ ayakta! Ateşe devam et!
+Yzb. MacMillan: Hedef vuruldu. Kolunun uçtuğunu gördüm sanırım. İyi işti Teğmen. Onu hakladık.
+Yzb. MacMillan: Hedef vuruldu. Sanırım kolunu kopardın. Şok ve kan kaybı onu öldürecektir.
+Yzb. MacMillan: Hedef vuruldu! İyi atisti, Teğmen.
+Yzb. MacMillan: Hasiktir... bizi gördüler! Şu helikopteri vur, bu biraz zaman kazandırır!
+Yzb. MacMillan: İyi atış Teğmen! Hadi gidelim! Bizi arıyor olacaklar!
+Yzb. MacMillan: Kestirmeden gitmeliyiz! Beni takip et!
+Yzb. MacMillan: Düşman birlikleri karşımızda. Let's cut through the woods.
+Yzb. MacMillan: Teğmen Price, beni takip et!
+Yzb. MacMillan: Tahliye noktasına gitmeliyiz! Kımılda!
+Yzb. MacMillan: Delta Two Four, burası Alpha Six! Tespit edildik, tekrar ediyorum tespit edildik, tahliye noktasina gidiyoruz, tamam!
+Yzb. MacMillan: Düşman kuzeyde.
+Yzb. MacMillan: Kuzeydoğuda hareket var.
+Yzb. MacMillan: Düşmanlar doğuya ilerliyor.
+Yzb. MacMillan: Düşman güneydoğuda.
+Yzb. MacMillan: Düşman güneyde.
+Yzb. MacMillan: Düşman güneybatıda.
+Yzb. MacMillan: Düşmanlar batıdan yaklaşıyor.
+Yzb. MacMillan: Düşman kuzeybatıda.
+Yzb. MacMillan: Kuzeyden çok düşman geliyor.
+Yzb. MacMillan: Kuzeydoğudan çok düşman geliyor.
+Yzb. MacMillan: Doğudan düşman geliyor.
+Yzb. MacMillan: Güneydoğudan düşman geliyor.
+Yzb. MacMillan: Güneyden düşman geliyor.
+Yzb. MacMillan: Güneybatıdan geliyorlar.
+Yzb. MacMillan: Düşmanlar batı tarafında.
+Yzb. MacMillan: Düşmanlar kuzeybatı tarafında.
+Yzb. MacMillan: In the woods to the north!
+Yzb. MacMillan: Movement in the woods to the northeast.
+Yzb. MacMillan: More in the woods to the east.
+Yzb. MacMillan: In the woods to the southeast!
+Yzb. MacMillan: Enemies in the woods to the south.
+Yzb. MacMillan: In the woods to the southwest.
+Yzb. MacMillan: In the woods to the west!
+Yzb. MacMillan: They're in the woods to the northwest!
+Yzb. MacMillan: Kuzeydeki çalılık bölgede düşman.
+Yzb. MacMillan: Kuzeydoğudaki çalılık bölgede düşman.
+Yzb. MacMillan: In the bushes to the east.
+Yzb. MacMillan: To the southeast, in the bushes.
+Yzb. MacMillan: More tangos in the bushes to the south.
+Yzb. MacMillan: Enemies moving in the bushes to the southeast.
+Yzb. MacMillan: Movement behind us. Coming through the bushes to the west.
+Yzb. MacMillan: More enemies behind us, in the bushes to the northwest.
+Yzb. MacMillan: In the woods!
+Yzb. MacMillan: Arkamızdalar!
+Yzb. MacMillan: Boşver onları, arkamızda bırakacağız! Tahliye noktasına gidelim!
+Yzb. MacMillan: Zaman tükenmeden önce tahliye noktasına ulaşmalıyız. Gidelim!
+Yzb. MacMillan: Burada durmaya devam edersek yakalanırız! Tahliye noktasina gidelim!
+Yzb. MacMillan: Zaman tükenmeden önce tahliye noktasına varmalıyız. Arkanı korurum.
+Yzb. MacMillan: Tahliye noktasına doğru gitmeye devam et! Gidelim!
+Yzb. MacMillan: Price! Burada vaktimizi harcıyoruz! Hemen tahliye noktasina ulaşmalıyız!
+Yzb. MacMillan: Zamanımız tükeniyor. Gitmeliyiz!
+Yzb. MacMillan: Süremiz tükeniyor! Tahliye noktasına gitmeliyiz! Arkanı korurum!
+Yzb. MacMillan: Price! Arkanı korurum! Tahliye noktasına gitmeliyiz!
+Yzb. MacMillan: Price, bırak onları! Gitmeliyiz! Zamanımız tükeniyor!
+Yzb. MacMillan: Tahliye noktasına ulaşmak için onbeş dakikamız kaldı.
+Yzb. MacMillan: On dakikamız kaldı.
+Yzb. MacMillan: Sekiz dakika.
+Yzb. MacMillan: Altı dakika kaldı, koşmaya devam et.
+Yzb. MacMillan: Beş dakika.
+Yzb. MacMillan: İzimizi şu apartmanda kaybettireceğiz! Haydii!
+Yzb. MacMillan: Acele et - bu tarafa gelirlerse diye mayın yerleştir!
+Yzb. MacMillan: Çabuk ol, mayın yerleştir!
+Yzb. MacMillan: Bekle...!
+Yzb. MacMillan: Şimdi!
+Yzb. MacMillan: Helikopter! Geri çekil! Seni koruyacağım!
+Yzb. MacMillan: Helikopter geliyor! İndirelim şu piçi.
+Yzb. MacMillan: Helikopteri vur! Pervaneye nişan al!
+Yzb. MacMillan: Price, helikoptere ateş et! Onu beraber düşüreceğiz!
+Yzb. MacMillan: Ateş! Ateş!
+Yzb. MacMillan: İyi uykular, seni puşt...
+Yzb. MacMillan: Hasiktir - Koş!
+Yzb. MacMillan: Ahhh..! - Koş!
+Yzb. MacMillan: Kahretsin, yaralandım!
+Yzb. MacMillan: Lanet olsun, kımıldayamıyorum!
+Yzb. MacMillan: Olamaz! Bacağım berbat halde, kımıldayamıyorum!
+Yzb. MacMillan: Üzgünüm dostum, beni taşımak zorunda kalacaksın!
+Yzb. MacMillan: Eger başımız belaya girerse, beni koymak için iyi bir nokta bulmalısın ki seni koruyabileyim.
+Yzb. MacMillan: Price! Beni, seni koruyabileceğim bir yere koy!
+Yzb. MacMillan: Hey! Beni, seni koruyabileceğim bir yere oturttur!
+Yzb. MacMillan: Beni çabuk yere koysan iyi olur böylece arkamızı korurum...
+Yzb. MacMillan: Teğmen Price! Fazla uzaklaşma.
+Yzb. MacMillan: Tahliye noktası güney batıda. Eğer acele edersek başarabiliriz.
+Yzb. MacMillan: Apartmana gir, izimizi kaybettirmeye çalışalım.
+Yzb. MacMillan: Nerdeyse geldik. Tahliye noktası binanın diğer tarafında.
+Yzb. MacMillan: Pekala, gidelim!
+Yzb. MacMillan: Hazırlan...
+Yzb. MacMillan: Gidelim!
+Yzb. MacMillan: Haydi, gidelim!
+Yzb. MacMillan: Gitme vakti.
+Yzb. MacMillan: Beni yere koyup odayı temizlesen iyi olur, ben girişi korurum.
+Yzb. MacMillan: Bekle. İlk önce odaların temiz olduğundan emin ol.
+Yzb. MacMillan: Kolay değil mi...
+Yzb. MacMillan: Yavaş ol...
+Yzb. MacMillan: Dikkatli ol...
+Yzb. MacMillan: Gitme zamanı, bana bir el at.
+Yzb. MacMillan: Görünüşe gore ortalık temizlendi, devam etmeliyiz.
+Yzb. MacMillan: Düşman birlikleri yaklaşıyor. Seni koruyabileceğim bir nokta bul ve beni bırak.
+Yzb. MacMillan: Düşmanlar yaklaşıyor. Seni koruyabileceğim bir nokta bul ve beni bırak.
+Yzb. MacMillan: Düşmanlar çok hızlı yaklaşıyorlar! Seni koruyabileceğim bir yer bul ve beni bırak.
+Yzb. MacMillan: Düşmanlar yaklaşıyor! Seni koruyabileceğim bir yer bul ve beni bırak.
+Yzb. MacMillan: Beni tepeye bırak.
+Yzb. MacMillan: Güzel. Our helicopter is standing by at a safe distance. The enemy will try to overrun our LZ once they pick him up on radar, so find a good sniping spot and go prone. Once you're in position, I'll call in the helicopter. Go.
+Yzb. MacMillan: Ve eğer mayın kaldıysa geriye, onları kullanmanın tam vakti.
+Yzb. MacMillan: Kendine iyi bir yer bul ve yere yat.
+Yzb. MacMillan: Pekala delikanlı, sinyali gönderdim. Kolay gelsin.
+Yzb. MacMillan: Yerimizi otuz saniye içerisine sinyal olarak göndereceğim.
+Yzb. MacMillan: Şuraya. Beni dönme dolabın arkasına bırak.
+Yzb. MacMillan: Biraz daha kuzeye doğru...
+Yzb. MacMillan: Beni al ve biraz daha kuzeye doğru taşı.
+Yzb. MacMillan: En iyi mevki için pusulanı kontrol et.
+Yzb. MacMillan: Beni şu tepeye çıkar ki görüş açım genişlesin.
+Yzb. MacMillan: Biraz daha kuzeye, böylelikle daha temiz atışlar yapabilirim.
+Yzb. MacMillan: İyi olacak.
+Yzb. MacMillan: Beni dönme dolabın arkasına koy ki sana keskin nişancı desteği sağlayabileyim.
+Yzb. MacMillan: Price, beni daha iyi bir mevkiye taşı.
+Yzb. MacMillan: Helikopterimiz güvenli bir noktada sinyalimizi bekliyor.
+Yzb. MacMillan: Prep the killzone by planting the rest of your claymores. Move.
+Yzb. MacMillan: Kalan mayınları da kullan, tam vakti.
+Yzb. MacMillan: Otuz saniye içinde helikoptere sinyal yollayacağım.
+Yzb. MacMillan: Düşman eninde sonunda buraya gelecek, kendine iyi bir yer bul.
+Yzb. MacMillan: Tamamdır delikanlı, sinyali gönderdim. İyi şanslar.
+Yzb. MacMillan: Düşmanları gördüm. Bırak biraz daha yaklaşsınlar.
+Yzb. MacMillan: Ateş aç.
+Yzb. MacMillan: Düşman helikopterleri.
+Yzb. MacMillan: Dikkat et.
+Yzb. MacMillan: Düşmanlar sol tarafına hareket ediyor!
+Yzb. MacMillan: Düşmanlar sağ tarafına hareket ediyor!
+Yzb. MacMillan: Düşman sol tarafta!
+Yzb. MacMillan: Düşman sağ tarafta!
+Yzb. MacMillan: Dikkatini ver!
+Yzb. MacMillan: Big Bird biz yoğun ateş altındayız, neredesiniz?
+Yzb. MacMillan: Price! Helikopter geldi! Gidelim buradan, haydi!
+Yzb. MacMillan: Here's your laundry...
+Yzb. MacMillan: It sure looks heavy... 
+Yzb. MacMillan: Oh.. that IS heavy, must be goood...
+Yzb. MacMillan: What do you mean it's not Scottish?!
+Yzb. MacMillan: Well if it's not Scottish it's crap!
+Yzb. MacMillan: These MREs are tasty. Mmmm mmm! I can feel the hair on my chest growing already.
+Yzb. MacMillan: Damn. My tin foil hat's come loose. I've lost my connection to the mother ship.
+Yüzbaşı Price: Wildfire, konuşan Bravo Six, tetikte olun, büyük kiliseyi geçtik ve anayola doğru ilerliyoruz! Ateşe devem edin! Tamam!
+Yüzbaşı Price: Wildfire! Bize çok yakın ateş ediyorsun!
+Yüzbaşı Price: Wildfire, ateş ettiğin yere dikkat et! Az kalsın bizi vuruyordun!
+Yüzbaşı Price: Wildfire! Ateş ettiğin yere dikkat etsene! Bu seferkine az kalmıştı!
+Yüzbaşı Price: Wildfire, biz anayoldaki sivil araçlarını ele geçirmeye gidiyoruz. Koruyun bizi!
+Yüzbaşı Price: Wildfire, araçları işaretliyoruz! İşaretçileri gördüğünüzü onaylayın.
+Yüzbaşı Price: Wildfire, saldırı altındayız. Burada biraz yardıma ihtiyacımız var.
+Yüzbaşı Price: Wildfire, iniş bölgesine yaklaştık, araçlardan iniyoruz.
+Yüzbaşı Price: Wildfire, iniş bölgesine ulaştık, ama her taraftan ateş altındayız! İniş bölgesinin etrafının temizlenmesini rica edeceğim!
+Yüzbaşı Price: Wildfire bu seferki çok yakındı! Ateş ettiğin yere dikkat et!
+Yüzbaşı Price: Wildfire! bulunduğumuz pozisyona çok yakın ateş ediyorsun - dikkat et!
+Yüzbaşı Price: Wildfire, helikopterlere doğru ilerliyoruz. Destek için teşekkürler. Tamam.
+Yüzbaşı Price: Soap, çöp konteynerine çık ve kuledeki askerleri vurman için vereceğim emri bekle. Geri kalanınız beni takip edin.
+Yüzbaşı Price: Soap, indir şunları.
+Yüzbaşı Price: Soap, kuledekileri gebert - hemen.
+Yüzbaşı Price: Gidelim!
+Yüzbaşı Price: Giysilerinizi düşmanlarınkiyle değiştirin, ateşleri söndürün.
+Yüzbaşı Price: Kamarov, eğer şöförler soru sorarsa diye senin adamlarına aşağıda ihtiyacımız olacak. Biz Zakhaev'in oğlunun yerini saptayana kadar onları oyalayın, yeter.
+Yüzbaşı Price: Fazla vaktimiz yok, başlayalım.
+Yüzbaşı Price: Anlaşıldı One-Six. Tamam.
+Yüzbaşı Price: Anlaşıldı. Bütün ekipler beklemede kalın. Hedef tankın önündeki jipte.
+Yüzbaşı Price: Hepiniz yapmanız gerekeni biliyorsunuz. Beklemek.
+Yüzbaşı Price: Anlaşıldı. Ben diyene kadar kimse ateş etmesin.
+Yüzbaşı Price: Anlaşıldı. Bütün birlikler beklemede kalın. Hedef jipin içinde. Önden üçüncü araç.
+Yüzbaşı Price: Onu canlı ele geçirmeliyiz, yani ateş etmeyin.
+Yüzbaşı Price: Bekleyin. Bekleyin...
+Yüzbaşı Price: Ateş.
+Yüzbaşı Price: Ateş açın.
+Yüzbaşı Price: Hedef kaçıyor!
+Yüzbaşı Price: Soap! Griggs'le birlikte peşinden gidin. Buradakilerle işimiz bitince size yetişiriz. Gidin!
+Yüzbaşı Price: Soap! Griggs! Gaz! Hedefin peşinden gidin! Biz burada kalıp bu piçleri halledeceğiz.
+Yüzbaşı Price: Olmaz! Bunu riske atamayız, ateş etmeyin!
+Yüzbaşı Price: Soap, silahını al ve tutukla onu!
+Yüzbaşı Price: Soap! Hemen tutukla onu!
+Yüzbaşı Price: Baseplate konuşan Bravo Six. Zakhaev #2 öldü, üsse geri dönüyoruz.
+Yüzbaşı Price: Baseplate konuşan Bravo Six. Zakhaev'in oğlu öldü. Yuvaya dönüyoruz.
+Yüzbaşı Price: Boşver. O adamı tanırım...bunu karşılıksız bırakmayacaktır. Gidelim.
+Yüzbaşı Price: Şey, arkamızdan vurmazlar, eğer sorduğun buysa.
+Yüzbaşı Price: Güzel. İleride birkaç düşman daha olmalı. Kamarov ve adamları kuzeybatıda bir yerde bizi bekliyor olacaklar.
+Yüzbaşı Price: Gaz, kokuyu aldin mı?
+Yüzbaşı Price: Hedef nedir, Kamarov? Kurtarmamız gereken bir muhbirimiz var.
+Yüzbaşı Price: Acele etme. Beyrut'u unuttun mu? Bizimlesin.
+Yüzbaşı Price: Gidelim.
+Yüzbaşı Price: Soap, buraya gel.
+Yüzbaşı Price: Soap, sniper silahına geç.
+Yüzbaşı Price: Keskin nişancı takımı yerinde. Gaz, sol kanadı koru.
+Yüzbaşı Price: Soap! Penceredeki herifleri indir.
+Yüzbaşı Price: Soap, pencerideki herifleri indir, saat 10 yönünde aşağıda!
+Yüzbaşı Price: Şu makineli düşmanları duvardan vur. Binanın yanıdalar.
+Yüzbaşı Price: Ötekini de vur duvardan.
+Yüzbaşı Price: Soap, makineli tüfekli herfileri indir, saat 10 yönünde!
+Yüzbaşı Price: İyi vurdun, MacMillan burada olsaydı etkilenirdi.
+Yüzbaşı Price: Soap, su penceredeki makinali tüfeklileri vur ki Kamarov'un adamlari evi ele geçirebilsinler!
+Yüzbaşı Price: Düşman helikopterlerinin olacağını söylememiştin, Kamarov.
+Yüzbaşı Price: Acele edersen iyi olur Kamarov. O muhbiri istiyorum...
+Yüzbaşı Price: Henüz değil.
+Yüzbaşı Price: İyi işti Soap.
+Yüzbaşı Price: Muhbirimize ne olacak? Zamanı azalıyor!
+Yüzbaşı Price: Haydi gidelim, belki hâlâ hayattadır.
+Yüzbaşı Price: Gaz, arka tarafa git ve elektriği kes. Soap, hazır ol!
+Yüzbaşı Price: Soap, Gaz, muhbirimize bir şey olmadan önce o eve ulaşmalıyız. Gidelim!
+Yüzbaşı Price: Soap, buraya gel, haydi!
+Yüzbaşı Price: Gaz, arka tarafa git ve elektriği kes. Soap, benimle kal.
+Yüzbaşı Price: Gaz, yap şunu.
+Yüzbaşı Price: Bu gece görüş gözlükleri harbi işe yarıyor.
+Yüzbaşı Price: Bizi göremezler. Gece görüş gözlüklerininde cabası bu.
+Yüzbaşı Price: Bu o. 
+Yüzbaşı Price: Big Bird, burası Bravo Six. Adamımızı aldık. Bizimle iniş bölgesinde buluş. Tamam.
+Yüzbaşı Price: Haydi, gidiyoruz!
+Yüzbaşı Price: Hayır, saldırıları birkaç saat içinde başlar! Ne oldu?
+Yüzbaşı Price: Gidelimm! Haydi!
+Gaz: Gidelim!
+Yüzbasi Price: Ateş serbest.
+SAS: Birini indirdim.
+SAS: Fazla sayıda düşman!
+SAS: Sağ tarafta düşman!
+Yüzbaşı Price: Hammer, burası Bravo Six! İleride dört düşman var!
+Hammer Two-Four: Bravo Six buradan temiz bir atış yapamam, tamam.
+Hammer Two-Four: Olumsuz Bravo Six, temiz bir atış yapamıyorum, tamam.
+SAS: Köprü temiz.
+Yüzbasi Price: Ateşi kesin. Gaz - biz ortalığı temizleyene kadar helikopterde kal, tamam.
+Gaz: Anlaşıldı.
+Yüzbasi Price: Beni takip edin!
+Yüzbasi Price: Merdivenler temiz.
+Yüzbaşı Price: Mürettebat kışlası temiz. Devam edin.
+Yüzbasi Price: Geçit temiz!
+SAS: Merdivenler temiz!
+SAS: Geçit temiz!
+Yüzbaşı Price: Yürüyün!
+SAS: Güverte temiz efendim.
+Yüzbaşı Price: Hammer Two Four, güvertede dört düşman var, tamam.
+Hammer Two-Four: Anlaşıldı, hallediyoruz.
+Hammer Two-Four: Güverte güvenli! Alpha ekibi için yeşil ışık, gidebilirsiniz!
+Hammer Two-Four: RPG! Hard right!
+SAS: İyi uykular.
+SAS: Tatlı rüyalar.
+Yüzbaşı Price: Yarasın koçuma.
+Yüzbaşı Price: Temiz.
+Yüzbaşı Price: Üçer metre arayla dağılın.
+SAS: Hedef etkisiz hale getirildi.
+SAS: Düşmanı vurduldu.
+SAS: Düşman yok edildi.
+Gaz: Hedef etkisiz hale getirildi.
+Gaz: Düşman yok edildi.
+Gaz: Hazırız, efendim.
+Gaz: İki tahnesi rıhtımda.
+Yüzbaşı Price: Gördüm.
+Gaz: Misafirlerimiz var.
+Yüzbaşı Price: Hammer Two-Four, ikinci katta düşman var.
+Hammer Two-Four: Hammer'dan Bravo Six'e. 2. kat temizlendi, bütün düşmanlar temizlendi.
+Hammer Two-Four: Bravo Six, Hammer'ın yakıtı bitmek üzere. Ayrılıyoruz. Big Bird on dakika içinde tahliye noktasında olacak.
+Yüzbaşı Price: Anlaşıldı Hammer.
+Yüzbaşı Price: Wallcroft, Griffen, arkamızı kollayın. Geri kalanınız, beni takip edin.
+Gaz: Bu silahı yakın çatışmalarda kullanmayı seviyorum.
+SAS: Haklısın, dostum.
+Yüzbaşı Price: İşaretimle - haydi!
+Yüzbaşı Price: Füze geliyor! Sıkı tutunun!
+Yüzbaşı Price: Hâlâ tek parçasın. 
+Yüzbaşı Price: Kalk haydi.
+Yüzbaşı Price: Haydi, arama ekipleri gelmeden evvel harekete geçmeliyiz.
+Yüzbaşı Price: Kaza raporu ver.
+Yüzbaşı Price: Kahretsin..
+Yüzbaşı Price: Pekâlâ, çıkarma noktası buraya yakın. Harekete geçelim.
+Yüzbaşı Price: Anlaşıldı Bravo Six, tamam.
+Yüzbaşı Price: Yavaş olun. Beladan uzak duralım.
+Yüzbaşı Price: Şu köprünün altına girin - kaldırın kıçınızı.
+Yüzbaşı Price: Tamamdır, haydi gidelim.
+Yüzbaşı Price: Durun. Misafirlerimiz var.
+Yüzbaşı Price: Ateş etmeyin.
+Yüzbaşı Price: Tamamdır, şu şerefsizleri haklayalım da zavallı adamı öldürmesinler.
+Yüzbaşı Price: Tamam, devam edelim.
+Yüzbaşı Price: Spot ışığı. Yere yatın.
+Yüzbaşı Price: Yerde kalın... Yerde kalın.
+Yüzbaşı Price: Hay sikim! Koşun!
+Yüzbaşı Price: Helikopter gidiyor. Haydi yürüyün.
+Yüzbaşı Price: Karşı ateş edin.
+Yüzbaşı Price: Gaz, biz onları uzak tutarız, sen hemen bodrumun kapısını aç, hemen!
+Yüzbaşı Price: Eve girin! Yürü yürü!
+Yüzbaşı Price: Girin bodruma!
+Yüzbaşı Price: Neyi bekliyorsun, girsene şuraya!
+Yüzbaşı Price: Soap! Bir noktayı al ve çıkış için araştırma yap.
+Yüzbaşı Price: Dikkatli olun...
+Yüzbaşı Price: Görünüşe göre nerede olduğumuzu bilmiyorlar. Şuradan devam edelim.
+Yüzbaşı Price: Haydi tabanlara kuvvet. Yürüyün.
+Yüzbaşı Price: Bekleyin, ileride köprüde nöbetçiler var.
+Yüzbaşı Price: Spot ışığından uzak durun.
+Yüzbaşı Price: Haydi gidelim, ama yavaş olun.
+Yüzbaşı Price: Yürü.
+Yüzbaşı Price: Karşı ateş edin ve devam edin. Haydi!
+Yüzbaşı Price: Helikoptere dikkat edin!
+Yüzbaşı Price: Helikopter başka bir yöne geçiş yapıyor. Boyumuzu geçen bir siper bulalım!
+Yüzbaşı Price: Soap! Bir Stinger kap ve helikopteri indir. Kıpırda!
+Yüzbaşı Price: İyi iş çıkardın Soap. Toplanın, gidiyoruz.
+Yüzbaşı Price: Warhammer, yakın bir tehlike için görevin var. Düşmanların zırhlı ve piyade birlikleri var. Bizim olduğumuz yerden 100 metre güneybatıdalar. Tamam.
+Yüzbaşı Price: Anlaşıldı Warhammer. Şimdi çıkıyoruz. Tamam. Haydi, gidiyoruz!
+Yüzbaşı Price: Griggs nerede?
+Yüzbaşı Price: Tek başınayız. Bravo Six çıktı. Gidelim.
+Yüzbaşı Price: Seslere bakılırsa Griggs'i yakalamışlar.
+Yüzbaşı Price: Soap, burada toplanın.
+Yüzbaşı Price: Griggs'i bu evlerin birinde tutuyor olmalılar.
+Yüzbaşı Price: Bodrum kapasında bir giriş yeri var. Oradan dolaşarak gideceğiz. Sessiz olun. Yürüyün.
+Yüzbaşı Price: Anlaşıldı, alt katta buluşalım.
+Yüzbaşı Price: İkinci eve ilerliyoruz, sessiz olun.
+Yüzbaşı Price: Bir sonraki eve ilerleyelim. Sessiz olun.
+Yüzbaşı Price: Soap, git bi' göz at.
+Yüzbaşı Price: Görünüşe göre yer burası.
+Yüzbaşı Price: Hazırlanın.
+Yüzbaşı Price: Soap, Griggs'in iplerini kes. Gidelim.
+Yüzbaşı Price: İlk düşüncem buydu ama, bütün C4'ler sendeydi.
+Yüzbaşı Price: Sen iyi misin?
+Yüzbaşı Price: Pekala, Birinci Takım, Griggs'i aldık, ve ikinci binadan çıkıyoruz.
+Yüzbaşı Price: Güneş doğuyor. Zamanınımız azalıyor.
+Yüzbaşı Price: Şu kuleyi devirmeliyiz ki ekiplerimiz diğer tarafa geçebilsin.
+Yüzbaşı Price: Anlaşıldı. Slicks inbound! Take cover!
+Yüzbaşı Price: Yürüyün.
+Yüzbaşı Price: İkinci Takım, durumunuz nedir, tamam?
+Yüzbaşı Price: Charlie Six, durumunuz nedir, tamam?
+Yüzbaşı Price: Anlaşıldı. Soap, bombaları yerleştir. Yürü.
+Yüzbaşı Price: Soap - yap şunu!
+Yüzbaşı Price: İkinci Takım, kule yerle bir edildi ve elektrikler kesildi. Yirmi saniye.
+Yüzbaşı Price: Charlie Six, kule yerle bir edildi ve elektrikler kesildi. Yirmi saniye.
+Yüzbaşı Price: Anlaşıldı İkinci Takım, geliyoruz. Tamam.
+Yüzbaşı Price: Haydi gidelim!
+Yüzbaşı Price: Şu çiti kesin!
+Yüzbaşı Price: Anlaşıldı. Eski üsse doğru yaklaşıyoruz. Bekleyin.
+Yüzbaşı Price: Gaz, Soap ve geri kalanı, siz şu taraftan gidin.
+Yüzbaşı Price: Griggs'le ben alternatif bir yol arayacağız.
+Yüzbaşı Price: Pekala beyler, talimi biliyorsunuz. Griggs, sen Soap'la birliktesin. Geri kalan herkes beni takip etsin. Gidelim.
+Yüzbaşı Price: Binaların yanlarına saklanıyorlar.
+Yüzbaşı Price: Bir roketatar al ve şu tankı uçur!
+Yüzbaşı Price: Dikkat et - arkamızdalar!
+Yüzbaşı Price: Arkamızdan saldırıyorlar!
+Yüzbaşı Price: Soap, hallet şu tankı!
+Yüzbaşı Price: Ana kapıya doğru devam edin, haydi, haydi!
+Yüzbaşı Price: Düşman birlikleri iniyor!
+Yüzbaşı Price: Ateş etmeyin, bunlar Amerikan askerleri.
+Yüzbaşı Price: Delta One X-Ray, ateşlenmiş bir füze var. Tekrar ediyorum ateşlenmiş -
+Yüzbaşı Price: Delta One X-Ray - havada ateşlenmiş iki füze var!
+Yüzbaşı Price: Anlaşıldı.
+Yüzbaşı Price: You don't say.... Let's go! We've got to move!
+Yüzbaşı Price: Baseplate burası Bravo Six, helikopterimiz ne durumda, tamam?
+Yüzbaşı Price: Bu hiç iyi değil, Baseplate! On dakika zor dayanırız!
+Yüzbaşı Price: Sıkıştırıyorlar!
+Yüzbaşı Price: Sıkıştırdılar! Haydi, hallet şunları!
+Yüzbaşı Price: Helikopter yavaşladı!
+Yüzbaşı Price: Sıkı tutunun!
+Yüzbaşı Price: Köprü fazla dayanamayacak, haydi haydi çabuk!
+Yüzbaşı Price: Gaz, bana helikopter hakkında durum raporu ver!
+Yüzbaşı Price: Sakin olun! Dikkatiniz dağılmasın!
+Yüzbasi Price: Pekala. Soap da ne boktan isim öyle, he? Senin gibi bir müspette nasıl oldu da elemeyi geçebildi?
+Yüzbaşı Price: Like hell I will...all right Soap, it's your turn for the CQB simulation. Everyone else head to observation. Move!
+Yüzbaşı Price: Şuradaki merdivene tırman.
+Yüzbaşı Price: Oradaki merdivenden tırman.
+Yüzbasi Price: İşaretimle birlikte ipten aşağı güverteye sarkınıp 1. pozisyona hücum etmeni istiyorum.
+Yüzbasi Price: Ondan sonra da merdivenlerden pozisyon 2'ye taaruz edeceksin.
+Yüzbasi Price: Son olarak kesin talimatlarımı dinleyerek pozisyon 3 ve 4'ü vuracaksın.
+Yüzbasi Price: Haydi haydi haydi!
+Yüzbasi Price: Hedefleri vur!
+Yüzbasi Price: Pozisyon 2'ye, koş!
+Yüzbasi Price: Kapıdan içeri bir flash bombası at!
+Yüzbasi Price: Pozisyon 3'e, koş!
+Yüzbaşı Price: Pozisyon 4!
+Yüzbasi Price: Soap, Y.M.T testi için sıra sende. Diğer herkes gözetleme kısmına.
+Yüzbasi Price: Bu testi geçebilmek için kargo gemisinde tek başına 60 saniyeden az sürecek şekilde mücadele etmelisin.
+Yüzbasi Price: Tam 19 saniye ile takımın rekoru Gaz'da duruyor. Kolay gelsin.
+Yüzbaşı Price: Şimdi pusulanda işaretli olan yere doğru git.
+Yüzbaşı Price: Orada duran MP5'i ve dört flash bombasını al.
+Yüzbaşı Price: Soap! Ben işaretimi verene kadar bekle!
+Yüzbaşı Price: Kullandığın flash bombalarını yenileri ile değiştir.
+Yüzbaşı Price: Hazır ol...başla!
+Yüzbaşı Price: Birkaç flash bombası daha al.
+Yüzbaşı Price: Bir hedefi kaçırdın, geri dön!
+Yüzbaşı Price: Birkaç flash bombası al.
+Yüzbaşı Price: Geri git! Hedeflerden birini kaçırdın!
+Yüzbasi Price: MP5'i al!
+Yüzbaşı Price: Geri git!
+Yüzbaşı Price: Soap. MP5'i al.
+Yüzbaşı Price: Önce odaya flash bombası atmalısın!
+Yüzbaşı Price: Çok yavaştın, merdivene tırman ve baştan başla.
+Yüzbaşı Price: Soap. Flash bombalarını al.
+Yüzbaşı Price: Soap, çok yavaştın. Tekrar dene.
+Yüzbasi Price: Hazır olduğunda ipi kavra.
+Yüzbaşı Price: Çok yavaşsın! Biraz daha hızlı ol evlat! Seninle dalga geçiyor mu sanıyorsun?
+Yüzbasi Price: Pozisyon 5'e, koş!
+Yüzbasi Price: Altıya koş!
+Yüzbaşı Price: Final pozisyonuna git!
+Yüzbaşı Price: Karpuzu bıçakla
+Yüzbaşı Price: Bıçağını karpuzda kullan!
+Yüzbasi Price: İyi işti Soap, ama daha iyisini de gördüm.
+Yüzbasi Price: Bir kez daha denemek istersen merdivenden tekrar tırman.
+Yüzbasi Price: İstemiyorsan bilgi almak için monitörlerin yanına gel.
+Yüzbaşı Price: Bilgi almak için monitörlerin yanına gel.
+Yüzbaşı Price: Odaya flash bombası at!
+Yüzbaşı Price: Flash bombasını yanlış yere attın
+Yüzbaşı Price: Kaçırdın!
+Yüzbaşı Price: Yerdeki çizgileri takip et.
+Yüzbaşı Price: Otherwise go over to the second CQB course.
+Yüzbaşı Price: Hazır ol...
+Yüzbaşı Price: Başla!
+Yüzbaşı Price: 2. pozisyona git!
+Yüzbaşı Price: Pozisyon 3!
+Yüzbaşı Price: Dört!
+Yüzbaşı Price: Beş!
+Yüzbasi Price: Final pozisyonu!
+Yüzbasi Price: Bitişe koş!
+Yüzbaşı Price: Ne iyi, ne kötü.
+Yüzbaşı Price: Tamamdır Soap, bu kadar yeter. İdare eder.
+Yüzbaşı Price: Daha iyilerinide gördüm, ama idare edeceğiz.
+Yüzbaşı Price: Bu da bir ilerleme, ama yeteri kadar iyi değil. Tekrar dene.
+Yüzbaşı Price: Bu daha iyiydi. Harika değil, ama daha iyi.
+Yüzbaşı Price: Vaktimizi harcama Soap. Amaç daha az sürede bitirmek, daha çok sürede bitirmek değil.
+Yüzbasi Price: Daha da yavaşlıyorsun! Sana bir sanş daha vermek bir hataydı.
+Yüzbaşı Price: Hızlıydı, ama uyduruktu. İsabet konusunda çalışmalısın.
+Yüzbaşı Price: Go back to position one if you want try for a better time.
+Yüzbaşı Price: İstemiyorsan bilgi almak için monitörlerin yanına gel.
+Yüzbaşı Price: That's a new squadron record Soap! Not bad at all.
+Yüzbaşı Price: Kalan hedefleri de vur. 
+Yüzbaşı Price: Kalan hedefleri de vur.
+Yüzbaşı Price: Diğer hedefleride vur.
+Yüzbasi Price: Beyler, kargo gemisi operasyonu bizi bekliyor. Hazırlanın. Gece saat 2'de yola çıkacağız. Dağılabilirsiniz.
+Yüzbaşı Price: Üzerindeyiz, tamam!
+Yüzbaşı Price: Gizliliğimiz bozuldu! Gaz! AT4'ü hazırla!
+Yüzbaşı Price: Zaten destek aldık, Griggs!
+Yüzbaşı Price: Anlaşıldı! Bizi gelişmelerden haberdar edin! Tamam!
+Yüzbaşı Price: Birkaç sis bombası at!
+Yüzbaşı Price: Soap! Şu tanka bir C4 yerleştir!
+Yüzbaşı Price: O tankı yok etmeliyiz! C4'ü kullan!
+Yüzbaşı Price: İlerlemeye devam edin!
+Yüzbaşı Price: Sağ taraftan ilerleyin!
+Yüzbaşı Price: Birinci takım, sağ taraftaki kapıya doğru ilerledik!
+Yüzbaşı Price: Everyone advance up the right side! The left gate is blocked I repeat, the left gate is blocked!
+Yüzbaşı Price: Yaklaştık, füze rampasına doğru giden kapıdayız! Tamam!
+Yüzbaşı Price: Geçin! Gidelim!
+Yüzbaşı Price: Soap! Griggs! Halledin şunları, gidin!
+Yüzbaşı Price: Şu zırhlıyı ortadan kaldıramazsan hepimiz gebeririz! C4'ü kullan!
+Yüzbaşı Price: Şu zırhlıya C4 yerleştir.
+Yüzbaşı Price: Olumlu Takım Üç! Sizinle havalandırma kuyusunun bulunduğu asfaltın kuzeyinde buluşacağız.
+Yüzbaşı Price: Ekip, kancaya tutturun!
+Yüzbaşı Price: Soap! Kancaya tutun! Gidelim!
+Yüzbaşı Price: Soap! Ortadaki kuyuda kancaya tutun!
+Yüzbaşı Price: Gidelim! Ortadaki kuyu! Kancayı tuttur!
+Yüzbaşı Price: Buraya gel! Aşağı iniyoruz!
+Yüzbaşı Price: İkinci kuyudaki kancaya tutun, gidiyoruz!
+Yüzbaşı Price: Pekala, içerideyiz.
+Yüzbaşı Price: Anlaşıldı Delta Six, hemen üzerinizdeyiz, ateşinize dikkat edin.
+Yüzbaşı Price: Anlaşıldı Yankee Six. İkinci Takım ile birleşin ve onlara güvenliği ele almalarında yardım edin, tamam.
+Yüzbaşı Price: Geri sayımı başlattılar! Zakhaev kalan füzeleride fırlatacak! Devam et.
+Yüzbaşı Price: Yürü! Yürü!
+Yüzbaşı Price: İkinci Takım, yerimizdeyiz. Hedefleme kontrolünün kapısını aç.
+Yüzbaşı Price: Gaz, kapının açılışını hızlandıramaz mısın?
+Yüzbaşı Price: Vay hergele vay...
+Yüzbaşı Price: Herkes hazırlansın.
+Yüzbaşı Price: Griggs! Hallet şunu.
+Yüzbaşı Price: Üçüncü takım, durumunuz nedir, tamam?
+Yüzbaşı Price: Olumlu. Patlamaya hazırlanın. Soap - patlayıcıları yerleştir, haydi!
+Yüzbaşı Price: Haydi.
+Yüzbaşı Price: Soap, kodları gir! Biz seni koruyacağız.
+Yüzbaşı Price: Tahliye noktasına ulaşmalıyız! Gidelim!
+Yüzbaşı Price: Anlaşıldı. Araç deposunda buluşuruz! Tamam!
+Yüzbaşı Price: Millet beni takip edin!
+Yüzbaşı Price: Ee...sıraya geç dostum...tabii o bizi öldürmezse...
+Yüzbaşı Price: Asansördeyiz. Bekleyin.
+Yüzbaşı Price: Pekala, kamyonlara atlayın! Gidelim!
+Yüzbaşı Price: Unutmayın, Al-Asad canlı istiyoruz. Ölüsü işe yaramaz. Gidelim.
+Yüzbaşı Price: Mükemmel. Harakete geçin.
+Yüzbaşı Price: Soap! Şu bina için hava desteği çağır!
+Yüzbaşı Price: Şu bina için hava desteği çağır!
+Yüzbaşı Price: Beni takip edin. Al-Asad'ı bulduk.
+Yüzbaşı Price: Neden yaptın bunu? Bombayı nereden buldun?
+Yüzbaşı Price: Kim o zaman?
+Yüzbaşı Price: Kim!? Bana bir isim ver!
+Yüzbaşı Price: İsim! İsmini istiyorum!
+Yüzbaşı Price: Zakhaev.
+Yüzbaşı Price: Imran Zakhaev.
+Russian Loudspeaker: Surrender at once and your lives will be spared. I am sure you will make the right choice given the circumstances.
+Russian Loudspeaker: Drop your weapons and surrender at once. You will not be harmed if you surrender.
+Russian Loudspeaker: We know you are hiding in the village. You are surrounded, there is nowhere to run. Surrender and make it easy on yourselves.
+Yüzbaşı Price: Saldırıları yakındır. Dağılın ve güney tarafını koruyun.
+Parker: Bell tower here. Two enemy squads forming up to the south.
+Parker: Negative. Wait - oh shit! Harris get ouuuuutt- 
+SAS: Shite! Parker and Harris are dead.
+SAS: Efendim, yavaş yavaş gelmeye başlıyorlar. ' Yap' demeniz yeterli.
+Gaz: Look at 'em. Cocky bastards aren't they? 
+SAS: Yeah well, stupid hurts...
+Yüzbaşı Price: Yap.
+SAS: Ka-boom.
+Yüzbaşı Price: Ateş serbest!
+Gaz: Geçmiş olsun.
+SAS: Sir, Ivan's bringin' in a recreational vehicle...
+Yüzbaşı Price: Hallte.
+SAS: Büyük bir zevkle efendim. Ateş ediyorum.
+Gaz: İyi atıştı tertip.
+SAS: Blast, I can't get a lock on the other one. Someone else'll have to do it.
+SAS: Duman perdesi oluşturuyorlar. Mac - bir şey görebiliyor musun?
+SAS: Yolda pek hareket yok. Batımıza doğru gidiyorlar sanırım.
+SAS: Belki de gitmiyorlardır!
+Yüzbaşı Price: Ekip, pozisyonunuzu koruyun, bizi daha fazla sanıyorlar.
+Gaz: Pozisyonumuzu havan toplarıyla belirliyorlar. Geri çekilmenin tam vakti.
+Yüzbaşı Price: Tamam. Soap, miniguna git ve batı kanadımızı koru. Git.
+SAS: Geri çekiliyorum.
+Yüzbaşı Price: Soap, minigunın yanına git! Yürü! Düşen helikopterde takılı!
+Gaz: Ben de.
+Yüzbaşı Price: Soap, minigunı kullanmalısın! Kıçını kaldır!
+Gaz: Geldim. Mac doğudaki binada. Doğudaki yol kapalı.
+Gaz: Soap, düşen helikopterin içine gir ve minigunı kullan!
+Yüzbaşı Price: Soap. Minigun düşen helikopterin içinde.
+Yüzbaşı Price: Helikopterde bulunan minigunın başına geç. Yürü!
+Yüzbaşı Price: Köşeleri kontrol edin!
+News Caster: ...The Russian government released a statement today confirming the death of Imran Zakhaev. 
+News Caster: According to several reliable witnesses, the Ultranationalist leader who started the brutal war in Russia was killed while attempting to evade Loyalist troops at a safehouse in Grozny.
+News Caster: In other news, the search for a ship lost in the Bering Strait due to a major storm has been called off...
+News Caster: ...The Russian government released a statement today confirming a series of nuclear missile tests in Central Russia.
+News Caster: Although world leaders were quick to denounce the action, Russian officials maintained that the missile tests fell well within established UN protocols. 
+News Caster: No comment was received from the Ultranationalist party, where rumors of a possible leadership struggle have just begun to surface.
+News Caster: ...the ship, carrying a large supply of luxury automobiles, went missing six days ago after having drifted off course in a Category 5 storm.
+Cobra Pilot: Outlaw, burası Deadly. Büyük hedefleri biz hallederiz, sorun çikaran olursa Mark 19 ile temizleyin.
+Outlaw Two-Five: Komuta, burası Outlaw Two-Five. Piyadeler kaçıyorlar. Önümüz açık.
+Romeo One-One: Remember - the objective is to capture Kriegler. I repeat: capture - Kriegler - alive. He's no good to us dead.
+Echo One-One: Surely you can't be serious.
+Romeo One-One: I am serious...and don't call me Shirley.
+Charlie One-One: Hay anasını, birisi bomba yerleştirmiş. Fazla vaktimiz yok. Hemen gitmeliyiz.
+Romeo One-One: Anlaşıldı. Patlamaya hazırlanın.
+Gaz: Efendim, hedefi üçüncü araçta görüyorum. Şu anda aracın yanına yürümekteyim.
+Gaz: Misafirlerimiz var, efendim...düşman takviyeleri güneyde...
+Gaz: Olumlu, hedef beş katlı binaya girerken görüldü.
+Gaz: Vulture One-Six, beşinci kattaki güçlendirilmiş pozisyonda yoğun ateş altındayız!
+Gaz: At şu silahı! At haydi!
+Gaz: At dedim!
+Gaz: Kaçacak bir yer kalmadı! At hemen silahı!
+Gaz: Hayır!
+Gaz: Lanet olsun, bu herif tek umudumuzdu.
+Gaz: Bu cevap benim için yeterli, efendim...
+Gaz: Soap - kapının önüne mayın yerleştir, sonra da ilgilerini çek.
+Gaz: Almam mı. Bu Kamarov.
+Gaz: Lanet olsun öylesin.
+Gaz: Anlaşıldı, koruyorum.
+Gaz: Onu bu işten uzun tutmalıyız, efendim.
+Gaz: Target of opportunity sir. We got a BMP down there.
+Gaz: Efendim, misafirlerimiz var! Helikopter birlikleri çok hızlı yaklaşıyorlar!
+Gaz: Düşmanlar etkisiz hale getirildi! Temiz!
+Gaz: Bu kadar destek yeter! Muhbir nerede?
+Gaz: Nerede o?
+Gaz: Çok da zor değilmiş, değil mi? Git otur şu köşede.
+Gaz: May be alive?? I hate bargaining with Kamarov. There's always a bloody catch.
+Gaz: Soap, ipe tutun, haydi!
+Gaz: Soap! Yüzbaşı Price ile birleş! Ben elektriği kestiğimde sizde binayı sarabilirsiniz. Yürü!
+Gaz: Soap - ben elektriği keseceğim, sende Yüzbaşı Price'ın yanına git.
+Gaz: Tamam, elektriği kestim. Girebilirsiniz.
+Gaz: Nikolai - iyi misin? Yürüyebilir misin?
+Gaz: Herkes binsin! Gidelim!
+Gaz: Sol taraf temiz.
+Gaz: Sağ taraf temiz.
+SAS: Sol taraf temiz.
+SAS: Sağ taraf temiz.
+Gaz: Hareket var.
+SAS: Hareket var.
+SAS: İskele temiz.
+Gaz: İskele temiz
+Yüzbaşı Price: Sıkı durun.
+SAS: Yürüyün.
+SAS: Önümüz temiz.
+Gaz: Önümüz temiz.
+SAS: Görünürde düşman yok.
+Gaz: Görünürde düşman yok.
+Yüzbaşı Price: Gaz, sağ taraf.
+Gaz: İlgileniyorum.
+SAS: Bekliyoruz.
+Yüzbaşı Price: Devam edin.
+Yüzbaşı Price: Bekleyin.
+Gaz: Hazırım.
+Gaz: Paulsen ve iki pilot da öldü efendim.
+Gaz: Bir AC-130 ha? Onlardan biri ile iş yapmayalı uzun zaman oldu.
+Gaz: Etraf temiz.
+Gaz: Saat altı yönünde düşman var.
+Gaz: Açıyorum!
+Gaz: Kapi açıldı efendim.
+Gaz: Flash bombası!
+Gaz: Muhtemelen tekrar toplanıyorlardır. İleride bir yerde bizi sıkıştırmaya çalışacaklardır.
+Gaz: Durun - helikopter geri döndü.
+Gaz: Yakalandık! Ateş açın!
+Gaz: Yüzbaşı Price! Ambarda Stinger füzelerinden var!
+Gaz: Lanet olsun, bu şey kafayı bulmus gibi gidiyor!
+Gaz: Soap, başka bir tane Stinger kap ve tekrar ateş et! Diger füzeyi de test edelim!
+Gaz: Ebesini becerdin Soap!
+Gaz: Tanklarla birlikte geliyorlar efendim. Plan nedir?
+Gaz: Bu çok acımasızcaydı, tertip!
+Gaz: Bilmiyorum, efendim.
+Gaz: Yeah, over by the buildings to the east. You think they got him?
+Gaz: You got it sir.
+Gaz: Düşman aracı önümüzde.
+Gaz: Temas.
+Gaz: İndirdim.
+Gaz: Öldü.
+Gaz: Temiz.
+Gaz: Oda temiz.
+Gaz: Birinci bina temiz.
+Gaz: Üçüncü bina temiz.
+Gaz: Bu kat temiz. Üste ilerleyelim.
+Gaz: Burası temiz, üste bakalım.
+Gaz: Griggs burada değil.
+Gaz: Düşman helikopterleri.
+Gaz: Kamyonları görüyorum. Yüzlerce birlik var efendim.
+Gaz: Bakın! Güneydoğuda!
+Gaz: Hazırlanın!
+Gaz: Tank arkamızda!
+Gaz: Tank sağ tarafımızda!
+Gaz: Tank sol tarafımızda!
+Gaz: Tank önümüzde!
+Gaz: Düşman helikopteri, arkamızda!
+Gaz: Düşman helikopteri sol tarafımızda!
+Gaz: Düşman helikopteri sağ tarafımızda!
+Gaz: Düşman helikopteri, karşımızda!
+Gaz: Şu roketatarı al ve helikopteri hallet.
+Gaz: Helikoptere ateş edelim!
+Gaz: Kamyonda roketatarlı birisi var! Ateş açın!
+Gaz: Roketi yollamak üzere! Halledin şunuu!
+Gaz: Kamyonda başka bir roketli! Ateş!
+Gaz: Kamyonda roketatarlı birisi var! İndirin şu herifi!
+Gaz: Misafirlerimiz çoğalıyor! Düşman birlikleri yaklaşıyor!
+Gaz: Kamyon sola doğru gidiyor!
+Gaz: Kamyon sağa doğru gidiyor!
+Gaz: Düşman kamyonu önümüzde!
+Gaz: Şu kıçını kaldırda ateş et!
+Gaz: Kamyona ateş et!
+Gaz: Şu kamyonu hallet!
+Gaz: Kamyonu hallet!
+Gaz: İyi atıştı!
+Gaz: Tamam onu hakladık!
+Gaz: Güzel! Zarar aldı! Vur bi' kere daha.
+Gaz: Hasar alıyor! Ateşe devam et!
+Gaz: Soap! Sen arkamızı kolla! Gerisini biz hallederiz!
+Gaz: Soap! Önümüzü koru! Arkayı ben korurum!
+Gaz: ^Üzerindeyiz! Soap! Yan tarafları tut!
+Gaz: Arka tarafı kollayın! Sıkıştırıyorlar!
+Gaz: Mermisi bitmiştir! Bu da iyi!
+Gaz: Durdur şu kamyonu!
+Gaz: Gaz hazır! 
+Gaz: İşte budur!
+Gaz: Merkez, burası Bravo Five. Köprünün girişinde ağır ateş altındayız. Koordinatlar: 2-4-4-3-5-2. Helikoter desteği istiyoruz. Tamam!
+Gaz: Siktiğiminin beceriksizi!
+Gaz: Yüzbaşı Price! Burada yalnızız efendim!
+Gaz: Bunu senden duymak çok güzel dostum!
+Gaz: Soap, this is Gaz. Come to the firing range and I'll let you in.
+Gaz: Soap, what's the matter? Come to the small door outside the firing range.
+Gaz: Bütün günümü senle geçiremem, Soap.
+Gaz: Soap! Hızlan.
+Gaz: Şimdi cephanelikten bir adet tabanca al.
+Gaz: As long as your aiming near the target, you can snap onto them by repeatedly popping in and out of aiming down the sight.
+Gaz: Bıçağını kullanmak, silahını değiştirmekten bile hızlıdır.
+Gaz: Karpuzu kes.
+Gaz: Nişan almayı bırak.
+Gaz: Nişangah kapalıyken vur.
+Gaz: Tablodan bir silah al.
+Gaz: Talimi biliyorsun, ilk istasyona geç ve nişan al.
+Gaz: Soap! Birinci istasyona git!
+Gaz: Hey. Birinci istasyona git.
+Gaz: Oi, nereye gidiyorsun? Birinci istasyona geri dön...
+Gaz: Yüzbaşı Price wants an evaluation of everyone's shooting skills, so don't bollocks it up mate! You may have passed Selection, but you're still on probation as far as the Regiment's concerned.
+Gaz: Şimdi nişan al, Soap.
+Gaz: Nişan al.
+Gaz: Harika...
+Gaz: Şimdi. Her bir hedefi nişan alarak vur.
+Gaz: Brilliant. You know Soap, it might help to aim your rifle before firing.
+Gaz: Hedefleri şimdi de nişan almadan vur.
+Gaz: Notice that your crosshair changes size as you fire, this indicates your current accuracy blah blah blaaah...
+Gaz: ...uhhh, also note that you will never be as accurate when you fire from the hip, as when you aim down your sights.
+Gaz: All right let's get this over with.
+Gaz: Şimdi hedefleri bir kontrplak ile kapatacağım.
+Gaz: Hedefleri bu tahtanın üstünden vurmanı istiyorum.
+Gaz: Güzel.
+Gaz: Mermiler, tahta, plastik veya metal plakalar gibi ince şeyleri delip geçebilir.
+Gaz: The larger the weapon, the more penetrating power it has.
+Gaz: But - you already knew that.
+Gaz: Moving on.
+Gaz: Şimdi hedefleri tek vuruşluk olacak şekilde ayarlıyorum.
+Gaz: Hepsini vurabildiğin kadar hızlı vur.
+Gaz: As long as your crosshairs are near the targets, you can snap onto them by repeatedly popping in and out of aiming down the sight. 
+Gaz: Bu çok yavaştı, tekrar dene!
+Gaz: Tamam tertip, bir kez daha nişan alarak vur.
+Gaz: Hala çok yavaşsın...
+Gaz: Tekrar.
+Gaz: Çok yavaşsın. Haydi ama. Bu senin için bebek oyuncağı olması gerekirdi.
+Gaz: İyi işti tertip!
+Gaz: Güzel. Şimdi tüfeğini eline al.
+Gaz: Şimdi tabancanı çek.
+Gaz: Güzel. Now switch back.
+Gaz: Good. Now draw your side arm again.
+Gaz: Good. Now switch to your side arm again.
+Gaz: Sakın unutma, silahını değiştirmek her zaman şarjör değiştirmekten daha hızlıdır.
+Gaz: If your caught with an empty magazine I recommend you switch to your sidearm, thats what its there for. 
+Gaz: We use the USP 45 now; its brilliant, it hits like a bloody train. 
+Gaz: Tamamdır Soap, bu tarafa gel.
+Gaz: Here's the situation. You're caught with an empty magazine and you're just a few feet from your enemy.
+Gaz: What do you do? Easy. You gut the bastard!
+Gaz: Pretend this watermelon is your enemy. Attack it with your knife.
+Gaz: Knife the water melon Soap. 
+Gaz: Müthiş! Meyve öldürme yeteneklerin fevkalade!
+Gaz: All right Soap. Come over here by this melon.
+Gaz: All right Soap. Go over there by that melon.
+Gaz: Yüzbaşı Price seni görmek istiyor.
+Gaz: All good here Soap. Head outside and report to Çvş. Newcastle.
+Gaz: Go see Mac at the obstacle course.
+Gaz: It's the fingy sir.
+Gaz: Anlaşıldı. Son mermim efendim.
+Gaz: Onu indirdim...
+Gaz: Kaçıyorum!
+Gaz: Bir roketatar bul ya da C4 yerleştir!
+Gaz: Füzelere dikkat edin! Onları tankı yok etmek için kullanabiliriz.
+Gaz: That's a hit! One more oughta do it!
+Gaz: Güzel vurdun, Soap.
+Gaz: Aşağı kayın! Haydi!
+Gaz: İyi atış!
+Gaz: İyi atıştı, tertip.
+Gaz: Yüzbaşı Price, ben Gaz. Güvenliği ele geçirdik. Sizin durumunuz nedir, tamam?
+Gaz: Emredersiniz, üzerindeyiz.
+Gaz: Bekleyin, çok az kaldı.
+Gaz: Tamamdır. Kapılar açılıyor
+Gaz: Olumsuz efendim. Eğer daha iyi hissedecekseniz kapıyı çekmeyi deneyebilirsiniz.
+Gaz: Yüzbaşı Price, ben Gaz, güvenlik istasyonundayım. Düşmanlar kamyonlarla birlikte geliyor. Kamyonları kullanarak buradan çıkabileceğimiz düşündüm. Araç deposunun koordinatlarını yolluyorum size.
+Gaz: Ben Gaz. Araç deposunda ateş altındayız. Nerede kaldınız?
+Gaz: Neler oluyor orada?
+Gaz: Artık öldüremeyecekler.
+Gaz: Bina temiz. Al-Asad'dan iz yok. Devam edelim.
+Gaz: Bina temiz. Sonraki binaya gidelim.
+Gaz: Bu bina temiz! Kalan binalara bakalım!
+Gaz: Burası temiz. Sonraki binaya gidelim.
+Gaz: Efendim. Bu onun telefonu.
+Gaz: Kimdi o, efendim?
+Gaz: Is this the bastard who set off the nuke sir? I reckon he killed more than his fair share of Brits with that bomb.
+Gaz: Zakhaev? You mean the Ultranationalist leader? Care to enlighten the rest of us sir?
+Gaz: Soap, minigun çalışır durumda. Düşen helikopterde takılı.
+Yüzbaşı Price: Soap, they're already in the graveyard! Get on that bloody gun!
+Yüzbaşı Price: Soap. Minigunı çalışır biçimde bırak.
+SAS: Burada bir sorunumuz var...yukarı bakın!
+Gaz: Vay anasını, ne kadar çok helikopter var di mi?
+Yüzbaşı Price: Soap, hana dön ve detonatörü kullan.
+Yüzbaşı Price: Bizler de onları meşgul tutacağız. Gidelim.
+Yüzbaşı Price: Soap! Geride kalacaksın! Detonatöre git, yürü.
+Yüzbaşı Price: Soap, biz onları oyalayacağız. Hana geri git ve mayınları patlat.
+Yüzbaşı Price: Soap, hana - geri - dön. Detonatörü kullan.
+Gaz: Soap! Detonatörü kullan! Handa dört tane var! Kıpırda!
+Gaz: Soap! Bir sonraki hatta çekiliyoruz! Gidelim! Geri de kalacaksın!
+Gaz: Detonatörler hanın ikinci katında! Pusulana bak! Biz onları oyalacağız!
+Gaz: Gidelimmm! Geri çekilin!
+Gaz: Soaap! Minigunı bıraaak! Geri çekiliyoruuz!
+Gaz: Minigunı bırak! Hemen gitmeliyiz!
+Yüzbaşı Price: Soap! Bir önceki hatta kadar çekil! Orada gebereceksin!
+Yüzbaşı Price: İmha bölgelerine gelene kadar bekle, sonrada patlat!
+Yüzbaşı Price: İmha bölgelerindeler! Patlat bombaları, hemen!
+Yüzbaşı Price: Tamam, onları hakladın. İyi iş.
+Yüzbaşı Price: İyi vurdun.
+SAS: Elimde. Ateş ediyorum!
+Komuta: Anlaşıldı, tamam. Haydi şu Abramları öne getirelim.
+Komuta: Outlaw, burası komuta, yükünün yarısını boşalt ve iki kilometre batıda biraz dinlen. Şehirde size dinç ve tamamen hazır şekilde ihtiyacımız olacak.
+Outlaw Two-Five: Anlaşıldı komuta. Outlaw Two-Five yola çıkıyor.
+Cobra Pilot: Outlaw, burası Deadly. Yakıt ve teçhizat almak için üsse dönüyoruz. Şimdilik tek başınasınız, 2-5.
+Outlaw Two-Five: Anlaşıldı, görüş alanımızdalar. Outlaw Two-Five çıktı.
+SAS: Kuzeyden yaklaşan düşman tankları var! Hay sikiyim, vuruldum! Ahh -
+Outlaw Two-Five: İniş bölgesi yoğun ateş altında. 3 dakika boyunca etrafında döneceğiz.
+Asker: Kazasız belâsız çıktın oradan he?
+Tğm. Vasquez: Evet yüzbaşım! Haydi onlar tekrar gruplanmadan önce buradan çıkalım!
+Cobra Pilot: Outlaw burası Deadly. Yakıt ve teçhizat alimını tamamladım. Beni özlediniz mi?
+Tğm. Vasquez: İniş bölgesine! Haydi yürüyün!
+Komuta: Aklınızda bulunsun, daha fazla düşman birlikleri tanka doğru yaklaşıyor. Olabildiğince çabuk gidin oraya!
+Komuta: Be advised, enemy anti-aircraft guns are keeping us from bringing in helicopter and engineer support to your location. Find those guns and take'em out.
+Komuta: Bravo Six, aklınızda bulunsun. Düşmanlar bulunduğunuz bölgenin batısında toplanıyor, tamam.
+Komuta: Ah, olumsuz, Bravo Six, bulunduğunuz bölgenin güneyinde bir uçaksavar var. Onu yok etmeden, size hava desteği sağlayamam, tamam.
+Komuta: Anlaşıldı. Yoldalar. İyi işti. Tamam.
+Komuta: Bravo Six, 2. takım sizin yakınınızda bulunan buluşma yerine doğru gidiyor, sizin durumunuz nedir, tamam?
+SAS: Bende hazirim.
+Baseplate: Bravo Six, burası Baseplate. AC-130 savaş helikopteri desteği yolda, ama destek vermek için pozisyon almaları biraz sürecek, tamam.
+Baseplate: Bravo Six, aklınızda olsun, AC-130 hava sahanıza giriyor şu anda. Tamam.
+Komuta: Bravo Six, Griggs az önce uydu alıcısını devreye soktu. Yaklaşık yarım kilometre kadar güneybatınızda.
+Komuta: Ah...olumlu Bravo Six, uydularımız ile takip ediyoruz. Takımınızla beraber içeri girin, ve kontrolü geri alın. Biz de bu arada Rusya'dan iptal etme kodlarını almaya çalışacağız. Tamam.
+Baseplate: Bravo Six, helikopter gecikti, tahmini varış süresi: onbeş dakika.
+Baseplate: Üzerindeyiz Bravo Five. Bölgedeki devlet yancıları belki size yardım edebilir fakat biz yardım edemeyiz. Baseplate çıktı.
+Komuta: Bravo Six, we're picking up heavy activity inside the facility. Enemy air is running search patterns. What's your status, over?
+Komuta: Bravo Six, burası komuta, durum raporu verin, tamam.
+Komuta: Yüzbaşı Price, ekibinize havadaki füzelerin otomatik olarak kendilerini yok etme şifrelerini gönderiyorum. O füzelerin doğu kıyısına inmeden önce onbeş dakikanız var, tamam.
+Komuta: Yüzbaşı Price, ekibinize havadaki füzelerin otomatik olarak kendilerini yok etme şifrelerini gönderiyorum. O füzelerin doğu kıyısına inmeden önce onbir dakikanız var, tamam.
+Komuta: Yüzbaşı Price, ekibinize havadaki füzelerin otomatik olarak kendilerini yok etme şifrelerini gönderiyorum. O füzelerin doğu kıyısına inmeden önce dokuz dakikanız var, tamam.
+Komuta: NORAD monitoring stations have confirmed the missiles have been destroyed in flight.
+Komuta: Onaylama için bekleyin.
+Komuta: Bekleyin...bekleyin...
+Komuta: Bravo Six, bütün füzeler havadayken yok edildi. Birço füze kalıntıları var, ama çoğu denize düşecek. Şimdi kıçınızı kaldırın ve çıkın oradan...Zakhaev'in adamları partilerini berbat ettiniz diye üssün her tarafına yayıldı.
+Komuta: Bravo Six, bütün füzeler havadayken yok edildi. Birço füze kalıntıları var, ama çoğu denize düşecek.
+Komuta: Bütün ekipler konuşan Komuta, bölgeyi hemen terk etmenizi öneriyorum. Çok sayıda düşman şu anda bulunduğunuz pozisyona doğru geliyor. Hemen çıkın oradan!
+Crew Chief: Jackson! Mark 19'un basina geç!
+Komuta: Outlaw, burada bir durum var, tamam.
+Outlaw Two-Five: Dinliyorum Komuta, tamam.
+Komuta: Seal Team Six Al-Asad'ın olduğu bölgenin batısında nükleer bir cihaz tespit etti. NEST takımları yolda. Cihazın güvenliği sağlanana kadar tüm ekipler doğuda kalacak, tamam.
+Outlaw Two-Five: What's the minimum safe distance over?
+Komuta: Minimum safe distance is ten miles. Get your asses outta there now! Out!
+Outlaw Two-Five: Deadly this is Outlaw. Al-Asad's got a nuke. We're buggin' out. Lead the way.
+Cobra Pilot: Vurulduk, vurulduk! Kuyruk rotorunu kaybettim!
+Cobra Pilot: Meydey meydey, burası Deadly, çok feci bir halde düşüyoruz!
+Cobra Pilot: Düşüyoruz!
+Outlaw Two-Five: Bir Kobramız düştü, tekrar ediyorum, bir Kobramız düştü!
+Outlaw Two-Five: Deadly burası Outlaw Two-Five, duyuyor musun?
+Outlaw Two-Five: Deadly burası Outlaw Two-Five konusuyor, cevap ver, tamam!
+Outlaw Two-Five: Komuta, kaza yerine görüşüm var. Silahlı küçük birlikler görüyorum. Arama ve kurtarma için izin istiyorum, tamam.
+Komuta: Tamamdır 2-5, ama aklınızda bulunsun, eğer füze ateş alırsa güvenli bir pozisyonda OLMAYACAKSINIZ. Anladınız mı?
+Outlaw Two-Five: Anlaşıldı. Ne yaptığımızın farkındayız.
+Komuta: Tamamdır 2-5, sen nasıl istersen. Kurtarabilirsen o pilotu kurtar. Tamam.
+Outlaw Two-Five: Deadly, duyuyor musun? Durumun nedir, tamam?
+Cobra Pilot: Ben burdayım... Keating öldü! Düşman birlikleri çok hızlı bir şekilde yaklaşıyor! Yardıma ihtiyacım var!
+Tğm. Vasquez: 2. takım benimle hedef binaya! Kıpırdayın!
+Tğm. Vasquez: İşte hedef bina! Soldaki kapıyı patlatın! Toplanın!
+Tğm. Vasquez: Patlatın!
+Tğm. Vasquez: Jackson, bir noktayı al.
+Tğm. Vasquez: Tüm ekipler, cesetleri kontrol edin. Al-Asad hakkında olumlu bir kimliğe ihtiyacımız var.
+Tğm. Vasquez: One-twenty-one durum raporu ver, tamam.
+Tğm. Vasquez: One-three-one, cevap ver.
+Tğm. Vasquez: Merkez, burası Red Dog. Hedef bina güvenli ama Al-Asad elimizde değil, tamam.
+Tğm. Vasquez: Anlaşıldı, merkez. Tamam.
+Tğm. Vasquez: Herkes dinlesin! Az önce Al-Asad'in buranın biraz doğusundaki bir TV istasyonunda yayın yaptığını ögrendim.
+Tğm. Vasquez: Yürüyerek gideceğiz ve onu paketleyip götüreceğiz. Haydi kıpırdayın.
+Tğm. Vasquez: Hedef bina görüş alanında.
+Tğm. Vasquez: Güzel, patlama için yerinizi alın.
+Tğm. Vasquez: Oda temiz! Kıpırdayın! Al-Asad ikinci katta olmalı!
+Tğm. Vasquez: Al-Asad's broadcast signal is coming from the second floor.
+Tğm. Vasquez: Tamamdır. Sıraya girin beyler. Dikkatli olun.
+Tğm. Vasquez: Griggs, kapat şunu.
+Tğm. Vasquez: Merkez, Red Dog konuşuyor. TV istasyonu güvende ama Al-Asad'dan bir iz yok. Yayın banttanmış, tamam.
+Tğm. Vasquez: Jackson, flash bombası at!
+Tğm. Vasquez: Oda temiz! Devam edin! 
+Tğm. Vasquez: Anlaşıldı merkez. Tamam.
+Tğm. Vasquez: Askerler! Canlanın! Yeni bir görevimiz var. Teçhizatınızı alın ve yola koyulmaya hazırlanın! Haydi gidiyoruz!
+Asker: Temiz, devam edin!
+Asker: Tuzak!
+Asker: Düşman görüldü! Düşman görüldü!
+Tğm. Vasquez: Şu binaya ateş edin! İlerlememiz gerek!
+Tğm. Vasquez: Yürümeye devam edin!
+Tğm. Vasquez: Alpha, merdivene doğru gidelim! Bravo, bizim için koruma ateşi açın!
+Tğm. Vasquez: Squad! This way let's go! Flank'em from the right!
+Tğm. Vasquez: Jackson, sen ve Roycewicz yukarı çıkın. Biz burayı koruyacağız. Yürüyün!
+Tğm. Vasquez: Onları şu otomatik silahla vur!
+Tğm. Vasquez: Jackson, otomatik silahı kullan!
+Tğm. Vasquez: Duvardan vur!
+Tğm. Vasquez: Harika.
+Tğm. Vasquez: Devam edelim!
+Tğm. Vasquez: Anlaşıldı, üzerindeyiz, tamam.
+Tğm. Vasquez: Çeneni kapat, ve ateş etmeye devam et!
+Tğm. Vasquez: Çatıya dikkat.
+Tğm. Vasquez: Bölgeyi temizleyin! Haydi!
+Tğm. Vasquez: Ekip, burada toplanın!
+Tğm. Vasquez: Jackson! Javelin'i al ve tankları yok et!
+Tğm. Vasquez: Jackson! Javelin'i al, hemen!
+Tğm. Vasquez: Jackson! Javelin'i al!
+Tğm. Vasquez: Jackson! İkinci kata çık ve tankları hallet!
+Tğm. Vasquez: Düşman zırhlıları gözüktü! Er West, çatıya çık ve onları Javelin ile vur!
+Tğm. Vasquez: Az kaldı, dayanın!
+Tğm. Vasquez: Bu taraftan gidelim!
+Tğm. Vasquez: Anlaşıldı. Onları koruyacağız.
+Tğm. Vasquez: Alpha Six, durumunuz nedir?
+Tğm. Vasquez: Düşmanlar doğu ve güneyde! Sıkı durun!
+Tğm. Vasquez: Patlayıcıları var! Bizim tanklara yaklaşmalarına izin vermeyin!
+Tğm. Vasquez: Jackson ben Vasquez. Tehlikedeyiz. Tanka doğru geri çekil!
+Tğm. Vasquez: Jackson ben Vasquez! Asker kaçağı mı olmak istiyorsun? Tanka doğru geri çekil, hemen!
+Tğm. Vasquez: Jackson ben Vasquez. Geri çekil, bu bir emirdir.
+Tğm. Vasquez: Two Charlie, burası Bravo Six! Görev için hava desteği talep ediyorum, tamam!
+Tğm. Vasquez: Jackson! Şu uçaksavarı bul ve hallet ki hava desteği gelebilsin! Lopez! Gaines! Jackson'ı koruyun!
+Tğm. Vasquez: Pekala, gidelim! Batı tarafını temizleyin!
+Tğm. Vasquez: Jackson, hava desteği yolda, ancak yerimizin tam olarak nerede olduğunu bilmiyorlar. Bir uyarı ışığı yerleştir ve dikkatlerini çek. Tamam.
+Tğm. Vasquez: They've got that building buttoned up! We need to call in the air support! Jackson! Plant the IR beacon!
+Tğm. Vasquez: Those machine guns are rippin' us apart! Jackson! Plant the IR beacon and get those choppers over here! Now!
+Tğm. Vasquez: Komuta, iniş bölgesi güvenli. Mühendisleri getirin, tankları götürebilirler.
+Tğm. Vasquez: Dinleyin.
+Tğm. Vasquez: Tankı buradan çıkarmak için yeterli vaktimiz yok.
+Tğm. Vasquez: Bataklağın burası, burası ve burasında defans pozisyonu alacağız. Böylelikle de mühendislere zaman kazandırmış olacağız.
+Tğm. Vasquez: Anlaşıldı mı?
+Tğm. Vasquez: Pekala, gidelim!
+Tğm. Vasquez: We're goin' deep, and we're goin' hard.
+Tğm. Vasquez: I just need a hug.
+Tğm. Vasquez: Hey! Leave the watermelons alone.
+Tğm. Vasquez: Get to the choppah!
+Tğm. Vasquez: Hey, stop poking me!
+Tğm. Vasquez: You know what'd be nice right now? A cold brewski.
+Tğm. Vasquez: We're here to kick ass and take names. Oorah.
+Tğm. Vasquez: Bi' RPG kapta indir şu helikopterleri!
+Tğm. Vasquez: Çatidaki silüetleri izle!
+Tğm. Vasquez: Anlaşıldı! Devam edin ve pozisyonunuzu koruyun, tamam!
+Tğm. Vasquez: Anlaşıldı!
+Tğm. Vasquez: Copy Warpig, you have any good news to go with that?
+Tğm. Vasquez: Warpig, burası Bravo Six! Otobüsünün yanında ağır ateş altındayız, tamam!
+Tğm. Vasquez: Anlaşıldı yap şunu!
+Tğm. Vasquez: Griggs, ateşe devam et. Bravo, geri çekilin ve sağ taraftan devam edin.
+Tğm. Vasquez: Anlaşıldı.
+Tğm. Vasquez: Warpig, konuşan Bravo Six! Saat 10 yönündeki binanın arkasında bir T-72 tankı var! Halledebilir misiniz, tamam!
+Tğm. Vasquez: İyi atıştı, Warpig. Diğer işlerimize dönelim. Haydi, çıkalım artık buradan.
+Tğm. Vasquez: Kıymetli kargomuz bozulmamış ve yolda. Neredeyse 4. anayoldayız ve kısa süre içinde 2. takım ile temas sağlanacaktır.
+Tğm. Vasquez: Dinleyin beyler! Al Asad'ın yerini saptamış olabiliriz. Herkes binsin, gidelim!
+Mac: Well...it seems Miss Soap here was kind enough to join us!
+Mac: Line up ladies!
+Mac: Go!
+Mac: Jump over those obstacles!
+Mac: This isn't a bloody charity walk - get your arses in gear! MOVE!
+Mac: I've seen "Sandhurst Komutaos" run faster than you lot!
+Mac: Move move move! What's the matter with you? You all want to be R.T.U'd?
+Mac: You crawl like old people screw!
+Mac: Oi! Soap! Yüzbaşı Price wants to see you in Hangar One! You passed my little test, now get out of my sight.
+Mac: The rest of you bloody ponces are going to run it again until I'm no longer embarassed to look at you!
+Outlaw Two-Five: Dayan, sana doğru geliyoruz.
+Tğm. Vasquez: Jackson! Onu oradan çek kurtar ve hemen iniş bölgesine gel! Haydi!
+Tğm. Vasquez: Jackson! Süremiz bitiyor! Onu oradan hemen çıkar! Biz seni koruyacağız! Çabuk ol!
+Tğm. Vasquez: Hemen helikoptere geç! Köşeleri biz tutacağız! Yürü!
+Tğm. Vasquez: I'm gonna scuttle the Cobra! Get clear!
+Tğm. Vasquez: Haydi, haydi!
+Outlaw Two-Five: Teğmen Vasquez, burası Outlaw Two-Five, şu an oradan toz olmanız için çok iyi bir zaman!
+Tğm. Vasquez: Anlaşıldı yoldayız!
+Komuta: Outlaw burası Komuta. Başkentte olası bir nükleer tehdit var. Tehditler NEST takımı tarafından temizlenene kadar en yakindaki güvenli bir bölgeye geçin.
+Tğm. Vasquez: Çıkar o pilotu oradan! Haydi!
+Tğm. Vasquez: Jackson, kokpitten çıkar pilotu! Haydi!
+Tğm. Vasquez: Zamanımız tükeniyor! Pilotu Sea Knight'a geri getir! Acele et!
+Komuta: Destek takımı sıcak bölgeye intikal etti. Yerlerini belirleyebilmeniz için yeşil sis kullanıyorlar.
+Tğm. Vasquez: Dinleyin beyler! İlerideki keşif takımlarımızdan biri sıkıştırıldı ve yardıma ihtiyacı var!
+Tğm. Vasquez: These guys lasered eleven anti-aircraft positions last night for the pre-invasion bombing. If anyone deserves a ticket outta here, it's them!
+Tğm. Vasquez: We're gonna land, and then fight our way to their position. Once we've linked up with them, we'll escort them back to the Sea Knight! 
+Tğm. Vasquez: Renkli sisin yanındaki arkadaş ekibe dikkat edin. Haydi bir an önce buradan sağ salim çıkalım!
+Vulture One-Six: Bravo Six, burası Vulture One-Six. Radyo-sinyal bozucular aktif, muhafızların koruduğu istasyonu temizleyin. Tamam.
+Vulture One-Six: Bravo Six burası Vulture One-Six, size doğru gelmekte olan konvoyu takip ediyoruz. Konvoyda altı araç saydım, tamam.
+Vulture One-Six: Bravo takımı, burası Vulture One-Six. Şu anda hedefi takip ediyorum. Hay anasını, bu adam harbi hızlı çıktı.
+Vulture One-Six: Arayı açmasın! Koş!
+Vulture One-Six: Acele etsen iyi olacak! Hedef arayı açıyor!
+Vulture One-Six: Onu kaybedeceksin! Yürü!
+Vulture One-Six: Adam kaçıyor. Kaçmasına izin vermeyin.
+Vulture One-Six: Tamam, hurdalıktan çıkıyor. Yakalayın şu herifi, haydi!
+Vulture One-Six: Hedef kuzeye doğru ilerliyor...şehrin sınırlarına doğru ilerliyor.
+Vulture One-Six: Aklınızda bulunsun, bu bölge düşman birlikleri ile kaynıyor, tamam.
+Vulture One-Six: Ateş ettiğiniz yere dikkat edin. Bu herife canlı olarak ihtiyacımız var.
+Vulture One-Six: Hey ateş ettiğin yere dikkat et! Bu herife canlı olarak ihtiyacımız var!
+Vulture One-Six: Hedef yine harekete geçti. Önünü kesebileceğiniz bir yol var.
+Vulture One-Six: Yanlış yola gidiyorsun!
+Vulture One-Six: O yoldan git!
+Vulture One-Six: Geçtin! Geri dön!
+Vulture One-Six: Yol sağ tarafında, haydi!
+Vulture One-Six: Two enemies on the other side of the dumpster straight ahead.
+Vulture One-Six: İki düşman - köşedeki yeşil araca dikkat et.
+Vulture One-Six: Demir çitin diğer tarafında birden fazla düşman var.
+Vulture One-Six: İki düşman sağ tarafınızdan geliyor.
+Vulture One-Six: Çatı katlarında hareket var.
+Vulture One-Six: Çatı katında roketatarlı düşmanlar.
+Vulture One-Six: Düşmanlar ikinci katta, senin sağında.
+Vulture One-Six: Devrilen çöp konteyrınının arkasında bir herif var.
+Vulture One-Six: Hedefi görüyorum, karşınızdaki devrilmiş araçlara doğru gidiyor.
+Vulture One-Six: Düşmanlar size doğru geliyor - sol tarafında bir yol var.
+Vulture One-Six: Düşmanlar beş katlı binanın otoparkının karşısına doğru hareket ediyor.
+Vulture One-Six: Güzeldi.
+Vulture One-Six: Onları indirdin.
+Vulture One-Six: İyi atıştı.
+Vulture One-Six: Her yer temiz.
+Vulture One-Six: Bravo takımı, hedef görebiliyor musunuz, tamam?
+Vulture One-Six: Anlaşıldı, ilgileniyorum, bekleyin.
+Vulture One-Six: Hedef ikinci katta ve binanın kuzeydoğusunda.
+Vulture One-Six: Hedef bir kat üstte. Kuzey tarafınızdab bir merdiven var.
+Vulture One-Six: Hedef binanın içinde daha hızlı hareket ediyor.
+Vulture One-Six: Bekle, bunları ben hallederim.
+Vulture One-Six: Tamamdır, bütün düşmanlar hedefsiz hale getirildi. Artık devam edebilirsiniz.
+Vulture One-Six: Çatıda hareket var, bekleyin.
+Vulture One-Six: Tamam, kimlik olumlu. Hedef çatıda, tamamıyla sizindir artık.
+Vulture One-Six: Kahretsin, onu kaybettik.
+Vulture One-Six: Hay sikeyim, hedefle teması kaybettik.
+Vulture One-Six: Lanet olsun, onu kaybettik.
+Vulture One-Six: Adam toz oldu. Onu kaybettik. Görevi iptal edin.
+Big Bird: Bravo Six, burası Big Bird. Yoldayız. Tamam.
+Cobra Pilot: Bekleyin.
+Cobra Pilot: Pekala, yerinizi saptadık. Kuzeydoğu tarafından geliyoruz.
+Cobra Pilot: Aşağıda kalan birisini görüyor musun?
+Cobra Pilot: Olumsuz, hepsini hakladık.
+Cobra Pilot: Anlaşıldı. Bütün hedefler yok edildi, ve buradan gidiyoruz. İyi şanlar çocuklar. Tamam.
+Pilot: Teğmen Vasquez, burası Outlaw Two-Five. Özel Kuvvetler Al-Asad'ı yakalamak için harekete geçti. Biz de onlara destek saglayacağız, binin.
+Gaz: Hareket yok.
+SAS: Temiz görünüyor.
+Yüzbaşı Price: Sıraya girin.
+Yüzbaşı Price: Hedef önümüzdeki odada olmalı.
+Yüzbaşı Price: Bekleyin, işaretimle birlikte.
+Yüzbaşı Price: Flash bombası attim.
+Yüzbaşı Price: Rapor verin - herkes iyi mi?
+Gaz: Buradan güçlü sinyal alıyorum, efendim.
+Gaz: Buna bakmak isteyebilirsiniz.
+Yüzbaşı Price: Hmm... Bu Arap'larin işi...
+Yüzbaşı Price: Baseplate, burası Bravo Six. Aradığımızı bulduk. Taşımaya hazırız.
+Baseplate: Zamanımız yok, Bravo Six. İki adet tanımlanamayan hava aracı size doğru hızla yaklaşıyor. Toplayabildiğinizi toplayın, ve oradan çıkın!
+Gaz: Hızlılar, büyük olasılıkla MiG uçakları. Gitsek iyi olacak.
+Big Bird: Alpha Six, Big Bird yolda, tahmini varış vakti - 20 dakika. Geçikmeyin. Yakıtımız az. Tamam.
+Big Bird: Alpha Six, burası Big Bird. Sinyalinizi bekliyoruz, tamam.
+Big Bird: Alpha Six, yerinizi saptatık. Dayanın. Big Bird çıktı.
+Big Bird: Anlaşıldı Alpha, hemen geliyoruz. Dayanın.
+Big Bird: Alpha Ekibi, burası Big Bird. Binin haydi.
+Big Bird: Alpha Ekibi, iniş bölgesindeyiz. Bekliyoruz.
+Big Bird: Alpha Ekibi, indikl! Otuz saniyeniz var!
+Big Bird: Alpha Ekibi, yakıtımız bitiyor. Gidiyoruz.
+Yüzbaşı Price: Mac'in başı dertte! Soap! Kuzeydeki ahıra git ve şu tankları durdur! Ahırdaki Javelin'i kullan!
+Yüzbaşı Price: Mac'in başı dertte! Soap! Kuzeydeki ahıra git ve şu tankları durdur!
+Gaz: Soap! Javelin ahırda! Yürü
+Gaz: Javelinle hallet şunları! Haydi!
+Yüzbaşı Price: Millet beni takip edin! Çiftliğe geri çekiliyoruz. Gidelim.
+Yüzbaşı Price: Ahıra geri çekilin! Yürüyün!
+Yüzbaşı Price: Ahıra geri çekilin! Geride kalmak mı istiyorsunuz?
+Gaz: Geri çekiliin! Geri çekilin!
+Yüzbaşı Price: Çiftliğe geri çekilin. Gidelim.
+Yüzbaşı Price: Soap! Geride mi kalmak istiyorsun? Çiftliğe geri çekil. Yürü!
+Gaz: Soap! Bulunduğun yeri ele geçirecekler! Hemen geri çekil!
+Gaz: Çiftliğe geri çekilin! Gidelim!
+Yüzbaşı Price: Get to the bottom of the hill! Move move!
+Gaz: Geride kalacağız! İniş bölgesine ulaşmalıyız!
+Harrier Pilot: Bravo Six, burası Falcon One hava desteği isteğiniz için bekliyoruz, tamam.
+Harrier Pilot: Anlaşıldı.
+Harrier Pilot: Anlaşıldı, hava desteği için bekleyin.
+Asker: Ateş etme! Ateş etme! Arkadaş ekipler ikinci katta! Tekrar ediyorum, ikinci katta!
+Asker: Buradakiler olumsuz efendim.
+Asker: Al-Asad'dan bir iz yok!
+Asker: Dost takviyeleri geliyor!
+Asker: Ateş ettiğin yere dikkat et! Dostlarımız geliyor.
+Asker: Dostlarımız geliyorz! Ateş ettiğiniz yere dikkat edin!
+Asker: TV binası kitlendi ve binanın etrafı sarıldı efendim.
+Asker: Dostum, bu tamamen saçmaklık. Üç günde yedi baskın.
+Asker: Heh, iyi vurdun Griggs.
+Asker: Döngüdeymiş...Kayıttan yayın yapılıyormuş.
+Tğm. Vasquez: Jackson, buraya gel! 
+Tğm. Vasquez: Jackson, buraya gel, haydi!
+Asker: Temiz!
+Asker: Düşman! Üstgeçitte!
+Asker: Er West öldü! Er West öldü! Jackson, Javelin'i al!
+Asker: Jackson! Javelin'i al ve şu tankları yok et!
+Asker: Vur şu tankları! Hızlı ol!
+Asker: İyi vurdun!
+Asker: Pekala, bu sonuncusuydu.
+Asker: Tank üstgeçitin öteki tarafında! Hadi, ekiple buluşmalıyız!
+Asker: Anlaşıldı.
+Asker: Gece görüş gözlüklerini kapatıyorum.
+Asker: Düşmanlar etrafımızı sardılar! Sadece dördümüz kaldık, ama tank hâlâ sağlam!
+Asker: Jackson, bir C4 yerleştir, acele et!
+Asker: Güzel, şimdi güvenli bir yere gidelim.
+Asker: Burası iyi! Jackson - patlat!
+Asker: Have desteği nerede kaldı?
+Asker: Sağ taraaaf! Sağ taraftan hareket ediyorlar!
+Asker: Flash bombası atıyorum.
+Asker: Temizleyin.
+Asker: Bravo Six, this is Charlie Two Delta. We're comin' in from your left side at the far end. Hold your fire, we're almost at the door over.
+Asker: Ihlal, ihlal!
+Kilo Four Foxtrot: Bravo Six, üç kamyon dolusu düşman size doğru yaklaşıyor.
+Kilo Four Foxtrot: Bravo Six, burası Keskin Nişancı Takımı İki. Güney tarafından geliyoruz.
+Kilo Four Foxtrot: Bravo Six, Kilo-Four-Foxtrot. We're comin' outta the treeline to the south.
+Kilo Four Foxtrot: Hâlâ hayatta olduğunuzu görmek güzel. Siz içeri girene kadar size keskin nişanci de-bu koduğumun şeyi de ne böyle?
+Asker: We can't go this way, we gotta head right!
+Asker: Tamam, bekliyoruz.
+Asker: Anlaşıldı efendim.
+Asker: Düşman yok edildi.
+Asker: Ateş ettiğin yere dikkat et! İkinci kattayız.
+Tğm. Vasquez: İkinci kattaki yeşil sisin yanındaki arkadaş ekiplere dikkat edin! Adamlarımızı buradan çıkaralım haydi, kıpırdayın!
+Komuta: Outlaw Two-Five, yüzlerce düşman kaza alanına doğru ilerliyor. 90 saniye içinde kaza alanı yok olacaktır!
+Tğm. Vasquez: Tam 90 saniyemiz var Jackson! Pilotu al ve getir! KIMSEYİ geride bırakmam!
+Asker: Jackson! Pilotu al! Haydi!
+Asker: Jackson! Pilotu çıkar helikopterden! Haydi!
+Asker: Burada Al-Asad'dan bir iz yok efendim.
+Asker: Building center clear. No sign of the target.
+Asker: Dostlarımız ilerliyor!
+Asker: Burada değil.
+Asker: Gidelim! Sağ taraf! Yürüyün!
+Asker: Jackson, gidelim! Sağ tarafı tutmalıyız!
+Tğm. Vasquez: Gidelim Jackson, beni takip et!
+Tğm. Vasquez: Haydi Jackson, kıpırda! 
+Asker: İndir onu indir!
+Asker: Sağ olasın, sana borçlandım.
+Asker: İkinci kattayız, ateşinize dikkat edin.
+Asker: Emredersiniz, efendim!
+Asker: Düşman sol tarafta!
+Asker: Hava desteği olmadan binayı temizleyemeyiz! Jackson! Sinyali yerleştir!
+Asker: Düşman hava saldırısı! Hazırlanın! İki tarafımıza da iniş yapacaklar!
+Asker: Eğilin!
+Asker: İkinci takım iniyor.
+Asker: Yüzbaşı Price, Two-Yankee Six rapor veriyor. Güney tarafında ağır ateş altındayız. Giriş noktasında hapsolduk, tamam.
+Asker: Emredersiniz efendim. İkinci Takım ile birleşmek için geri çekiliyoruz. Tamam.
+Asker: Üçüncü Takım yerinde, hedefleme kontrolü odasının güneydoğusunda. Bekliyoruz. Duvara çok uzak mısınız?
+Asker: İlerliyoruz.
+Asker: Efendim, ekrana bir göz atın! Bu Zakhaev. O da -
+Asker: Efendim, ekrana bir göz atın! Bu Zakhaev. Buraya iniyor!
+Asker: Çvş. Jackson! Grab the pilot, we'll hold 'em off!
+Asker: Pull that pilot out of the cockpit while we cover you, Jackson! Move it!
+Asker: Hey check your fire! Friendlies at your six!
+Asker: Watch yourselves. This looks bad.
+Asker: Oda temiz!
+Asker: Kayıtmış.
+Tğm. Vasquez: Jackson! Bu taraftan!
+Tğm. Vasquez: Gece görüş gözlüklerinizi takın!
+Asker: Backblast area clear! Fire!
+Asker: Hedef yok edildi!
+Asker: İyi vurdun dostum!
+Asker: Gidelim!
+Asker: INCOMING!
+Team Three: Bravo Six, burası Saldırı Takımı Üç. Kuzeybatıdan geliyoruz. Tekrar ediyorum, kuzeybatıdan geliyoruz. Hedeflerinizi kontrol edin ve onaylayın, tamam.
+Team Three: Ekip, havalandırma kuyusunu açmak için biraz vakit tanıyın bize.
+Team Three: Üçüncü takım içerde.
+Team Three: Üçüncü takım iniyor.
+Tğm. Vasquez: Evet, yüzbaşım! Yeniden gruplanmadan önce gidelim.
+Tğm. Vasquez: İniş bölgesine gidin! Yürüyün!
+Asker: With you!
+Asker: Kafalar yukarı! Saat altı yönünde arkadaşlarımız var!
+Asker: Bravo Six, ağır ateş altındayız! Hangi cehennemdesiniz?!
+Asker: Burada durun! Düşman zırhlısı hareket halinde!
+Charlie Six: İkinci takım yerinde. Sizi bekliyoruz.
+Charlie Six: Charlie Six yerinde. Elektriğini kesmenizi bekliyoruz, tamam.
+Charlie Six: Anlaşıldı. İlerleyoruz. Bekleyin.
+Charlie Six: Bekleyin.
+Charlie Six: Tamam, içerdeyiz. Bravo Six, sizi bekliyoruz. Tamam.
+İkinci Keskin Nişancı Takımı: Bravo Six, İkinci Keskin Nişancı takımı yerinde. Sizi keskin nişancılarımızla koruyacağız.
+İkinci Keskin Nişancı Takımı: Burası İkinci Keskin Nişancı takımı. Fazla sayıda düşman geliyor. Size ulaşmadan onları gebertmeye çalışacağız, tamam.
+İkinci Keskin Nişancı Takımı: Konuşan İkinci Keskin Nişanci takımı. Kuzeyden gelen düşmanlar ve hafif zırhlı var. Size C4 ya da ağır silahlar kullanmanızı öğreniyorum.
+İkinci Keskin Nişancı Takımı: Bravo Six, iki helikopter size doğru yaklaşıyor. Gözden kaybolun, hemen!
+Nikolai: Evet - savaşabilirim de. Beni kurtardığınız için teşkkürler.
+Nikolai: Amerikalılar Al-Asad'a saldırıyorlar mı?
+Nikolai: Amerikalılar hata yapıyor. Al-Asad'ı asla canlı ele geçiremeyecekler.
+Russian Loyalist: Gidelim!
+Yüzbaşı Price: Soap, listeyi al.
+Yüzbaşı Price: Soap, konteynerdaki listeyi al. Acele et!
+Harrier Pilot: Hedef onaylandı. Hava saldırısı için bekleyin.
+Sea Knight Pilot: Bravo Six, burası Gryphon Two-Seven. Az önce Azerbaycan hava sahasını geçtik. Tahmini varış süresi alti dakika. Hazır olun.
+Sea Knight Pilot: Bravo Six, burası Gryphon Two-Seven. Az önce Azerbaycan hava sahasını geçtik. Tahmini varış süresi dört dakika. Hazır olun.
+Sea Knight Pilot: Bravo Six, aklınızda bulusun, neredeyse vardık ama yakıtımız. Sizsiz ayrılmadan önce üç dakikanız var, tamam.
+Sea Knight Pilot: Bravo Six, aklınızda bulunsun, ırmağın güneyine ineceğiz. Size hemen oradan sıvışmanızı öneririm. Tamam
+Sea Knight Pilot: İki dakikaniz kaldi!
+Russian Loyalist: Understood. Moving into position.
+Yüzbaşı Price: Soap, fazla vaktimiz yok!
+Yüzbaşı Price: Soap, harekete geçmeliyiz...
+Yüzbaşı Price: Pekala millet. Herkes tabana kuvvet!
+Yüzbaşı Price: Al şu listeyi!
+Sea Knight Pilot: Yaklaşıyorsunuz Bravo Six! Size en fazla iki dakika daha verebilirim, tamam!
+Sea Knight Pilot: Burası Gryphon Two-Seven. Yakıtımız bitiyor. Bir dakika içinde ayrılacağız!
+Sea Knight Pilot: Kalkışa bir dakika.
+Sea Knight Pilot: Otuz saniye.
+Yüzbaşı Price: Al şu listeyi de gidelim!
+Yüzbaşı Price: Wallcroft, Griffen, durumunuz nedir?
+Russian Loyalist: Al-Asad şu anda köyde. Onu aşırı milliyetçiler koruyor.
+Russian Loyalist: Aşırı milliyetçiler. Köylüleri öldürüyorlar.
+Sea Knight Pilot: Bravo Six, köyün kuzeyinde boş alana iniş yapmaya çalışacağız.
+Crew Chief: Ateş alıyoruz! 
+Crew Chief: We're goin down!  We're goin- 
+Sea Knight Pilot: This is Gryphon Two Five, we just lost our wingman. 
+Sea Knight Pilot: Bravo Six, iniş bölgesi yoğun ateş altında! İniş yapamayız! Tekrar ediyorum, iniş yapamayız! Dağlardan füze sinyali alıyoruz!
+Gaz: Bu harika oldu! Şimdi nereye inecekler?
+Havoc Pilot: Konuşan 2-5, hedef görüş alanımızda. Bekleyin.
+Havoc Pilot: Burası Mosin 2-5. Yoldayız. Hava desteği için bekleyin.
+Havoc Pilot: Helikopter yolda. Bununla ilgileniriz. Tamam.
+Havoc Pilot: Burası 2-5. Geri dönüp yakıt ve cephane almalıyız. Bir süreliğine size yardım edemeyeceğiz.
+Havoc Pilot: Burası Mosin 2-5. Saldırmaya hazırız, emirlerinizi bekliyoruz.
+Havoc Pilot: Burası 2-5. Yakıt ve cephane almaya gidiyoruz. Bekleyin.
+Havoc Pilot: Olumsuz, şu anda yakıt almaktayız. Bekleyin.
+Havoc Pilot: Şu anda cephane almaktayız. Bekleyin.
+Havoc Pilot: 2-5 beklemede. Saldırmaya hazırız.
+Sea Knight Pilot: This is Gryphon 2-5. Change of plans Bravo Six. Get your team to the bottom of the hill. We'll rendezvous with you at the low ground. You've got four minutes.
+Gaz: Dalga mı geçiyor bu? İniş bölgesi için geldiğimiz o kadar yolu bir de geri mi döneceğiz?!
+Yüzbaşı Price: Zararı yok, Gaz! Yeni iniş bölgesine ulaşmalıyız! Haydi! Soap! Bir noktayı al! Gidelim!
+Romeo One-One: Gövde patlayacak, eğilin!
+Romeo One-One: Ateş ettiğiniz yere dikkat edin. Bir sivil arıyoruz.
+Romeo One-One: Watch your fire up here. We need Kriegler alive.
+Romeo One-One: Get that door open!
+SAS: Helikopterdeyiz, efendim. Düşman uçağı görünürde...Lanet olsun! Ateş açtılar! Çabuk çıkın oradan! Hemen!
+SAS: Already in the helo sir! I've got a visual on the MiGs! Shit! Missles inbound get out of there!
+Big Bird: Bravo Six! Cevap ver! Bravo Six, durumunuz nedir?
+SAS: Lanet olsun! O da neydi öyle!
+Gaz: Gemi batıyor! Hemen gitmeliyiz!
+Big Bird: Bravo Six, lanet olsun, cevap verin!
+Yüzbaşı Price: Big Bird, burası Bravo Six. Çıkışa doğru ilerliyoruz. Ayağa kalk, asker! Buradan gidiyoruz!
+Yüzbaşı Price: Ayağa kalk asker, gidiyoruz!
+Yüzbaşı Price: İskeleye doğru ilerleyin! Yürüyün!
+Big Bird: Cevap ver Bravo Six, hangi cehennemdesiniz?!
+Yüzbaşı Price: Bekleyin. Neredeyse geldik.
+Gaz: Devam edin!
+Yüzbaşı Price: Ayağa kalk! Yürü!
+Gaz: Zamanımız tükeniyor, gidelim!
+SAS: Haydi, gidelim!
+Gaz: Devriliyor!
+SAS: Başına dikkat et.
+Yüzbaşı Price: Haydi, haydi!
+Big Bird: Move it Bravo Six, it's getting choppy out here!
+Yüzbaşı Price: It ain't a walk in the park down here either! Standby!
+Gaz: Borulara dikkat edin!
+Yüzbaşı Price: Koşmaya devam edin!
+SAS: Ne taraftan?! Helikoptere ne taraftan gidiliyor?!
+Yüzbaşı Price: Sağ taraftan, sağ!
+Gaz: Koca kıçlarınızı oynatın biraz! Acele edin!
+SAS: Tangos moving in behind us!
+SAS: Yukarı bakın! Helikopterler!
+SAS: Çatı katında roketatarlı düşmanlar!
+SAS: Helikopter! Tam karşımızda.
+SAS: The left gate is blocked! Go right! Head over to the right side! Move!
+SAS: Şu zırhlı bizi gebertecek! C4!'ünü kullan!
+Yüzbaşı Price: Anlaşıldı, geliyoruz!
+Yüzbaşı Price: They can't land on the high ground without getting shot down! We've got to get to the bottom of the hill!
+Gaz: Nerede bu kodumunun şeyi?!
+SAS: Atlayın!
+Yüzbaşı Price: Yakaladım seni!
+Yüzbaşı Price: Hepimiz bindik! Gidelim!
+SAS: Efendim, kuzeyden araçlar geliyor.
+SAS: Çok sessiz...hangi cehenneme gitti bunlar?
+SAS: Temas.
+SAS: Hedef yok edildi.
+SAS: Oda temiz.
+SAS: İkinci bina güvende.
+SAS: Yukarıya dikkat! Çatıdaki roketatarlılara dikkat edin
+SAS: Hazır!
+SAS: Charges placed! We're blowing the BMP! Take cover! Move Move!
+SAS: The northeast gate is blocked! We gotta cut to the right!
+SAS: We can't go this way, we gotta head right!
+SAS: This way is blocked! Go right! Head over to the right side! Move!
+SAS: Hâlâ sağlam! Bir daha ateş et! 
+SAS: Tank yok oldu. İyi vurdun.
+SAS: Lanet olsun, bu seferki yakındı.
+SAS: MacMillan nerede?!
+Sea Knight Pilot: Bravo Six, çok sayıda düsman sinyali alıyoruz, herhangi bir füze ihtimaline karşı tepenin aşağısına inmeye çalışacağız.
+Gaz: Gidelim! Bayır aşağı!
+Gaz: Tahliye noktasına gidelim, haydi!
+Gaz: Hallediyoruz!
+Gaz: Coming through! Coming through!
+Yüzbaşı Price: Anlaşıldı, yoldayız! İniş bölgesine ulaşabilmek için düşmanların hattından geçmeliyiz! Koşmaya devam edin!
+Sea Knight Pilot: Bravo Six, we're gonna try and touch down at the eastern tip of the village.
+Sea Knight Pilot: Bravo Six, be advised we are low on fuel. You guys have three minutes before we have to leave without you.
+Yüzbaşı Price: Anlaşıldı Two-Seven! Millet - iniş bölgesine ilerliyelim! Bu son şansımız! Kıpırdayın!
+Sea Knight Pilot: Two minutes people! We're already takin' some fire.
+Sea Knight Pilot: Kalkışa doksan saniye.
+Sea Knight Pilot: This is Gryphon Two-Seven. We're at bingo fuel. We gotta leave in one minute.
+SAS: Ah! I'm hit! Bloody hell I'm hit!
+SAS: Düşman görünürde.
+SAS: Dropped him.
+SAS: Bekliyoruz!
+SAS: Koruyun beni! Kapıyı patlatacağım!
+SAS: Bombalar kuruldu! Geri çekilin, geri çekilin!
+SAS: Bomba!
+Romeo One-One: We're goin' for a little freefall Kriegler - on your feet...
+Echo One-One: Let's go! Let's go! Out the door before this thing blows!
+Romeo One-One: We're goin' deep......and we're goin' hard.
+Romeo One-One: Watch your fire up here. We need the VIP alive!
+Romeo One-One: We're goin' for a little freefall mate! On your feet! 
+Big Bird: Anlaşıldı, buradan gidiyoruz.
+Big Bird: Baseplate, burası Big Bird. Paket güvende, üsse geri dönüyoruz. Tamam.
+SAS: Bu S.Y.A. efendim.
+SAS: Üstune fazla gitmeyin efendim, bu onun alaydaki ilk günü.
+Gaz: We've got a man down! He's still alive! He's activated his transponder!
+SAS: Forget about me! You won't make it back in time! Just go!
+Çvş. Kamarov: It's all right. It is the SAS. Welcome to the new Russia, Yüzbaşı Price.
+Çvş. Kamarov: Yeni Rusya'ya hos geldiniz, Yüzbaşı Price.
+Çvş. Kamarov: Size keskin nişancı desteği için ihtiyacım var.
+Çvş. Kamarov: Tepenin diğer tarafında aşırı milliyetçilerin BM21'leri var. Attıkları roketler aşağıdaki kasabadan bir sürü insani öldürdü.
+Çvş. Kamarov: In return, we will give you the location of your informant.
+Çvş. Kamarov: Da. This way.
+Çvş. Kamarov: Hm... Sanırım size borçluyum.
+Çvş. Kamarov: You should be able to find a good vantage point down that path. Go. Be ready.
+Çvş. Kamarov: Bu taraftan. Adamlarımı koruyabileceğiniz güzel bir yer biliyorum.
+Çvş. Kamarov: Vanya, standby to attack. Sniper team, report.
+Çvş. Kamarov: Herkes atağa başlasın!
+Çvş. Kamarov: Yüzbaşı Price, we have an enemy helicopter circling around to the east. Can you hold them off?
+Çvş. Kamarov: Hasiktir, düşman helikopterleri!
+Çvş. Kamarov: Olmayacağını da söylememiştim. Adamlarımı helikopter birliklerinden korumalıyız. Bu taraftan!
+Çvş. Kamarov: Endişelenmene gerek yok. BM21'leri halledip patika boyunca muhbiriniz için savaşacağız, Yüzbaşı Price.
+Çvş. Kamarov: Yüzbaşı Price, adamlarıma ağır direniş var. Bana uçurumun kenarından destek için yardım edin.
+Çvş. Kamarov: O zaman bize yardim edin ki, adamlarım kasabayı ele geçirsin, böylelikle de muhbirinizi kurtaralım!
+Çvş. Kamarov: Güzel! Şimdi ilerleme kaydediyoruz. Beni elektrik santreline kadar takip edin.
+Çvş. Kamarov: Bakın. Son darbe çoktan başladı. Biraz daha keskin nişancı desteğinizle kazanacağımızdan eminiz. Yüzbaşı Price, sizden--
+Çvş. Kamarov: Ne yapıyorsun - aklını mı kaçırdın sen?
+Çvş. Kamarov: Evde... kuzeydoğuda, köyün sonunda! 
+Çvş. Kamarov: Very well. Your informant is being held in the house at the northeast end of the village. Dead or alive you will find him there. Good luck.
+Çvş. Kamarov: Bravo takımı, ben Çavuş Kamarov. Durumunuzu anlıyorum ve adamlarınızın yardıma ihtiyacı olduğunu düşünüyorum.
+Çvş. Kamarov: Beklemede kalın, yaklaşık üç dakika içerisinde orada olacağız. Kamarov çıktı.
+Çvş. Kamarov: Baseplate, this is Çvş. Kamarov. I see at least one survivor. I'm sending a medevac to pick him up.
+Çvş. Newcastle: Ok, follow me.
+Çvş. Newcastle: It's time for some fun with demolitions, mate.
+Çvş. Newcastle: Pick up those frag grenades and get in the safety pit.
+Çvş. Newcastle: Get in the safety pit Soap.
+Çvş. Newcastle: No, get back in the safety pit.
+Çvş. Newcastle: Soap, stay in the pit.
+Çvş. Newcastle: Now throw a grenade into windows two, three and four.
+Çvş. Newcastle: Windows two, three and four, Soap.
+Çvş. Newcastle: Good, now two and three.
+Çvş. Newcastle: Good, now two and four.
+Çvş. Newcastle: Good, now three and four.
+Çvş. Newcastle: Now window two.
+Çvş. Newcastle: Now window three.
+Çvş. Newcastle: Now window four.
+Çvş. Newcastle: If you're out of grenades, come back around the corner and get some more.
+Çvş. Newcastle: Go pick up some more grenades from the table.
+Çvş. Newcastle: These things are heavy! You'll need to aim above your target.
+Çvş. Newcastle: Where do you think you're going?!
+Çvş. Newcastle: Come back you idiot!
+Çvş. Newcastle: Now let's try something with a little more...boom. I don't know how much experience you've got with demolitions, so just do as I say, all right?
+Çvş. Newcastle: Come back here and pick up this grenade launcher.
+Çvş. Newcastle: Come back around the corner and pick up a grenade launcher from the table where you got the frag grenades.
+Çvş. Newcastle: Notice you now have an icon of a grenade launcher on your HUD.
+Çvş. Newcastle: Now get back into the safety pit.
+Çvş. Newcastle: Equip the grenade launcher.
+Çvş. Newcastle: Fire at the wall with the number one on it.
+Çvş. Newcastle: Notice it didn't explode.
+Çvş. Newcastle: As you know, all grenade launchers have a minimum safe arming distance.
+Çvş. Newcastle: The grenade wont explode unless it travels that distance.
+Çvş. Newcastle: Right. Now pop a grenade into windows, five, six, and seven.
+Çvş. Newcastle: Now switch away from the grenade launcher.
+Çvş. Newcastle: Good. Come over here and pick up this C4.
+Çvş. Newcastle: Follow me.
+Çvş. Newcastle: Come back around and pick up some C4 off the table.
+Çvş. Newcastle: Notice you now have a C4 icon on your HUD.
+Çvş. Newcastle: The d-pad icon shows you what equipment you have in your inventory.
+Çvş. Newcastle: The d-pad icons show you what equipment you have in your inventory.
+Çvş. Newcastle: These HUD icons show you what equipment you have in your inventory.
+Çvş. Newcastle: This equipment will change from mission to mission so be sure to keep an eye out for new gear.
+Çvş. Newcastle: Now equip the C4, Soap.
+Çvş. Newcastle: Equip the C4, Soap.
+Çvş. Newcastle: Notice that your HUD changes to show you what inventory item you have equipped.
+Çvş. Newcastle: It seems my ex-wife was kind enough to donate her car to furthering your education Soap.
+Çvş. Newcastle: It seems my ex-wife was kind enough to donate her antique furniture to furthering your education Soap.
+Çvş. Newcastle: Place the C4 on the indicated spot.
+Çvş. Newcastle: When planting C4 is your objective, you will see a glowing marker in the world that indicates where to plant it.
+Çvş. Newcastle: You can also throw C4.
+Çvş. Newcastle: Throw some C4 on the car.
+Çvş. Newcastle: Throw some C4 on the furniture.
+Çvş. Newcastle: Go get some more C4 from the table.
+Çvş. Newcastle: Now come over here behind the safety wall.
+Çvş. Newcastle: Now get to a safe distance from the explosives.
+Çvş. Newcastle: Fire in the hole!
+Çvş. Newcastle: Much improved.
+Çvş. Newcastle: All right Soap, you passed the weapons evaluation. 
+Çvş. Newcastle: Now report to Mac on the obstacle course.
+Çvş. Newcastle: I'm sure he'll be thrilled to see you.
+Bçvş. Newcastle: Good luck!
+Bçvş. Griggs: Bölge temiz.
+Bçvş. Griggs: Who said there's no such thing as a black russian...
+Bçvş. Griggs: Dostum, o kıyafetlerin içinde çok gülünç duruyorsun.
+Bçvş. Griggs: Kuleye çarpacak! Sıkı tutun!
+Bçvş. Griggs: Sakin ol oğlum.
+Bçvş. Griggs: Soap. Saat altı yönündekiler dostlarımız.
+Bçvş. Griggs: Anlaşıldı! Soap! Soldaki dar yoldan geç!
+Bçvş. Griggs: Soap! Bu tarafa!
+Bçvş. Griggs: Soap! Devam etmeliyiz! Hedef kaçıyor!
+Bçvş. Griggs: Haydi, hedef kaçıyor! 
+Bçvş. Griggs: Çatı katında hareketlilik, anlaşıldı!
+Bçvş. Griggs: Çöp konteynırın yanında düşman, anlaşıldı!
+Bçvş. Griggs: Across the parking lot to the five story building, copy that! Movin'!
+Bçvş. Griggs: Sakin ol...sakin...
+Bçvş. Griggs: Ayağına ateş edebilirim efendim!
+Bçvş. Griggs: Hay sokayım...çocuğun ciddi problemleri vardı...
+Bçvş. Griggs: Ateş etmeyin! Dostlarımız geliyor!
+Bçvş. Griggs: Al-Asad'dan hiç bir iz yok efendim.
+Bçvş. Griggs: Arkana dikkat et, Devil Dog.
+Bçvş. Griggs: Sanırım içeride. Onu duyuyorum.
+Bçvş. Griggs: İşte bu... Bir puan askeri zeka için!
+Bçvş. Griggs: Anlaşıldı. Bende daha iyi bir şey var.
+Bçvş. Griggs: Efendim, tonlarca düşman var.
+Bçvş. Griggs: Anlaşıldı. BASKI ATEŞİ!
+Bçvş. Griggs: Get that fence open.
+Bçvş. Griggs: Ekip, tankta bir araya gelin!
+Bçvş. Griggs: Geri çekiliyorlar! Dikkatli olun, tuzak olabilir!
+Bçvş. Griggs: Tam vaktinde geldiniz... Beni bıraktığınız sandıydım.
+Bçvş. Griggs: İyiyim.
+Bçvş. Griggs: Bombalar yerleştirildi. Herkes uzaklaşsın!
+Bçvş. Griggs: Elektrik on saniye içinde geri gelecek...
+Bçvş. Griggs: Beş saniye...
+Bçvş. Griggs: Elektrik geri geldi. Bu seferki yakındı!
+Bçvş. Griggs: Burası yakında fena kızışaçak...
+Bçvş. Griggs: Ah, burada bir sorunumuz var!
+Bçvş. Griggs: Bir tane daha ateşlendi!
+Bçvş. Griggs: Vakit geldi, Yüzbaşı.
+Bçvş. Griggs: Sıkı tutunun!
+Bçvş. Griggs: Tank arkamızda!
+Bçvş. Griggs: Tank sağımızda!
+Bçvş. Griggs: Tank solumuzda!
+Bçvş. Griggs: Tank önümüzde!
+Bçvş. Griggs: Helikopter, arkamızda!
+Bçvş. Griggs: Helikopter sol tarafta!
+Bçvş. Griggs: Helikopter sağ tarafta!
+Bçvş. Griggs: Helikopter önümüzde!
+Bçvş. Griggs: Bir roketatar al ve helikopteri indir!
+Bçvş. Griggs: Ateş et helikoptere! Ateş!
+Bçvş. Griggs: Kamyonda roketatarlı! Ateş açın!
+Bçvş. Griggs: Roketatarlı! İndir şunu!
+Bçvş. Griggs: Şu kamyonda başka bir roketatarlı.
+Bçvş. Griggs: Roketatarlı düşman! İndir onu!
+Bçvş. Griggs: Düşman kamyonu arkamızda!
+Bçvş. Griggs: Düşman kamyonu saat 3 yönünde!
+Bçvş. Griggs: Düşman kamyonu saat 9 yönüne kayıyor!
+Bçvş. Griggs: Düşman kamyonu, tam karşımızda!
+Bçvş. Griggs: Vurdun!
+Bçvş. Griggs: İyi atış!
+Bçvş. Griggs: Başarılı!
+Bçvş. Griggs: Devastation!
+Bçvş. Griggs: Evet - hasiktir, köprüyü çökertecek!
+Bçvş. Griggs: Köprü çökmek üzere! Çabuk çıkın oradan!
+Bçvş. Griggs: Griggs iyi! Gidelim!
+Bçvş. Griggs: Tanker batlamak üzere! Kaçın!
+Bçvş. Griggs: Those REMF's are cuttin' us loose again!
+Bçvş. Griggs: Destek gerekiyor efendim!
+Bçvş. Griggs: Korunmalıyız! Herkes saklansın!
+Bçvş. Griggs: Kurşunlar ve el bombaları işe yaramaz! Roket ya da C4 kullanmalıyız!
+Bçvş. Griggs: Daha fazla tank!
+Bçvş. Griggs: Tankları yok etmeliyiz!
+Bçvş. Griggs: Patlayıcıyı yerleştirebilmek için tanka yaklaşmalısın!
+Bçvş. Griggs: Geliyor!
+Bçvş. Griggs: Zamanımız tükeniyor. Gitmeliyiz
+Bçvş. Griggs: On dakikamız kaldı.
+Bçvş. Griggs: Sekiz dakikamız kaldı.
+Bçvş. Griggs: Altı dakikamız kaldı.
+Bçvş. Griggs: Beş dakika...
+Bçvş. Griggs: Dört dakika...
+Bçvş. Griggs: Üç dakika...
+Bçvş. Griggs: Efendim, neler oluyor? Ne konuşuyorlar?
+Bçvş. Griggs: Oh, dalga geçiyor olmalısın.
+Bçvş. Griggs: Flash bombası hazır. Peki ya sen hazır mısın?
+Bçvş. Griggs: Flash bombası attım.
+Bçvş. Griggs: Patlamaya hazırım.
+Bçvş. Griggs: Breaching breaching.
+Bçvş. Griggs: Temiz!
+Bçvş. Griggs: Misafirlerimiz var! Düşman birlikleri geliyor!
+Bçvş. Griggs: Anlarsınız efendim, Zakhaev'i vursaydım fena olmazdı.
+Bçvş. Griggs: Adamı duydunuz! Kıpıdayın!
+Sea Knight Pilot: Gidiyoruz.
+SAS: Siz borçlandım, dostlar. Beni kurtardığınız için teşekkürler.
+Sea Knight Pilot: Baseplate burası Gryphon Two-Seven. Onları aldık ve eve dönüyoruz. Tamam.
+Bçvş. Griggs: Bir uçağa ihtiyacınız olduğunu duydum!
+Gaz: Are we ever glad to see you!
+Bçvş. Griggs: Binin haydi! Gidelim!
+Bçvş. Griggs: Gidelim!
+Bçvş. Griggs: Hepimiz bindik! Gidelim!
+İkinci Keskin Nişancı Takımı: ^Halletim. Tam beyinden.
+İkinci Keskin Nişancı Takımı: İkinci Keskin Nişancı takımı, arkanızı kolluyoruz.
+İkinci Keskin Nişancı Takımı: Vurdum.
+İkinci Keskin Nişancı Takımı: This is sniper team two...target down.
+İkinci Keskin Nişancı Takımı: Got him. We'll try to keep you covered from out here Bravo Six.
+İkinci Keskin Nişancı Takımı: İndirdim. Tam beyinden.
+Kamarov: İyileşeceksin dostum!
+"When you have to kill a man it costs nothing to be polite." - Winston Churchill
+"Battles are won by slaughter and maneuver. The greater the general, the more he contributes in maneuver, the less he demands in slaughter." - Winston Churchill
+"History will be kind to me for I intend to write it." - Winston Churchill
+"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+"We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." - Winston Churchill
+"When you get to the end of your rope, tie a knot and hang on." - Franklin D. Roosevelt
+"A hero is no braver than an ordinary man, but he is brave five minutes longer." - Ralph Waldo Emerson
+"Our greatest glory is not in never failing, but in rising up every time we fail." - Ralph Waldo Emerson
+"The characteristic of genuine heroism is its persistency. All men have wandering impulses, fits and starts of generosity. But when you have resolved to be great, abide by yourself, and do not weakly try to reconcile yourself with the world. The heroic cannot be the common, nor the common the heroic." - Ralph Waldo Emerson
+"If the opposition disarms, well and good. If it refuses to disarm, we shall disarm it ourselves." - Joseph Stalin
+"The object of war is not to die for your country but to make the other bastard die for his." - General George S. Patton
+"Better to fight for something than live for nothing." - General George S. Patton
+"Courage is fear holding on a minute longer." - General George S. Patton
+"It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived." - General George S. Patton
+"Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another." - Ernest Hemingway
+"All wars are civil wars, because all men are brothers." - Francois Fenelon
+"I have never advocated war except as a means of peace." - Ulysses S. Grant
+"We happy few, we band of brothers/For he today that sheds his blood with me/Shall be my brother." - William Shakespeare, King Henry V
+"Cowards die many times before their deaths; The valiant never taste of death but once." - William Shakespeare, Julius Caesar
+"Never interrupt your enemy when he is making a mistake." - Napoleon Bonaparte
+"There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever." - Thomas A. Edison
+""There are no atheists in foxholes" isn't an argument against atheism, it's an argument against foxholes." - James Morrow
+"If we don't end war, war will end us." - H. G. Wells
+"Live as brave men; and if fortune is adverse, front its blows with brave hearts." - Cicero
+"Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." - John Quincy Adams
+"Courage is being scared to death - but saddling up anyway." - John Wayne
+"Above all things, never be afraid. The enemy who forces you to retreat is himself afraid of you at that very moment." - Andre Maurois
+"I have never made but one prayer to God, a very short one: 'O Lord, make my enemies ridiculous.' And God granted it." - Voltaire
+"Safeguarding the rights of others is the most noble and beautiful end of a human being." - Kahlil Gibran, "The Voice of the Poet"
+"He conquers who endures." - Persius
+"It is better to die on your feet than to live on your knees!" - Emiliano Zapata
+"You know the real meaning of peace only if you have been through the war." - Kosovar
+"Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them." - Franklin D. Roosevelt
+"In war there is no substitute for victory." - General Douglas MacArthur
+"War is a series of catastrophes which result in victory." - Georges Clemenceau
